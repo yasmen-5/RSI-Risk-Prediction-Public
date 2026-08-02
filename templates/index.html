@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Programmer RSI Risk Prediction</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-inner">
+    <div class="brand">
+      <span class="brand-mark">RSI</span>
+      <div class="brand-text">
+        <span class="brand-title">Programmer RSI Risk Prediction</span>
+        <span class="brand-sub">From daily work habits to early warning — before chronic injuries develop</span>
+      </div>
+    </div>
+
+    <nav class="tabs" id="tabs">
+      <button class="tab active" data-tab="prediction">Prediction</button>
+      <button class="tab" data-tab="history">History</button>
+      <button class="tab" data-tab="tips">Tips</button>
+    </nav>
+
+    <div class="topbar-actions">
+      <button class="icon-btn" id="theme-toggle" title="Toggle theme" type="button">
+        <svg id="theme-icon-dark" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 3a9 9 0 1 0 9 9c0-.46-.04-.92-.1-1.36a5.4 5.4 0 0 1-7.54-7.54c-.44-.06-.9-.1-1.36-.1z"/></svg>
+        <svg id="theme-icon-light" viewBox="0 0 24 24" width="18" height="18" class="hidden"><path fill="currentColor" d="M12 4V2m0 20v-2M4 12H2m20 0h-2M5.6 5.6 4.2 4.2m15.6 15.6-1.4-1.4M5.6 18.4 4.2 19.8M18.4 5.6l1.4-1.4M12 7a5 5 0 1 0 0 10 5 5 0 0 0 0-10z"/></svg>
+      </button>
+      <button class="export-btn" id="export-btn" type="button">
+        <svg viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M12 3v10.6l3.3-3.3 1.4 1.4L12 17.4l-4.7-4.7 1.4-1.4 3.3 3.3V3h2zM5 19h14v2H5v-2z"/></svg>
+        Export Report
+      </button>
+    </div>
+  </div>
+</header>
+
+<main class="layout">
+
+  <div class="view active" id="view-prediction">
+    <div class="grid-2">
+
+      <section class="panel form-panel">
+        <div class="panel-head">
+          <h2>Enter Your Daily Habits</h2>
+          <p class="panel-desc">Fill in your typical daily routine</p>
+        </div>
+
+        <form id="rsi-form" class="form-grid" autocomplete="off">
+
+          <div class="field slider-field span-1">
+            <label for="DailySittingHours"><svg class="ico" viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M6 4h2v9H6zM16 13a3 3 0 0 1 3 3v4h-2v-4a1 1 0 0 0-1-1h-4v5H10v-7h6z"/></svg> Daily Sitting Hours</label>
+            <div class="slider-row">
+              <input type="range" id="DailySittingHours" name="DailySittingHours" min="{{ numeric_ranges.DailySittingHours.min }}" max="{{ numeric_ranges.DailySittingHours.max }}" step="{{ numeric_ranges.DailySittingHours.step }}" value="{{ numeric_ranges.DailySittingHours.default }}">
+              <output for="DailySittingHours" id="DailySittingHours-out">{{ numeric_ranges.DailySittingHours.default }}</output>
+            </div>
+            <div class="slider-scale"><span>{{ numeric_ranges.DailySittingHours.min }}</span><span>hours</span><span>{{ numeric_ranges.DailySittingHours.max }}</span></div>
+          </div>
+
+          <div class="field slider-field span-1">
+            <label for="BreakCountPerDay"><svg class="ico" viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M18 8h1a3 3 0 0 1 0 6h-1v1a4 4 0 0 1-4 4H8a4 4 0 0 1-4-4V6h14v2zm0 2v2h1a1 1 0 0 0 0-2h-1z"/></svg> Breaks Per Day</label>
+            <div class="slider-row">
+              <input type="range" id="BreakCountPerDay" name="BreakCountPerDay" min="{{ numeric_ranges.BreakCountPerDay.min }}" max="{{ numeric_ranges.BreakCountPerDay.max }}" step="{{ numeric_ranges.BreakCountPerDay.step }}" value="{{ numeric_ranges.BreakCountPerDay.default }}">
+              <output for="BreakCountPerDay" id="BreakCountPerDay-out">{{ numeric_ranges.BreakCountPerDay.default }}</output>
+            </div>
+            <div class="slider-scale"><span>{{ numeric_ranges.BreakCountPerDay.min }}</span><span>breaks</span><span>{{ numeric_ranges.BreakCountPerDay.max }}</span></div>
+          </div>
+
+          <div class="field slider-field span-1">
+            <label for="YearsExperience"><svg class="ico" viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M8 3h8l-1 4h2l1 4-4 1v9h-4v-9l-4-1 1-4h2L8 3z"/></svg> Programming Experience</label>
+            <div class="slider-row">
+              <input type="range" id="YearsExperience" name="YearsExperience" min="{{ numeric_ranges.YearsExperience.min }}" max="{{ numeric_ranges.YearsExperience.max }}" step="{{ numeric_ranges.YearsExperience.step }}" value="{{ numeric_ranges.YearsExperience.default }}">
+              <output for="YearsExperience" id="YearsExperience-out">{{ numeric_ranges.YearsExperience.default }}</output>
+            </div>
+            <div class="slider-scale"><span>{{ numeric_ranges.YearsExperience.min }}</span><span>years</span><span>{{ numeric_ranges.YearsExperience.max }}</span></div>
+          </div>
+
+          <div class="field slider-field span-1">
+            <label for="SleepHours"><svg class="ico" viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M12.3 3a9 9 0 1 0 8.7 12.5 7.2 7.2 0 0 1-8.7-12.5z"/></svg> Sleep Hours</label>
+            <div class="slider-row">
+              <input type="range" id="SleepHours" name="SleepHours" min="{{ numeric_ranges.SleepHours.min }}" max="{{ numeric_ranges.SleepHours.max }}" step="{{ numeric_ranges.SleepHours.step }}" value="{{ numeric_ranges.SleepHours.default }}">
+              <output for="SleepHours" id="SleepHours-out">{{ numeric_ranges.SleepHours.default }}</output>
+            </div>
+            <div class="slider-scale"><span>{{ numeric_ranges.SleepHours.min }}</span><span>hours</span><span>{{ numeric_ranges.SleepHours.max }}</span></div>
+          </div>
+
+          <div class="field slider-field span-1">
+            <label for="Age"><svg class="ico" viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M12 12a5 5 0 1 0 0-10 5 5 0 0 0 0 10zm0 2c-4.4 0-8 2.2-8 5v2h16v-2c0-2.8-3.6-5-8-5z"/></svg> Age</label>
+            <div class="slider-row">
+              <input type="range" id="Age" name="Age" min="{{ numeric_ranges.Age.min }}" max="{{ numeric_ranges.Age.max }}" step="{{ numeric_ranges.Age.step }}" value="{{ numeric_ranges.Age.default }}">
+              <output for="Age" id="Age-out">{{ numeric_ranges.Age.default }}</output>
+            </div>
+            <div class="slider-scale"><span>{{ numeric_ranges.Age.min }}</span><span>years</span><span>{{ numeric_ranges.Age.max }}</span></div>
+          </div>
+
+          <div class="field slider-field span-1">
+            <label for="TypingHoursPerDay"><svg class="ico" viewBox="0 0 24 24" width="15" height="15"><path fill="currentColor" d="M4 6h16v12H4zm2 2v2h2V8zm4 0v2h2V8zm4 0v2h2V8zm-8 4v2h8v-2z"/></svg> Typing Hours Per Day</label>
+            <div class="slider-row">
+              <input type="range" id="TypingHoursPerDay" name="TypingHoursPerDay" min="{{ numeric_ranges.TypingHoursPerDay.min }}" max="{{ numeric_ranges.TypingHoursPerDay.max }}" step="{{ numeric_ranges.TypingHoursPerDay.step }}" value="{{ numeric_ranges.TypingHoursPerDay.default }}">
+              <output for="TypingHoursPerDay" id="TypingHoursPerDay-out">{{ numeric_ranges.TypingHoursPerDay.default }}</output>
+            </div>
+            <div class="slider-scale"><span>{{ numeric_ranges.TypingHoursPerDay.min }}</span><span>hours</span><span>{{ numeric_ranges.TypingHoursPerDay.max }}</span></div>
+          </div>
+
+          <div class="field span-2">
+            <label>Pain Level (Now)</label>
+            <div class="btn-group four" data-input="PainLevel" data-map='{"None":0,"Mild":3,"Moderate":6,"Severe":9}'>
+              <button type="button" class="opt-btn active" data-value="None"><span class="emoji">🙂</span>None</button>
+              <button type="button" class="opt-btn" data-value="Mild"><span class="emoji">😐</span>Mild</button>
+              <button type="button" class="opt-btn" data-value="Moderate"><span class="emoji">😕</span>Moderate</button>
+              <button type="button" class="opt-btn" data-value="Severe"><span class="emoji">😣</span>Severe</button>
+            </div>
+          </div>
+
+          <div class="field span-1">
+            <label>Sitting Posture</label>
+            <div class="btn-group two" data-input="Posture">
+              <button type="button" class="opt-btn active" data-value="Good">🪑 Good</button>
+              <button type="button" class="opt-btn" data-value="Poor">😣 Poor</button>
+            </div>
+          </div>
+
+          <div class="field span-1">
+            <label>Does Stretching</label>
+            <div class="btn-group two" data-input="DoesStretching">
+              <button type="button" class="opt-btn" data-value="No">🚫 Never</button>
+              <button type="button" class="opt-btn active" data-value="Yes">🤸 Regularly</button>
+            </div>
+          </div>
+
+          <div class="field span-1">
+            <label>Keyboard Type</label>
+            <div class="btn-group two" data-input="KeyboardType">
+              <button type="button" class="opt-btn active" data-value="Standard">⌨️ Standard</button>
+              <button type="button" class="opt-btn" data-value="Ergonomic">🖮 Ergonomic</button>
+            </div>
+          </div>
+
+          <div class="field span-1">
+            <label>Gender</label>
+            <div class="btn-group two" data-input="Gender">
+              <button type="button" class="opt-btn active" data-value="Male">♂ Male</button>
+              <button type="button" class="opt-btn" data-value="Female">♀ Female</button>
+            </div>
+          </div>
+
+          <div class="field span-1">
+            <label>Device Type</label>
+            <div class="btn-group two" data-input="DeviceType">
+              <button type="button" class="opt-btn" data-value="Desktop">🖥 Desktop</button>
+              <button type="button" class="opt-btn active" data-value="Laptop">💻 Laptop</button>
+            </div>
+          </div>
+
+          <div class="field span-1">
+            <label>Job Role</label>
+            <div class="btn-group four small" data-input="JobRole">
+              <button type="button" class="opt-btn" data-value="Student">🎓 Student</button>
+              <button type="button" class="opt-btn active" data-value="Junior Dev">🧑‍💻 Junior</button>
+              <button type="button" class="opt-btn" data-value="Senior Dev">🧑‍💼 Senior</button>
+              <button type="button" class="opt-btn" data-value="Freelancer">🧳 Freelancer</button>
+            </div>
+          </div>
+
+          <input type="hidden" id="PainLevel" name="PainLevel" value="3">
+          <input type="hidden" id="Posture" name="Posture" value="Good">
+          <input type="hidden" id="DoesStretching" name="DoesStretching" value="Yes">
+          <input type="hidden" id="KeyboardType" name="KeyboardType" value="Standard">
+          <input type="hidden" id="Gender" name="Gender" value="Male">
+          <input type="hidden" id="DeviceType" name="DeviceType" value="Laptop">
+          <input type="hidden" id="JobRole" name="JobRole" value="Junior Dev">
+
+          <button type="submit" class="submit-btn span-2" id="submit-btn">
+            <span class="btn-label">Predict My Risk</span>
+            <svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M13 5l7 7-7 7-1.4-1.4L16.2 13H4v-2h12.2l-4.6-4.6L13 5z"/></svg>
+          </button>
+          <p class="privacy-note span-2">🔒 Your data is used only for risk prediction and is not stored on any server.</p>
+        </form>
+      </section>
+
+      <section class="panel result-panel">
+        <div class="panel-head">
+          <h2>Your Risk Result</h2>
+        </div>
+
+        <div id="result-empty" class="result-empty">
+          <div class="pulse-dot"></div>
+          <p>Fill in your habits and press "Predict My Risk" to see your result here.</p>
+        </div>
+
+        <div id="result-loading" class="result-loading hidden">
+          <div class="loader"></div>
+          <p>Analyzing your data...</p>
+        </div>
+
+        <div id="result-content" class="result-content hidden">
+
+          <div class="result-top-grid">
+            <div class="gauge-card">
+              <span class="card-label">Your Risk Level</span>
+              <span class="risk-level-text" id="risk-level-text">MEDIUM RISK</span>
+              <div class="gauge-wrap">
+                <svg id="gauge-svg" viewBox="0 0 200 120" width="180" height="108">
+                  <path d="M14,110 A86,86 0 0,1 62,25" fill="none" stroke="#33c48a" stroke-width="14" stroke-linecap="round"/>
+                  <path d="M62,25 A86,86 0 0,1 138,25" fill="none" stroke="#f0ad4e" stroke-width="14" stroke-linecap="round"/>
+                  <path d="M138,25 A86,86 0 0,1 186,110" fill="none" stroke="#e4573a" stroke-width="14" stroke-linecap="round"/>
+                  <g id="gauge-needle" transform="rotate(0 100 110)">
+                    <line x1="100" y1="110" x2="100" y2="34" stroke="var(--ink)" stroke-width="3" stroke-linecap="round"/>
+                    <circle cx="100" cy="110" r="6" fill="var(--ink)"/>
+                  </g>
+                </svg>
+                <div class="gauge-center">
+                  <span class="gauge-pct" id="gauge-pct">64%</span>
+                  <span class="gauge-caption">Risk Score</span>
+                </div>
+              </div>
+              <p class="gauge-footnote" id="gauge-footnote">Your risk is higher than 64% of programmers with similar habits.</p>
+            </div>
+
+            <div class="confidence-card">
+              <span class="card-label">Confidence</span>
+              <div class="donut-wrap">
+                <svg viewBox="0 0 100 100" width="96" height="96">
+                  <circle cx="50" cy="50" r="42" fill="none" stroke="var(--track)" stroke-width="10"/>
+                  <circle id="donut-fill" cx="50" cy="50" r="42" fill="none" stroke="url(#donutGrad)" stroke-width="10" stroke-linecap="round" stroke-dasharray="264" stroke-dashoffset="264" transform="rotate(-90 50 50)"/>
+                  <defs>
+                    <linearGradient id="donutGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+                      <stop offset="0%" stop-color="#7c5cff"/>
+                      <stop offset="100%" stop-color="#35c9b0"/>
+                    </linearGradient>
+                  </defs>
+                </svg>
+                <span class="donut-pct" id="donut-pct">86%</span>
+              </div>
+              <span class="confidence-badge" id="confidence-badge">High</span>
+            </div>
+
+            <div class="body-card">
+              <span class="card-label">Common RSI-Prone Areas</span>
+              <div class="body-illustration">
+                <svg viewBox="0 0 220 220" width="100%" height="180">
+                  <rect x="30" y="165" width="160" height="8" rx="2" fill="var(--desk)"/>
+                  <rect x="45" y="173" width="8" height="30" fill="var(--desk)"/>
+                  <rect x="167" y="173" width="8" height="30" fill="var(--desk)"/>
+                  <rect x="118" y="148" width="46" height="18" rx="2" fill="var(--panel-border)"/>
+                  <rect x="118" y="128" width="46" height="20" rx="2" fill="var(--panel-border)"/>
+                  <rect x="58" y="120" width="8" height="55" rx="3" fill="var(--panel-border)"/>
+                  <circle cx="95" cy="60" r="16" fill="var(--skin)"/>
+                  <path d="M95 76 C70 80 66 110 66 140 L124 140 C124 108 118 82 95 76Z" fill="var(--shirt)"/>
+                  <path d="M95 90 C112 92 122 112 122 140" fill="none" stroke="var(--shirt)" stroke-width="14" stroke-linecap="round"/>
+                  <circle cx="122" cy="140" r="6" fill="var(--skin)"/>
+                  <rect x="66" y="140" width="58" height="45" fill="var(--pants)"/>
+                  <circle class="hotspot" cx="95" cy="72" r="5"/>
+                  <circle class="hotspot" cx="76" cy="88" r="5"/>
+                  <circle class="hotspot" cx="122" cy="140" r="5"/>
+                  <circle class="hotspot" cx="90" cy="130" r="5"/>
+                </svg>
+                <ul class="hotspot-legend">
+                  <li><span class="dot"></span>Neck</li>
+                  <li><span class="dot"></span>Shoulder</li>
+                  <li><span class="dot"></span>Wrist</li>
+                  <li><span class="dot"></span>Lower back</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+
+          <div class="result-bottom-grid">
+            <div class="list-card">
+              <span class="card-label warn">⚠ Top Risk Factors</span>
+              <ul class="factor-list" id="risk-factors-list"></ul>
+            </div>
+            <div class="list-card">
+              <span class="card-label good">✓ Recommendations</span>
+              <ul class="factor-list" id="recommendations-list"></ul>
+            </div>
+          </div>
+
+          <div class="banner">
+            <span class="banner-emoji">❤️</span>
+            <div>
+              <strong>Small changes today, pain-free tomorrow.</strong>
+              <p>Prevention is the best protection.</p>
+            </div>
+          </div>
+
+          <p class="method-note">
+            This model was trained to classify <strong>Low</strong> vs <strong>High</strong> risk.
+            The <strong>Medium</strong> band shown here is a derived confidence zone around the
+            model's decision boundary, not a separately trained class.
+          </p>
+        </div>
+
+        <div id="result-error" class="result-error hidden"></div>
+      </section>
+
+    </div>
+  </div>
+
+  <div class="view" id="view-history">
+    <section class="panel">
+      <div class="panel-head">
+        <h2>Risk Trend (Based on History)</h2>
+        <p class="panel-desc">Stored locally in your browser — nothing is sent to a server.</p>
+      </div>
+      <div id="history-empty" class="result-empty">
+        <p>No predictions yet. Run a prediction to start building your trend.</p>
+      </div>
+      <div id="history-chart-wrap" class="hidden">
+        <svg id="trend-svg" viewBox="0 0 600 220" width="100%" height="220"></svg>
+      </div>
+      <div id="history-table"></div>
+      <button class="clear-btn hidden" id="clear-history-btn" type="button">Clear history</button>
+    </section>
+  </div>
+
+  <div class="view" id="view-tips">
+    <section class="panel">
+      <div class="panel-head">
+        <h2>RSI Prevention Tips</h2>
+        <p class="panel-desc">General, evidence-informed habits for programmers — not a substitute for medical advice.</p>
+      </div>
+      <div class="tips-grid">
+        <div class="tip-card"><span class="tip-emoji">⏱</span><h3>Take breaks every 45–60 minutes</h3><p>Stand up, walk, and shake out your hands. Short, frequent breaks matter more than one long break.</p></div>
+        <div class="tip-card"><span class="tip-emoji">🪑</span><h3>Fix your posture</h3><p>Keep wrists neutral (not bent up/down), elbows near 90°, and screen at eye level.</p></div>
+        <div class="tip-card"><span class="tip-emoji">🤸</span><h3>Stretch daily</h3><p>Simple wrist, forearm, neck, and shoulder stretches reduce cumulative strain.</p></div>
+        <div class="tip-card"><span class="tip-emoji">⌨️</span><h3>Consider an ergonomic keyboard</h3><p>Split or tented keyboards can reduce wrist deviation during long typing sessions.</p></div>
+        <div class="tip-card"><span class="tip-emoji">😴</span><h3>Sleep 7–8 hours</h3><p>Poor sleep is linked to slower tissue recovery and higher pain sensitivity.</p></div>
+        <div class="tip-card"><span class="tip-emoji">🩺</span><h3>Don't ignore persistent pain</h3><p>If pain lasts more than a couple of weeks or worsens, see a physiotherapist or doctor.</p></div>
+      </div>
+    </section>
+  </div>
+
+</main>
+
+<footer class="app-footer">
+  <span>Programmer RSI Risk Prediction — educational tool, not a medical diagnosis</span>
+</footer>
+
+<script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
