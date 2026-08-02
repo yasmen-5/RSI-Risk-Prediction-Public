@@ -1,0 +1,1466 @@
+ProgrammerID,Age,Gender,DailySittingHours,BreakCountPerDay,YearsExperience,SleepHours,TypingHoursPerDay,PainLevel,Posture,KeyboardType,DeviceType,DoesStretching,JobRole,InjuryRiskLevel
+PR3071,42.0,Female,5.2,1.0,3.1,,5.7,2.4,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3259,38.0,Female,,3.0,0.8,8.0,4.2,8.0,Good,Ergonomic,Laptop,Yes,Junior Dev,Medium
+PR3363,54.0,Male,9.6,4.0,0.3,4.8,2.2,1.7,Good,Standard,Desktop,No,Junior Dev,Low
+PR3185,33.0,Female,8.0,3.0,0.6,,4.2,8.5,Good,Ergonomic,Laptop,Yes,Senior Dev,Medium
+PR4013,20.0,Female,9.3,,,6.5,5.3,0.4,Poor,Standard,Desktop,No,Junior Dev,Low
+PR3412,30.0,Male,,4.0,4.1,7.9,4.9,3.1,Poor,Ergonomic,Laptop,No,Junior Dev,Medium
+PR4365,29.0,Female,4.9,2.0,0.7,7.0,5.6,4.4,Poor,Ergonomic,Laptop,Yes,Freelancer,Medium
+PR3762,26.0,Female,3.7,6.0,1.1,6.2,2.9,2.8,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR3454,37.0,Female,4.4,2.0,1.1,9.7,3.2,5.2,Poor,Ergonomic,Laptop,No,Student,High
+PR3101,54.0,Female,8.9,3.0,3.1,8.2,2.1,5.4,Good,Standard,Laptop,Yes,Student,Low
+PR4264,34.0,Male,7.5,2.0,0.9,9.1,4.6,5.3,Poor,Standard,Desktop,Yes,Freelancer,Medium
+PR3396,45.0,Female,5.5,3.0,1.3,6.2,6.8,7.0,Good,Standard,Laptop,No,Senior Dev,High
+PR4273,31.0,Female,4.6,5.0,5.7,,4.5,2.5,Good,Ergonomic,Desktop,Yes,Student,Low
+PR3410,27.0,Female,4.7,2.0,,3.8,4.5,3.1,Poor,Standard,Laptop,No,Senior Dev,High
+PR3656,27.0,Male,6.1,4.0,3.1,9.4,,5.6,Poor,Standard,Desktop,No,Student,Low
+PR3058,32.0,Female,5.1,,4.2,,7.1,3.3,Poor,Ergonomic,Laptop,No,Student,Medium
+PR3392,33.0,Male,8.2,1.0,5.2,5.8,4.2,2.8,Poor,Ergonomic,Desktop,No,Freelancer,High
+PR3765,54.0,Female,9.7,3.0,0.6,3.7,1.8,1.2,Poor,,Laptop,No,Junior Dev,Medium
+PR4007,18.0,Female,,2.0,5.3,4.9,3.5,1.1,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR4149,38.0,Female,8.1,5.0,0.6,8.4,4.6,9.9,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3832,25.0,Female,8.4,5.0,5.6,7.5,3.0,6.9,Poor,Standard,Desktop,No,Junior Dev,High
+PR3426,24.0,Male,7.2,0.0,3.0,10.0,5.6,5.2,Poor,Standard,Laptop,No,Junior Dev,High
+PR3189,53.0,Female,10.6,5.0,3.7,7.1,3.4,6.9,Poor,Standard,Desktop,Yes,Junior Dev,Low
+PR3712,40.0,Male,9.2,4.0,2.8,8.1,5.1,7.1,Poor,Ergonomic,Desktop,No,Junior Dev,Medium
+PR4090,38.0,Male,11.8,2.0,11.5,6.2,4.0,3.3,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR3518,,Female,8.8,1.0,0.4,6.6,3.5,7.6,,Ergonomic,Laptop,No,Student,Medium
+PR3432,38.0,Male,4.4,5.0,3.6,6.6,5.8,6.5,Poor,Standard,Laptop,No,Student,Low
+PR3473,,Female,8.9,,5.3,7.8,3.6,,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR3638,28.0,Female,3.1,4.0,2.9,5.5,6.1,0.2,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3313,29.0,Male,8.5,3.0,5.8,6.3,4.2,9.8,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3492,26.0,Female,5.7,6.0,1.9,7.6,5.8,0.9,Good,Ergonomic,Desktop,No,Student,Low
+PR3581,50.0,Male,8.8,,5.4,6.3,3.2,8.1,Poor,Standard,Desktop,No,Freelancer,High
+PR3210,19.0,Female,5.1,4.0,1.2,8.3,4.5,7.7,Good,Standard,Desktop,No,,Medium
+PR4386,28.0,Female,8.0,3.0,2.2,6.8,7.0,4.2,Good,Ergonomic,Laptop,No,Junior Dev,High
+PR3204,48.0,Male,,1.0,2.5,5.0,3.2,5.9,,Ergonomic,Laptop,Yes,Student,Medium
+PR3720,40.0,Male,7.7,0.0,0.1,5.6,8.6,7.7,Good,Standard,Laptop,No,Junior Dev,High
+PR3117,47.0,Male,5.5,,9.7,6.1,,4.6,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR3451,52.0,Male,8.8,1.0,8.0,6.0,2.1,8.1,Good,Ergonomic,Desktop,No,Freelancer,High
+PR4124,26.0,Male,6.9,2.0,5.1,6.2,6.6,3.4,Poor,Standard,Laptop,Yes,Freelancer,Medium
+PR3328,50.0,Female,5.0,1.0,0.5,7.1,5.6,7.9,Good,Standard,Desktop,No,Student,Medium
+PR4399,28.0,Female,7.6,3.0,5.1,6.3,5.8,4.0,Good,Standard,Desktop,Yes,Junior Dev,Low
+PR3736,21.0,Female,7.1,3.0,2.6,6.4,6.2,4.6,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR4128,26.0,Female,8.1,2.0,2.0,6.8,5.3,1.4,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4018,52.0,Female,7.5,3.0,0.3,5.6,8.0,5.9,Poor,Standard,Desktop,No,Student,Low
+PR3978,47.0,Female,6.5,3.0,8.6,5.4,5.5,5.5,Good,Standard,Laptop,No,Junior Dev,Low
+PR3536,37.0,Male,,7.0,1.7,5.8,4.8,0.1,Poor,Standard,Laptop,No,Student,Low
+PR3770,19.0,Female,9.6,3.0,6.7,9.0,6.2,7.0,Poor,Ergonomic,Laptop,Yes,Student,Medium
+PR4159,29.0,Female,8.8,3.0,1.0,8.3,6.7,7.1,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR3630,47.0,Male,5.2,4.0,,5.3,6.2,1.9,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3167,19.0,Female,13.5,0.0,2.1,7.3,6.5,4.2,Poor,Standard,Laptop,Yes,Student,High
+PR4186,31.0,Female,6.5,0.0,2.8,6.9,7.1,2.7,Poor,Ergonomic,Laptop,No,Freelancer,Medium
+PR4152,54.0,Female,6.4,4.0,6.1,7.6,5.3,0.9,Good,Standard,Desktop,No,Junior Dev,Low
+PR3939,26.0,Female,10.3,1.0,1.4,4.8,4.7,3.0,Good,Ergonomic,Desktop,No,Junior Dev,Low
+PR3200,28.0,Female,9.3,1.0,2.9,4.1,5.5,4.5,Poor,Standard,Desktop,No,Student,High
+PR4106,43.0,Female,7.7,3.0,0.1,5.2,5.9,5.0,Poor,Ergonomic,Laptop,No,Senior Dev,Low
+PR3060,31.0,Female,6.4,2.0,2.1,8.2,3.5,4.9,Poor,Ergonomic,Laptop,Yes,,Low
+PR4357,39.0,Female,5.7,2.0,,5.9,4.5,8.3,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3063,33.0,Male,5.4,1.0,3.6,7.1,0.5,7.3,Good,Standard,Desktop,Yes,Senior Dev,Medium
+PR3009,53.0,Male,6.5,5.0,14.3,7.5,6.2,2.8,Poor,Ergonomic,Laptop,No,Student,Low
+PR3862,20.0,Male,8.0,3.0,7.2,7.6,6.1,6.5,Poor,Standard,Desktop,No,Junior Dev,High
+PR3370,22.0,Male,4.7,4.0,0.1,6.4,7.3,1.8,Poor,Standard,Desktop,No,Student,Low
+PR4268,52.0,Female,8.4,2.0,14.1,7.4,3.2,1.9,Poor,Standard,Desktop,Yes,Junior Dev,High
+PR3760,48.0,Male,8.7,4.0,5.9,4.4,,0.5,Poor,Standard,Laptop,Yes,Junior Dev,Low
+PR3668,48.0,Male,4.2,1.0,5.9,8.1,,9.9,Poor,Ergonomic,Laptop,No,Freelancer,High
+PR4252,51.0,Female,7.4,2.0,6.3,9.2,5.7,5.4,Poor,Ergonomic,Laptop,No,Junior Dev,High
+PR4011,25.0,Female,7.9,3.0,2.5,7.7,,7.7,Poor,Standard,Desktop,Yes,Student,Medium
+PR3340,34.0,Male,5.4,2.0,11.5,,6.0,2.5,Good,Standard,Laptop,No,Senior Dev,Low
+PR3263,50.0,Female,,3.0,1.6,6.8,7.3,1.2,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR4233,26.0,Male,3.4,,0.9,5.6,4.1,1.1,Poor,Standard,Laptop,No,Freelancer,Low
+PR3956,23.0,Male,6.9,3.0,2.4,8.0,,0.4,Poor,Standard,Laptop,No,Student,Low
+PR3383,53.0,Male,4.8,3.0,1.6,5.9,7.7,9.9,Good,Ergonomic,Desktop,No,Freelancer,High
+PR3529,,Male,8.4,1.0,1.5,5.8,5.3,2.0,,Standard,Laptop,Yes,Student,Low
+PR3737,27.0,Female,6.4,3.0,0.5,8.0,5.8,9.7,Poor,Ergonomic,Desktop,No,Senior Dev,High
+PR4317,30.0,Male,4.7,3.0,7.0,7.5,8.4,9.8,Good,Standard,Laptop,No,Freelancer,High
+PR4073,43.0,Male,5.3,3.0,8.9,9.2,4.5,2.1,,Ergonomic,Laptop,No,Senior Dev,Low
+PR3141,20.0,Female,3.9,5.0,6.6,7.5,,4.2,Poor,Standard,Laptop,Yes,Junior Dev,Low
+PR3017,38.0,Female,6.9,3.0,4.2,6.0,2.8,8.4,Good,Standard,Laptop,Yes,Student,Low
+PR3503,24.0,Male,9.0,6.0,15.2,8.7,4.5,7.9,Poor,Standard,Laptop,No,Student,Low
+PR4102,45.0,Male,5.4,4.0,2.8,5.0,5.3,7.6,Good,Ergonomic,Laptop,Yes,Senior Dev,Medium
+PR4093,23.0,Female,7.4,4.0,2.1,7.1,6.6,2.8,Poor,Standard,Laptop,No,Senior Dev,High
+PR3095,52.0,Male,8.2,3.0,4.4,5.9,3.2,6.8,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3851,50.0,Male,7.3,3.0,25.8,8.1,5.8,6.5,Poor,Ergonomic,Laptop,No,Student,High
+PR3699,39.0,Female,8.1,5.0,6.6,6.8,5.4,1.6,Good,Ergonomic,Laptop,No,Junior Dev,Low
+PR3300,46.0,Female,9.1,5.0,2.3,7.0,6.7,0.8,Good,Standard,Laptop,Yes,Freelancer,Low
+PR4197,46.0,Female,4.9,3.0,2.3,7.4,5.0,6.1,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3755,23.0,Female,5.2,1.0,1.5,,3.4,6.4,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3606,54.0,Female,9.3,0.0,3.4,4.2,5.9,4.9,Good,Standard,Laptop,No,Senior Dev,High
+PR3610,34.0,Male,6.6,6.0,0.6,,4.2,7.7,Poor,Standard,Desktop,No,Freelancer,Low
+PR3111,32.0,Female,7.4,6.0,2.1,8.3,6.6,3.6,Good,Standard,Desktop,No,Junior Dev,Low
+PR3976,36.0,Male,10.5,3.0,,8.1,7.3,7.1,Poor,Standard,Laptop,No,Student,Medium
+PR3530,38.0,Female,7.7,1.0,2.9,7.1,3.1,1.1,Poor,,Laptop,Yes,,Low
+PR3649,47.0,Female,8.2,4.0,2.9,8.5,2.8,,,Ergonomic,Desktop,No,Junior Dev,Low
+PR3751,50.0,Female,2.1,4.0,9.9,8.1,6.1,8.9,Poor,Standard,Laptop,No,Student,Low
+PR3943,42.0,Female,6.1,5.0,1.0,5.9,5.9,6.3,Good,Standard,Desktop,No,Student,Low
+PR3228,,Male,10.2,1.0,1.0,5.1,4.7,4.5,Good,Ergonomic,Laptop,Yes,,High
+PR3372,33.0,Female,7.1,6.0,2.2,6.6,5.2,9.7,Good,Standard,Desktop,No,Student,Medium
+PR4042,18.0,Female,5.8,3.0,4.0,7.1,6.4,,Poor,Standard,Laptop,No,Student,Medium
+PR3252,39.0,Male,4.9,2.0,0.6,3.8,1.2,7.4,Poor,Standard,Laptop,No,Student,Medium
+PR3207,24.0,Female,4.7,4.0,7.0,6.6,8.6,3.9,Good,Standard,Laptop,No,Junior Dev,Low
+PR3179,39.0,Female,11.4,5.0,1.0,5.8,4.3,10.0,Good,Ergonomic,Desktop,No,Freelancer,Medium
+PR3118,54.0,Female,7.7,2.0,19.9,3.9,3.3,9.5,Poor,Standard,Laptop,No,Freelancer,High
+PR3043,31.0,Female,5.5,3.0,8.7,5.2,6.2,4.5,Poor,,Laptop,Yes,Junior Dev,Low
+PR4156,42.0,Female,5.4,4.0,1.4,7.3,4.7,7.8,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3284,20.0,Male,8.2,2.0,5.9,6.5,4.8,7.2,Poor,Ergonomic,Laptop,Yes,Junior Dev,Low
+PR3587,43.0,Female,4.0,5.0,2.5,6.4,4.6,4.1,Poor,Ergonomic,Desktop,Yes,Senior Dev,Low
+PR4327,47.0,Female,8.6,,5.6,7.0,6.3,0.2,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3782,43.0,Female,8.6,4.0,1.4,7.3,7.2,2.0,Poor,Standard,Laptop,No,Student,Medium
+PR3674,42.0,Male,5.4,1.0,1.3,7.2,4.2,6.7,Good,Standard,Laptop,No,Student,Medium
+PR4380,46.0,Female,9.3,2.0,,5.9,3.5,4.5,Poor,Ergonomic,Laptop,No,Student,High
+PR3841,36.0,Female,4.6,4.0,0.9,8.7,8.2,0.1,Good,Standard,Desktop,No,Junior Dev,Low
+PR4384,32.0,Female,1.7,1.0,5.1,7.9,5.8,7.0,Good,Standard,Laptop,No,Senior Dev,Low
+PR3346,40.0,Female,4.6,3.0,,5.5,8.9,9.6,Poor,Ergonomic,Desktop,No,Student,High
+PR3666,40.0,Female,6.8,4.0,9.6,7.2,5.5,3.5,Good,Standard,Laptop,No,Student,Low
+PR3984,35.0,Male,7.1,2.0,1.3,5.4,7.7,9.2,Poor,Ergonomic,Desktop,No,Junior Dev,High
+PR3262,45.0,Male,8.0,,1.0,4.6,2.3,7.9,Poor,Standard,Desktop,Yes,Senior Dev,High
+PR3756,21.0,Male,5.8,1.0,0.2,3.6,3.2,4.6,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3926,39.0,Male,4.9,3.0,,4.0,1.9,8.4,Good,Standard,Desktop,No,Junior Dev,Medium
+PR3354,18.0,Female,11.7,4.0,2.3,8.6,2.1,8.0,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR3416,52.0,Female,9.7,4.0,5.3,8.6,3.9,8.0,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3571,30.0,Female,9.1,3.0,2.5,6.1,3.3,2.8,,Standard,Laptop,No,Junior Dev,Medium
+PR3361,43.0,Male,8.0,2.0,0.5,6.7,5.5,0.1,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3431,42.0,Female,11.5,4.0,3.6,5.2,7.7,4.7,Poor,Ergonomic,Laptop,No,Senior Dev,High
+PR4082,53.0,Female,7.2,1.0,5.1,5.9,5.4,0.6,Poor,Standard,Laptop,No,Student,Low
+PR3013,19.0,Male,6.5,2.0,3.6,5.4,2.6,7.5,Good,Standard,Laptop,Yes,Student,Medium
+PR4329,,Male,7.9,2.0,0.9,6.8,,8.6,Good,Standard,Desktop,No,Student,Medium
+PR3936,32.0,Female,10.5,,6.9,6.7,5.9,,Poor,Standard,Desktop,No,Junior Dev,High
+PR3586,38.0,Male,8.1,1.0,1.6,5.7,1.3,2.9,Poor,Standard,Desktop,No,Junior Dev,High
+PR3249,34.0,Female,3.5,3.0,0.2,7.4,7.8,1.3,Good,Ergonomic,Laptop,Yes,Senior Dev,Low
+PR3684,35.0,Female,9.6,4.0,3.3,7.9,6.1,7.0,Poor,Standard,Laptop,No,Senior Dev,High
+PR3034,31.0,Male,5.4,2.0,4.6,,3.5,7.8,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3922,48.0,Female,8.0,4.0,3.6,9.2,5.4,7.6,Good,Ergonomic,Laptop,No,Student,Low
+PR3098,52.0,Female,9.4,1.0,2.1,8.2,4.2,8.6,Good,Standard,Laptop,Yes,Student,Medium
+PR3817,41.0,Female,5.1,3.0,1.7,5.7,8.6,0.6,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR3378,47.0,Male,5.6,,4.5,3.0,1.0,0.3,Good,Ergonomic,Laptop,Yes,Student,Low
+PR4103,19.0,Female,9.0,2.0,1.7,7.3,2.6,8.5,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR4217,27.0,Male,6.2,1.0,7.9,6.5,3.8,5.5,Good,Standard,Desktop,No,Student,High
+PR3701,34.0,Female,5.8,3.0,0.4,5.2,6.9,8.7,Poor,Standard,Laptop,No,Student,Medium
+PR3172,21.0,Female,7.6,5.0,4.9,5.6,5.3,8.5,Poor,Standard,Laptop,No,,Low
+PR4396,32.0,Female,11.0,3.0,5.0,5.3,7.3,3.6,Poor,Ergonomic,Desktop,No,Freelancer,Medium
+PR4199,42.0,Male,6.6,3.0,7.5,8.6,5.7,5.5,Good,Standard,Desktop,Yes,Senior Dev,Medium
+PR4015,45.0,Male,5.1,3.0,0.7,4.7,4.7,3.4,Poor,Ergonomic,Laptop,Yes,Freelancer,Low
+PR4311,23.0,Female,6.1,4.0,6.2,6.9,6.5,8.8,Good,Standard,Laptop,No,Senior Dev,Low
+PR3024,33.0,Female,4.9,4.0,2.4,5.3,5.7,4.7,Good,Standard,Laptop,No,Freelancer,High
+PR3110,32.0,Female,8.8,5.0,2.4,6.3,4.0,0.6,Good,Standard,Laptop,No,Student,Low
+PR3015,47.0,Male,6.2,2.0,1.4,6.4,2.0,5.8,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3146,54.0,Female,9.7,2.0,7.0,6.0,6.8,5.6,Poor,Standard,Desktop,Yes,Junior Dev,Medium
+PR4183,52.0,Female,5.4,2.0,0.3,5.0,6.9,6.9,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3484,28.0,Female,10.2,2.0,4.1,4.6,7.8,6.2,Poor,Standard,Laptop,Yes,Student,High
+PR3691,29.0,Male,6.9,1.0,5.1,7.1,6.4,7.1,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR3369,47.0,Male,6.2,4.0,3.8,6.0,4.4,1.2,Poor,Standard,Desktop,No,Freelancer,Low
+PR3845,42.0,Male,8.7,,2.5,5.6,5.8,7.6,Poor,Standard,Desktop,Yes,Junior Dev,Medium
+PR3462,29.0,Female,5.2,2.0,4.1,5.2,3.6,5.8,Good,Standard,Laptop,Yes,Student,Low
+PR4131,42.0,Male,7.2,5.0,1.6,5.8,3.5,0.4,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3206,52.0,Male,7.3,3.0,10.5,4.4,1.4,3.6,Poor,Ergonomic,Laptop,No,Senior Dev,High
+PR3504,42.0,Male,7.7,1.0,0.5,6.3,5.0,9.6,Poor,Standard,Laptop,No,Senior Dev,High
+PR3099,,Female,6.8,3.0,9.5,8.0,4.3,1.0,Good,Standard,Laptop,No,Student,Low
+PR3004,36.0,Female,,,0.7,6.4,4.1,4.2,Good,Ergonomic,Laptop,No,Student,Medium
+PR3046,21.0,Male,9.3,4.0,3.5,5.0,8.2,9.3,Good,Standard,Laptop,No,Freelancer,Medium
+PR3693,51.0,Female,5.4,2.0,0.0,6.8,5.5,4.7,Good,Standard,Laptop,No,Student,Low
+PR4025,54.0,Male,10.3,7.0,2.0,6.7,6.1,5.2,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR4203,33.0,Female,6.8,4.0,5.4,7.4,5.9,7.0,Poor,Standard,Laptop,No,Freelancer,Low
+PR3802,27.0,Female,7.4,4.0,8.3,7.8,6.4,4.8,Good,Standard,Laptop,Yes,Senior Dev,Medium
+PR3927,28.0,Female,4.6,,3.2,6.1,4.3,6.7,Good,Standard,Laptop,Yes,,Low
+PR3915,29.0,Female,,2.0,2.8,6.2,1.7,,Good,Standard,Desktop,No,Student,Low
+PR3680,49.0,Male,5.6,3.0,1.3,9.0,3.0,0.3,Good,Standard,Desktop,No,Junior Dev,Low
+PR3564,34.0,Female,11.9,1.0,1.0,8.6,5.3,,Poor,Standard,Desktop,No,Senior Dev,High
+PR3501,39.0,Male,6.6,0.0,2.9,8.6,5.0,7.5,Poor,Standard,Laptop,No,Senior Dev,High
+PR3113,30.0,Male,4.2,4.0,1.2,7.6,4.7,5.6,Good,Standard,Laptop,No,Freelancer,Low
+PR3051,35.0,Male,5.7,6.0,2.9,5.3,6.9,6.6,Poor,Standard,Laptop,Yes,Junior Dev,Medium
+PR3414,48.0,Male,5.9,3.0,3.2,7.7,4.9,7.2,Poor,Ergonomic,Desktop,No,Student,Low
+PR3186,46.0,Male,4.6,6.0,,6.1,4.3,7.5,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4198,39.0,Female,6.1,2.0,2.0,6.7,6.9,8.2,Poor,Standard,Desktop,Yes,Student,Medium
+PR3946,19.0,Male,3.9,3.0,0.8,6.6,3.1,9.3,Good,Standard,Laptop,Yes,Junior Dev,Medium
+PR4049,29.0,Female,9.6,4.0,2.5,6.6,4.3,4.5,Poor,Ergonomic,Laptop,No,Student,Medium
+PR3241,21.0,Male,4.8,3.0,16.1,7.8,5.5,0.4,,Standard,Laptop,No,Student,Medium
+PR3640,51.0,Male,7.5,5.0,6.0,,6.0,9.6,Poor,Standard,Laptop,No,Senior Dev,High
+PR4166,24.0,Male,5.1,,3.3,8.5,8.3,2.5,Good,Standard,Desktop,No,Senior Dev,Low
+PR3324,39.0,Male,7.2,5.0,3.4,7.3,6.2,8.8,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3697,26.0,Male,7.0,5.0,0.1,8.0,5.2,2.9,Poor,Standard,Laptop,Yes,Senior Dev,Low
+PR3947,24.0,Male,9.7,3.0,0.4,7.5,4.1,0.3,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR4120,36.0,Male,6.6,1.0,16.2,6.3,3.8,1.8,Poor,Ergonomic,Laptop,No,Freelancer,High
+PR3164,50.0,Female,6.7,4.0,0.7,6.8,,,Good,Standard,Desktop,Yes,Senior Dev,Low
+PR4298,54.0,Male,3.6,2.0,,3.7,4.3,1.1,Good,,Laptop,No,Freelancer,Low
+PR3620,45.0,Male,7.8,3.0,1.6,,4.0,,Good,Ergonomic,Laptop,Yes,Junior Dev,Medium
+PR3344,54.0,Male,8.1,7.0,10.1,8.8,3.2,8.8,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3907,40.0,Male,3.2,4.0,1.4,6.2,2.9,3.3,Poor,Standard,Laptop,No,Freelancer,Low
+PR4247,,Female,7.7,2.0,,7.4,,3.8,Good,Ergonomic,Laptop,No,Student,Low
+PR3602,22.0,Male,5.8,6.0,1.4,7.3,4.7,6.7,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR4241,41.0,Male,6.8,6.0,3.7,5.5,3.5,1.9,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3742,51.0,Female,7.6,3.0,0.1,3.4,,4.9,Poor,Ergonomic,Laptop,Yes,Freelancer,High
+PR3020,39.0,Male,8.6,2.0,1.5,7.4,5.0,1.6,Poor,Standard,Desktop,No,Freelancer,Low
+PR3797,53.0,Male,4.9,4.0,3.2,8.6,8.2,7.5,Good,Standard,Desktop,Yes,Junior Dev,Medium
+PR4016,25.0,Female,8.4,7.0,3.1,,2.3,3.1,Poor,Ergonomic,Desktop,No,Student,Medium
+PR4363,44.0,Female,8.8,3.0,3.3,6.4,2.7,2.4,Good,Standard,Laptop,Yes,Senior Dev,Medium
+PR3687,38.0,Male,7.2,,2.1,7.3,7.5,0.6,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3325,23.0,Female,5.5,3.0,1.7,8.7,6.3,9.4,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3825,51.0,Male,6.0,2.0,5.2,6.2,5.4,2.0,Good,Standard,Laptop,No,Freelancer,High
+PR4337,49.0,Male,4.7,2.0,9.0,8.0,7.5,5.4,Poor,Ergonomic,Laptop,No,Senior Dev,Low
+PR3813,34.0,Male,6.3,4.0,5.3,5.0,4.1,8.3,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3489,34.0,Female,7.8,2.0,3.2,10.0,6.2,8.6,,Ergonomic,Laptop,Yes,Student,High
+PR3716,43.0,Male,6.4,2.0,9.6,6.9,2.7,3.1,Poor,Standard,Laptop,Yes,,Medium
+PR3348,29.0,Female,5.5,1.0,1.1,5.8,4.3,9.1,Good,Standard,Laptop,No,Student,High
+PR4354,47.0,Male,11.0,1.0,3.6,8.1,4.7,0.7,,Standard,Desktop,Yes,Junior Dev,High
+PR3869,44.0,Female,5.7,0.0,0.9,6.8,2.9,0.8,Good,Standard,Laptop,No,Student,Low
+PR3809,37.0,Female,5.6,3.0,2.8,6.1,6.7,0.8,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3651,,Female,12.3,4.0,2.1,5.7,7.5,7.4,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR4336,19.0,Female,5.4,5.0,2.1,8.3,4.8,7.4,Poor,Standard,Laptop,No,Freelancer,High
+PR3415,19.0,Male,4.4,6.0,17.2,5.2,7.7,,Good,Ergonomic,Desktop,Yes,Senior Dev,Low
+PR3326,32.0,Female,4.8,1.0,0.4,6.8,3.9,4.1,Good,,Desktop,Yes,Junior Dev,Low
+PR3558,25.0,Female,,2.0,0.2,6.6,4.2,5.0,Good,Standard,Laptop,No,Junior Dev,Low
+PR3128,19.0,Female,7.8,2.0,2.8,4.7,5.6,9.7,Poor,Standard,Desktop,No,Student,High
+PR4192,54.0,Female,9.2,3.0,1.3,,5.0,7.6,Poor,Standard,Laptop,No,,High
+PR3611,38.0,Female,10.1,3.0,1.4,7.5,4.4,9.7,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3430,53.0,Female,2.7,5.0,0.7,,5.3,4.9,Poor,Standard,Laptop,No,Freelancer,Low
+PR3835,31.0,Male,5.5,5.0,6.6,8.6,2.0,6.9,Good,Standard,Desktop,No,Freelancer,Low
+PR3861,23.0,Female,2.5,4.0,6.2,7.6,7.8,4.0,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3453,34.0,Female,7.4,4.0,10.7,,7.7,8.4,Good,Ergonomic,Laptop,Yes,Student,Medium
+PR4041,19.0,Male,5.5,4.0,2.3,4.3,4.7,7.5,Poor,Ergonomic,Desktop,No,Student,Low
+PR3920,25.0,Male,8.9,1.0,2.5,6.7,3.9,8.7,Good,Standard,Laptop,Yes,Junior Dev,High
+PR4132,42.0,Male,4.7,3.0,3.6,6.1,6.2,4.6,Good,Standard,Desktop,No,Freelancer,Low
+PR4200,30.0,Female,5.4,2.0,2.2,5.2,5.0,2.2,,Standard,Laptop,No,Student,Low
+PR4024,21.0,Male,7.9,3.0,3.0,6.1,2.6,3.9,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3037,19.0,Male,8.2,7.0,0.1,7.2,,6.8,Good,Standard,Laptop,Yes,,Low
+PR3409,50.0,Female,12.0,3.0,5.6,4.1,4.8,4.1,Good,Standard,Desktop,No,Junior Dev,High
+PR3506,53.0,Female,8.8,5.0,9.8,6.6,4.2,0.8,Good,Ergonomic,Laptop,Yes,Junior Dev,Low
+PR3151,49.0,Male,7.8,5.0,2.4,5.8,5.6,2.0,Good,Ergonomic,Laptop,Yes,Senior Dev,Medium
+PR3027,54.0,Female,8.1,0.0,2.2,6.1,2.0,6.9,Poor,Ergonomic,Laptop,No,Senior Dev,High
+PR4070,,Male,6.6,6.0,1.9,5.3,,7.9,Poor,Standard,Desktop,No,Student,High
+PR3285,35.0,Male,5.4,3.0,1.7,7.6,6.3,1.9,Poor,Standard,Laptop,No,Student,Low
+PR3702,43.0,Female,3.0,,5.4,4.2,5.1,4.1,Good,Standard,Desktop,No,Senior Dev,Low
+PR3728,34.0,Male,8.1,3.0,,4.8,6.6,0.8,Good,Standard,Laptop,Yes,Freelancer,Low
+PR4304,49.0,Male,8.2,4.0,2.1,7.2,4.0,4.4,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3471,52.0,Female,5.4,3.0,4.3,9.3,4.6,0.5,Poor,Standard,Laptop,No,Student,Low
+PR3108,44.0,Female,,8.0,7.9,7.3,7.5,0.9,Good,Standard,Laptop,No,Junior Dev,Low
+PR4047,20.0,Male,5.7,2.0,1.7,4.7,5.9,,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3445,49.0,Female,6.1,6.0,1.5,5.1,4.3,7.0,Good,Ergonomic,Laptop,No,,Low
+PR4275,51.0,Female,8.6,4.0,0.8,4.9,5.2,8.5,Good,Standard,Laptop,No,Student,Medium
+PR4395,30.0,Male,9.9,3.0,1.4,6.8,4.5,7.9,Good,Ergonomic,Desktop,No,Freelancer,Medium
+PR4122,34.0,Male,6.5,1.0,4.7,5.2,6.1,5.3,Poor,Ergonomic,Laptop,Yes,Senior Dev,High
+PR3933,53.0,Male,5.5,3.0,7.4,8.2,6.9,1.5,Poor,Standard,Desktop,No,Junior Dev,Low
+PR3648,32.0,Male,4.6,1.0,13.0,6.4,5.1,6.9,Poor,Ergonomic,Laptop,No,Senior Dev,Low
+PR3682,38.0,Female,,4.0,1.1,4.7,6.7,4.3,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3779,32.0,Male,7.3,3.0,1.9,5.5,4.5,1.0,Poor,Standard,Laptop,No,Student,Low
+PR3397,49.0,Male,6.9,4.0,7.1,,3.8,4.6,Poor,Standard,Laptop,Yes,Senior Dev,Low
+PR3838,38.0,Male,8.9,4.0,2.3,9.5,5.3,7.8,Good,Standard,Laptop,No,Junior Dev,Low
+PR4236,21.0,Male,8.9,0.0,0.6,4.6,4.2,3.5,Good,Standard,Desktop,No,Senior Dev,High
+PR3407,20.0,Male,9.0,2.0,9.7,7.5,,8.8,Poor,Standard,Laptop,No,Junior Dev,High
+PR4046,19.0,Male,7.9,4.0,0.8,6.6,4.7,7.7,Good,Ergonomic,Desktop,No,Student,Low
+PR4160,32.0,Male,9.4,4.0,2.9,6.4,3.3,3.9,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3367,45.0,Female,6.5,1.0,6.8,7.7,6.4,4.9,Poor,Standard,Laptop,No,Student,High
+PR3498,36.0,Female,5.9,4.0,1.7,3.9,4.4,5.3,Poor,Standard,Desktop,No,Freelancer,Medium
+PR4299,30.0,Male,7.1,2.0,,,5.3,9.9,Good,Standard,Laptop,Yes,Senior Dev,High
+PR3127,45.0,Male,7.7,1.0,0.8,,4.4,4.8,,Standard,Laptop,No,Junior Dev,Low
+PR4267,49.0,Female,10.4,,0.6,,3.6,8.9,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3891,46.0,Female,5.8,2.0,8.4,6.1,5.2,1.8,Good,Standard,Laptop,No,Senior Dev,High
+PR3964,24.0,Male,3.0,0.0,4.4,7.3,2.7,6.1,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3275,,Female,5.5,1.0,0.7,8.0,6.3,9.5,Good,Standard,Desktop,No,Senior Dev,High
+PR3921,45.0,Male,,5.0,0.3,7.7,3.5,7.1,Poor,Ergonomic,Desktop,No,Freelancer,Medium
+PR3972,49.0,Male,8.2,3.0,10.4,5.0,4.4,6.7,Poor,Standard,Laptop,No,Freelancer,High
+PR4378,29.0,Female,4.1,,1.2,8.7,7.1,6.3,Good,Standard,Desktop,Yes,Senior Dev,Medium
+PR3913,42.0,Female,5.4,3.0,3.1,5.7,4.1,8.6,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR4116,22.0,Female,8.6,2.0,4.8,,4.1,9.9,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3170,23.0,Female,4.9,1.0,3.2,8.6,4.6,4.8,Poor,Standard,Laptop,No,Student,Low
+PR4347,47.0,Female,,2.0,19.1,6.9,7.9,1.9,Good,Ergonomic,Desktop,Yes,Freelancer,High
+PR3858,19.0,Female,6.0,5.0,8.4,5.0,8.3,2.0,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR4169,43.0,Female,7.3,4.0,0.2,7.7,7.2,4.9,Poor,Ergonomic,Desktop,Yes,Student,Medium
+PR3264,22.0,Male,9.7,6.0,0.9,3.9,4.7,1.9,Good,Standard,Desktop,No,Student,Medium
+PR4343,41.0,Female,9.5,1.0,1.1,6.4,2.4,6.7,Poor,Standard,Laptop,No,Senior Dev,High
+PR4332,31.0,Female,5.7,4.0,2.6,6.1,6.8,8.8,Poor,Standard,Desktop,No,Senior Dev,High
+PR3540,48.0,Male,7.6,4.0,2.4,4.8,5.4,0.8,Good,Ergonomic,Laptop,No,Freelancer,Medium
+PR3330,22.0,Male,10.5,1.0,8.4,5.8,6.0,10.0,Good,Standard,Laptop,No,Junior Dev,High
+PR3603,20.0,Female,8.7,3.0,0.4,6.5,2.2,5.9,Good,Standard,Desktop,No,Student,Medium
+PR4143,29.0,Male,6.5,4.0,0.1,4.5,6.2,5.6,Good,Standard,Laptop,No,Student,Medium
+PR3715,19.0,Male,6.1,7.0,3.5,8.7,6.5,4.7,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3350,18.0,Female,7.2,2.0,0.1,6.8,4.1,8.9,Good,Standard,Laptop,No,Junior Dev,High
+PR4017,51.0,Male,,0.0,3.0,7.3,6.5,9.1,Poor,Standard,Laptop,No,Junior Dev,High
+PR3857,50.0,Male,6.6,3.0,1.7,4.4,3.1,1.9,Good,Standard,Desktop,Yes,Freelancer,Low
+PR3213,22.0,Male,6.3,2.0,2.8,9.1,2.4,6.9,Good,Ergonomic,Laptop,No,Student,Low
+PR3840,22.0,Female,11.6,3.0,2.0,7.5,6.6,7.7,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3294,44.0,Female,7.7,3.0,0.4,,,0.9,Good,Standard,Desktop,Yes,Junior Dev,Low
+PR3837,52.0,Female,6.2,3.0,5.8,6.7,2.4,8.6,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3986,31.0,Male,9.1,1.0,0.5,7.1,5.0,7.2,Poor,Standard,Laptop,No,Student,Medium
+PR3199,18.0,Female,4.9,1.0,,,5.5,6.8,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3735,42.0,Male,6.4,1.0,5.3,9.3,3.1,4.3,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR3672,21.0,Male,10.9,,7.7,5.2,4.8,,Good,Ergonomic,Laptop,No,Junior Dev,Medium
+PR3308,37.0,Male,5.7,1.0,2.6,6.1,6.5,1.8,,,Laptop,No,Senior Dev,Medium
+PR3351,51.0,Male,8.6,3.0,5.3,5.5,0.5,0.1,Good,,Desktop,Yes,Student,Low
+PR3216,26.0,Female,7.4,3.0,,,6.5,4.4,Poor,Standard,Desktop,No,Junior Dev,High
+PR4058,41.0,Female,6.6,3.0,5.3,,5.6,9.3,Good,Standard,Laptop,No,Junior Dev,High
+PR3253,39.0,Female,8.2,3.0,0.4,6.7,5.1,5.0,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3152,41.0,Female,,3.0,2.3,6.6,3.5,4.7,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR3194,37.0,Female,,3.0,1.0,,8.1,,Poor,Ergonomic,Laptop,No,Junior Dev,High
+PR4067,26.0,Male,7.0,4.0,0.3,6.2,3.6,4.7,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3068,,Female,5.9,2.0,4.3,6.7,3.8,2.6,,Standard,Desktop,No,Freelancer,Low
+PR3130,45.0,Male,8.8,4.0,0.1,6.1,3.2,1.5,Poor,Standard,Laptop,No,Student,Low
+PR3609,36.0,Male,7.9,3.0,5.0,6.4,3.5,9.8,Good,Ergonomic,Desktop,Yes,Junior Dev,High
+PR4177,25.0,Female,7.0,4.0,4.8,,1.6,2.8,Good,,Laptop,Yes,Junior Dev,Low
+PR3705,25.0,Male,10.0,4.0,3.4,6.8,4.6,8.3,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3577,19.0,Female,5.6,3.0,5.6,6.5,2.9,0.2,Good,Ergonomic,Laptop,No,Freelancer,Low
+PR3981,47.0,Female,5.1,3.0,6.8,7.3,5.1,9.0,,,Desktop,No,Student,High
+PR4309,30.0,Male,6.4,3.0,4.5,9.1,4.1,0.3,Good,Standard,Laptop,No,Freelancer,Medium
+PR3240,50.0,Male,5.1,3.0,2.0,4.5,4.8,4.9,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3752,39.0,Female,5.9,4.0,2.7,6.3,7.7,7.7,Good,Standard,Laptop,Yes,,Medium
+PR3187,20.0,Female,8.5,0.0,6.6,7.8,7.4,4.5,Poor,Standard,Desktop,No,Student,High
+PR3830,39.0,Female,7.6,4.0,0.8,7.2,3.8,8.9,Good,Standard,Desktop,No,Student,Medium
+PR3464,24.0,Female,4.8,2.0,3.8,6.7,,4.7,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4205,52.0,Female,6.9,,6.6,7.9,4.1,8.4,Poor,Standard,Laptop,No,Student,Medium
+PR4314,33.0,Male,7.9,,17.2,6.2,7.0,9.3,Good,Standard,Desktop,No,Freelancer,High
+PR4319,53.0,Female,8.0,3.0,6.0,6.3,5.3,0.7,Poor,Standard,Desktop,No,Senior Dev,Low
+PR4218,47.0,Female,4.1,1.0,1.2,6.8,4.4,6.5,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3283,50.0,Female,4.3,4.0,,3.9,6.8,7.9,Good,Ergonomic,Desktop,No,Junior Dev,Medium
+PR3874,44.0,Female,5.3,4.0,6.3,9.5,6.2,9.9,Poor,Standard,Laptop,No,Student,Medium
+PR4079,23.0,Male,8.4,3.0,0.2,6.8,3.2,4.5,Good,Standard,Desktop,No,Student,High
+PR3474,38.0,Female,8.3,3.0,3.4,9.1,5.2,5.6,Poor,Standard,Desktop,No,Senior Dev,High
+PR4382,50.0,Male,8.4,2.0,0.2,5.0,5.3,8.1,Good,Standard,Laptop,No,Freelancer,Medium
+PR3109,26.0,Female,5.7,3.0,,8.2,4.4,5.1,Good,Standard,Laptop,No,Freelancer,Low
+PR4274,,Female,8.0,4.0,17.1,4.9,2.3,9.2,Poor,Standard,Laptop,No,Student,High
+PR3122,53.0,Male,6.7,7.0,12.7,,5.1,9.3,Good,,Laptop,No,Senior Dev,Low
+PR3389,18.0,Male,7.6,0.0,1.5,7.3,6.1,7.4,Poor,Standard,Laptop,No,Senior Dev,High
+PR3280,38.0,Male,7.5,0.0,11.8,5.9,5.3,3.4,Poor,Standard,Desktop,No,Freelancer,High
+PR3637,19.0,Male,4.5,2.0,5.5,8.6,8.7,2.8,Poor,Standard,Laptop,No,Junior Dev,High
+PR3450,42.0,Female,7.6,2.0,1.4,5.8,,2.5,Good,Standard,Laptop,Yes,Freelancer,Low
+PR3804,40.0,Male,9.0,1.0,11.5,6.1,5.4,8.2,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3547,27.0,Female,10.2,4.0,1.5,6.8,1.8,5.0,Good,Standard,Laptop,No,Freelancer,Medium
+PR4325,27.0,Male,9.1,1.0,1.7,5.9,6.6,7.4,Poor,Standard,Laptop,Yes,Junior Dev,High
+PR3568,30.0,Female,11.1,2.0,6.0,,6.5,9.7,Good,Ergonomic,Laptop,Yes,Junior Dev,High
+PR4056,52.0,Male,3.4,2.0,0.5,7.2,5.2,8.9,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3597,23.0,Female,2.7,3.0,0.3,,7.0,1.9,Poor,Standard,Desktop,Yes,Junior Dev,Low
+PR3718,24.0,Male,5.8,6.0,0.3,6.1,4.0,1.7,Poor,Standard,Laptop,No,Junior Dev,Low
+PR4320,44.0,Female,7.0,1.0,,6.8,5.1,8.6,Poor,Standard,Desktop,Yes,Junior Dev,Medium
+PR3067,42.0,Male,,4.0,9.1,6.2,6.6,9.3,Poor,,Desktop,No,Freelancer,Medium
+PR4348,24.0,Male,6.0,,1.4,5.1,1.7,4.1,Poor,Standard,Laptop,No,Freelancer,Low
+PR3740,53.0,Male,5.2,3.0,5.3,7.7,6.2,4.2,Good,Standard,Laptop,No,Freelancer,Low
+PR3820,48.0,Male,9.0,2.0,3.2,8.0,4.5,5.0,Poor,Standard,Desktop,No,Student,Medium
+PR3547,27.0,Female,10.2,4.0,1.5,6.8,1.8,5.0,Good,Standard,Laptop,No,Freelancer,Medium
+PR3463,26.0,Female,9.9,2.0,7.6,7.7,6.8,8.9,Poor,Standard,Laptop,No,Freelancer,High
+PR4133,52.0,Male,9.3,4.0,8.2,7.9,9.6,4.2,Poor,Ergonomic,Desktop,No,Junior Dev,High
+PR3318,19.0,Male,4.4,3.0,7.5,5.7,5.6,7.6,Poor,Standard,Desktop,No,Senior Dev,High
+PR3892,21.0,Male,7.3,2.0,9.7,7.9,4.5,1.4,Good,Ergonomic,Laptop,Yes,Senior Dev,Low
+PR3758,28.0,Male,5.5,3.0,1.1,6.7,4.2,9.3,Good,Ergonomic,Desktop,Yes,Junior Dev,Medium
+PR4194,40.0,Male,8.5,0.0,1.9,4.3,7.3,7.9,Good,Standard,Desktop,No,Student,High
+PR4339,44.0,Male,5.4,1.0,21.6,6.4,6.1,9.3,Good,Standard,Laptop,No,Freelancer,Medium
+PR3132,37.0,Male,9.4,1.0,1.3,8.3,1.1,2.0,Good,Standard,Desktop,No,Senior Dev,High
+PR3673,21.0,Male,4.7,5.0,0.8,7.5,3.6,3.6,,Ergonomic,Desktop,No,Student,Low
+PR4054,26.0,Male,5.2,4.0,2.5,6.1,5.2,0.3,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3517,37.0,Male,6.8,3.0,1.8,6.3,5.7,9.3,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3707,32.0,Male,8.2,4.0,2.3,5.9,6.0,6.1,Good,Ergonomic,Laptop,No,Senior Dev,Medium
+PR4253,43.0,Female,,3.0,1.5,8.5,2.9,5.7,Poor,Ergonomic,Desktop,Yes,Student,Low
+PR4238,54.0,Male,11.8,3.0,2.5,6.4,2.7,9.5,Poor,Standard,Laptop,No,Freelancer,High
+PR3125,24.0,Female,7.5,1.0,0.7,7.5,,7.8,Poor,Standard,Laptop,Yes,Student,Medium
+PR3960,39.0,Female,6.8,1.0,7.8,,6.3,5.5,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR4270,42.0,Female,8.4,3.0,8.6,5.0,3.0,6.1,Good,Standard,Desktop,No,Student,High
+PR3698,43.0,Female,9.3,7.0,10.9,6.2,3.1,1.4,Poor,Standard,Laptop,No,Student,Low
+PR3565,26.0,Female,6.3,3.0,0.9,7.0,8.0,2.1,Poor,Ergonomic,Laptop,Yes,Student,Low
+PR3447,29.0,Female,,2.0,2.0,7.5,5.5,1.2,Poor,Standard,Desktop,Yes,Freelancer,Low
+PR3289,41.0,Male,,2.0,4.3,4.0,3.2,8.7,Poor,Ergonomic,Desktop,Yes,Student,High
+PR4251,27.0,Male,7.3,4.0,4.7,8.4,3.3,0.1,Poor,Standard,Laptop,No,Student,Low
+PR3816,32.0,Male,9.3,1.0,1.2,,6.1,9.5,Poor,Standard,Laptop,No,Junior Dev,High
+PR4038,53.0,Male,9.5,5.0,1.8,6.9,5.1,2.1,Good,Standard,Laptop,Yes,Freelancer,Low
+PR3053,51.0,Female,6.1,3.0,1.9,6.0,1.6,0.6,Poor,Standard,Laptop,No,,Low
+PR3468,36.0,Female,6.0,4.0,2.4,6.4,5.9,9.3,Poor,Standard,Laptop,No,Student,Medium
+PR3972,49.0,Male,8.2,3.0,10.4,5.0,4.4,6.7,Poor,Standard,Laptop,No,Freelancer,High
+PR3771,37.0,Male,4.5,3.0,0.2,6.7,2.3,9.9,,Standard,Laptop,No,Senior Dev,Low
+PR3704,18.0,Male,7.8,2.0,4.5,6.1,,7.6,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3040,24.0,Female,6.4,,3.1,4.7,6.1,8.6,Poor,Standard,Laptop,Yes,Junior Dev,High
+PR3339,36.0,Female,9.7,3.0,2.9,7.6,3.6,6.9,Poor,Standard,Laptop,No,Student,Medium
+PR4083,51.0,Male,7.1,3.0,5.4,5.5,2.7,4.9,Good,,Laptop,No,Freelancer,Low
+PR3866,46.0,Male,6.5,5.0,2.9,9.1,6.4,1.3,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR4095,51.0,Male,8.7,4.0,6.3,5.8,2.0,3.5,Poor,Standard,Laptop,No,Student,Medium
+PR4261,37.0,Female,8.8,1.0,1.3,6.9,6.1,0.5,Poor,Standard,Laptop,No,Student,Low
+PR3083,50.0,Female,11.8,4.0,0.8,6.4,6.7,3.0,Poor,Ergonomic,Desktop,No,Senior Dev,Low
+PR3115,49.0,Female,8.7,4.0,8.4,9.6,4.6,4.3,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR4130,18.0,Male,7.4,5.0,2.0,5.3,4.8,4.8,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3953,41.0,Female,9.8,2.0,5.0,,4.6,7.9,Poor,Standard,Laptop,No,Senior Dev,High
+PR3975,40.0,Female,,4.0,1.8,7.7,6.9,7.7,Poor,Ergonomic,Desktop,No,Student,Medium
+PR3744,36.0,Male,11.0,2.0,2.7,8.1,4.1,1.0,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4201,35.0,Female,5.2,2.0,3.2,7.6,5.0,5.4,Poor,Ergonomic,Laptop,No,Freelancer,Low
+PR3270,47.0,Female,9.5,2.0,0.7,6.4,4.2,4.6,Good,Standard,Desktop,No,Senior Dev,Medium
+PR4039,46.0,Female,5.8,4.0,7.4,6.7,6.6,3.3,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4222,18.0,Male,8.4,2.0,1.0,6.1,5.9,1.1,Poor,Standard,Desktop,Yes,Junior Dev,Medium
+PR3556,53.0,Male,3.3,4.0,,7.6,6.5,3.9,Poor,Standard,Desktop,No,Freelancer,Low
+PR4394,52.0,Female,7.4,2.0,0.8,8.1,5.7,8.0,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3377,50.0,Male,,3.0,0.6,6.6,4.4,0.7,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3635,38.0,Male,7.0,2.0,12.0,6.5,4.3,4.5,,Standard,Desktop,Yes,Junior Dev,Low
+PR3096,39.0,Male,5.9,5.0,7.5,5.6,4.2,5.8,Poor,Standard,Laptop,Yes,Freelancer,Medium
+PR3700,47.0,Female,9.9,4.0,7.3,5.9,1.9,6.4,Good,Standard,Laptop,No,Student,High
+PR4260,52.0,Female,4.9,2.0,1.0,6.3,2.6,4.1,Poor,Standard,Laptop,No,Senior Dev,Low
+PR4335,29.0,Male,1.4,5.0,,7.2,4.5,7.7,Poor,Standard,Laptop,Yes,Senior Dev,Low
+PR3541,18.0,Female,3.9,0.0,5.1,5.9,5.6,5.9,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3048,23.0,Male,7.8,5.0,6.5,8.5,7.7,3.7,Poor,Standard,Desktop,No,Senior Dev,High
+PR4145,41.0,Female,3.9,5.0,0.1,6.9,6.0,8.4,Poor,Standard,Laptop,Yes,Student,Low
+PR4244,51.0,Female,8.0,3.0,1.5,5.3,3.5,1.9,Good,Standard,Laptop,No,Junior Dev,Medium
+PR4280,26.0,Male,5.2,1.0,6.3,7.5,6.4,9.7,Poor,Standard,Laptop,No,Junior Dev,High
+PR3153,29.0,Female,5.8,4.0,0.4,6.9,3.2,4.9,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR3237,52.0,Female,8.2,,5.4,5.2,4.6,9.8,Good,Ergonomic,Desktop,No,Student,Medium
+PR3054,27.0,Male,,7.0,2.0,5.7,,1.2,Good,Ergonomic,Laptop,Yes,Student,Low
+PR3394,33.0,Male,4.9,2.0,1.5,,6.8,4.3,Good,Standard,Laptop,No,Freelancer,Low
+PR3123,30.0,Male,9.3,4.0,0.4,5.3,4.7,5.3,Poor,Standard,Laptop,No,Junior Dev,High
+PR3488,27.0,Male,5.1,6.0,4.1,5.3,3.1,4.3,Poor,Standard,Desktop,No,Freelancer,Low
+PR3134,28.0,Female,3.6,,1.3,6.4,6.2,3.0,Poor,,Laptop,No,Student,Low
+PR3268,34.0,Male,8.1,1.0,3.0,5.1,5.4,,Good,Standard,Laptop,No,Student,High
+PR3385,48.0,Female,,3.0,1.0,4.5,5.8,6.2,Good,Ergonomic,Desktop,Yes,Freelancer,Low
+PR3097,44.0,Female,7.5,3.0,0.0,7.1,3.0,5.5,Poor,Ergonomic,Laptop,Yes,Student,Low
+PR3220,20.0,Female,2.1,2.0,8.8,4.6,3.3,1.6,Good,Standard,Laptop,No,Junior Dev,Low
+PR3041,25.0,Male,6.9,3.0,1.6,,3.6,1.7,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR4368,27.0,Female,9.4,2.0,10.8,5.3,4.5,0.2,Poor,Standard,Desktop,Yes,Student,Low
+PR3863,24.0,Male,4.3,6.0,0.7,,5.3,4.4,Poor,Standard,Laptop,No,Student,Low
+PR3833,28.0,Female,12.9,3.0,0.9,5.0,5.8,6.7,Poor,Standard,Desktop,Yes,Senior Dev,High
+PR3467,48.0,Female,9.5,2.0,2.9,4.0,5.5,,Poor,Standard,Laptop,No,Student,High
+PR3799,20.0,Female,7.9,0.0,3.3,7.4,6.1,10.0,Good,Standard,Desktop,No,Senior Dev,High
+PR4158,42.0,Female,9.8,2.0,1.1,,9.2,5.1,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3918,22.0,Female,2.7,5.0,5.6,5.5,4.7,9.6,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3012,39.0,Male,7.2,2.0,0.0,6.8,,3.6,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3595,18.0,Male,,5.0,3.8,6.6,5.0,3.4,Good,Standard,Desktop,No,Freelancer,High
+PR3963,38.0,Male,6.2,2.0,8.2,6.8,10.2,2.2,,Ergonomic,Laptop,No,Senior Dev,High
+PR3585,28.0,Female,6.7,2.0,0.9,4.3,6.8,7.7,Poor,Ergonomic,Desktop,No,Junior Dev,Medium
+PR4283,51.0,Male,3.6,2.0,21.3,6.1,6.4,6.8,Poor,Standard,Laptop,Yes,Student,High
+PR3971,18.0,Male,3.7,1.0,12.4,6.1,5.0,5.4,Poor,Ergonomic,Desktop,No,Student,Low
+PR4275,51.0,Female,8.6,4.0,0.8,4.9,5.2,8.5,Good,Standard,Laptop,No,Student,Medium
+PR3619,51.0,Male,8.7,4.0,2.5,8.3,7.4,2.1,Poor,Ergonomic,Laptop,No,,Low
+PR4171,39.0,Female,4.5,0.0,5.5,4.1,4.4,3.5,Good,Ergonomic,Desktop,No,Freelancer,High
+PR4293,25.0,Male,,2.0,0.9,7.7,6.7,4.3,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3507,23.0,Male,5.2,4.0,3.0,6.3,5.7,4.0,Poor,Standard,Desktop,No,Student,Medium
+PR3912,35.0,Male,7.1,3.0,1.1,4.5,3.1,6.6,Good,Standard,Laptop,Yes,Student,Low
+PR3593,51.0,Female,7.6,2.0,15.6,,5.4,0.7,Poor,Ergonomic,Desktop,Yes,Junior Dev,Low
+PR4297,23.0,Male,5.7,2.0,2.9,8.3,8.8,5.5,Poor,Standard,Desktop,No,Senior Dev,High
+PR3806,19.0,Male,8.5,,1.2,7.3,1.9,,Good,Standard,Laptop,No,Freelancer,Low
+PR3531,,Female,,3.0,1.9,7.5,5.6,8.4,Good,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3452,47.0,Female,5.6,3.0,6.1,5.0,6.1,6.2,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3681,36.0,Male,8.3,3.0,0.9,6.2,4.9,4.1,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3336,33.0,Male,7.2,4.0,1.7,7.1,4.0,7.1,Poor,Standard,Desktop,Yes,Senior Dev,High
+PR3232,42.0,Male,,3.0,2.1,5.8,6.4,8.4,Good,Standard,Laptop,No,Student,Medium
+PR3546,29.0,Female,7.6,2.0,0.6,,6.3,9.2,Poor,Standard,Desktop,No,Junior Dev,Low
+PR4026,38.0,Female,9.6,2.0,1.6,5.9,,9.1,Poor,Standard,Desktop,No,Junior Dev,High
+PR3665,28.0,Male,11.0,4.0,2.1,5.2,4.4,3.2,Poor,Standard,Laptop,Yes,Junior Dev,Medium
+PR3717,31.0,Male,8.1,5.0,11.4,7.3,1.6,8.7,Poor,Standard,Laptop,No,Student,High
+PR3297,34.0,Female,5.3,,0.2,6.5,4.3,6.8,Poor,Ergonomic,Laptop,Yes,Student,Low
+PR3828,52.0,Male,7.8,2.0,3.8,5.1,1.8,8.0,Poor,Standard,Desktop,No,Freelancer,High
+PR4312,41.0,Female,6.2,3.0,5.4,4.5,2.1,0.2,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR3664,30.0,Male,7.8,3.0,4.3,7.0,4.7,2.8,Good,Standard,Laptop,No,Senior Dev,Low
+PR3205,47.0,Male,6.4,3.0,3.4,6.6,3.9,9.7,Poor,Standard,Desktop,No,Student,Medium
+PR3906,25.0,Male,9.6,4.0,4.6,7.0,5.3,9.8,Poor,Standard,Desktop,Yes,Student,Medium
+PR3877,39.0,Male,7.6,9.0,0.9,5.0,4.0,3.7,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3683,22.0,Female,5.9,2.0,6.4,6.1,2.7,4.7,Good,Standard,Laptop,No,Freelancer,Low
+PR3791,29.0,Male,2.0,5.0,5.3,6.3,4.2,8.9,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR4076,40.0,Female,6.7,3.0,2.1,5.1,7.0,,Poor,Standard,Laptop,No,Freelancer,Low
+PR4228,35.0,Male,4.6,3.0,5.0,7.0,5.8,4.1,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3887,32.0,Female,6.6,3.0,1.4,5.4,7.4,9.9,Poor,Standard,Laptop,No,Student,High
+PR4118,53.0,Male,9.3,1.0,9.3,8.3,4.2,7.7,Poor,Standard,Laptop,No,Junior Dev,High
+PR3881,27.0,Male,9.4,4.0,1.1,7.3,3.8,1.3,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3510,44.0,Male,9.0,0.0,4.0,6.7,7.3,2.7,Good,Standard,Laptop,No,Student,Medium
+PR3902,37.0,Female,8.1,2.0,0.0,,4.5,2.7,Good,Standard,Laptop,No,Junior Dev,Low
+PR3527,49.0,Female,7.2,3.0,8.2,8.2,7.1,3.3,Good,Ergonomic,Desktop,No,Junior Dev,Low
+PR3408,18.0,Female,8.1,6.0,6.1,6.5,8.6,5.2,Poor,Ergonomic,Laptop,Yes,Freelancer,Low
+PR3500,18.0,Male,7.5,0.0,1.4,8.8,5.2,10.0,Poor,Ergonomic,Desktop,No,Student,High
+PR4362,21.0,Female,,3.0,0.3,6.3,3.5,5.0,Poor,Standard,Laptop,No,Freelancer,Low
+PR3660,,Female,9.2,3.0,,9.0,2.8,8.3,Poor,Standard,Desktop,Yes,Student,Medium
+PR3642,47.0,Female,8.5,2.0,4.3,7.8,5.2,4.2,Poor,Standard,Desktop,Yes,Student,Medium
+PR3157,34.0,Female,4.7,2.0,2.1,,5.3,6.8,Good,Ergonomic,Laptop,No,Student,Low
+PR3713,31.0,Male,8.4,3.0,4.6,7.4,5.2,0.7,Poor,Ergonomic,Laptop,Yes,Freelancer,Low
+PR4262,52.0,Male,10.1,4.0,1.1,8.3,6.0,5.5,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3140,30.0,Female,8.4,3.0,1.4,5.5,4.9,2.4,Good,Standard,Desktop,Yes,Freelancer,Low
+PR3160,45.0,Female,5.7,4.0,1.9,6.4,2.7,5.6,Good,Standard,Laptop,No,Junior Dev,Low
+PR3305,30.0,Female,8.2,4.0,2.6,5.3,5.8,5.7,Good,Ergonomic,Desktop,No,Student,Medium
+PR4080,,Male,3.6,2.0,1.9,5.2,8.4,5.2,Good,Standard,Desktop,No,Junior Dev,Low
+PR4381,28.0,Female,9.1,1.0,0.4,6.1,2.9,5.2,Good,Standard,Laptop,Yes,Junior Dev,High
+PR4134,20.0,Female,7.4,4.0,0.2,5.0,5.9,7.8,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR3395,19.0,Male,7.9,2.0,0.4,3.8,,1.3,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR4300,45.0,Male,7.5,,2.9,,1.6,2.4,Poor,Standard,Laptop,No,Student,Low
+PR3399,37.0,Female,6.1,7.0,2.7,7.8,4.1,1.5,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3967,37.0,Female,7.5,4.0,0.1,5.6,8.8,6.2,Poor,Ergonomic,Desktop,No,Junior Dev,Medium
+PR4050,37.0,Male,8.3,2.0,1.6,,8.5,7.5,Poor,Standard,Desktop,No,Student,High
+PR3962,45.0,Male,4.6,5.0,1.9,4.9,3.9,6.1,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3993,46.0,Male,9.0,4.0,0.8,,3.3,8.3,Poor,Standard,Desktop,No,Senior Dev,Low
+PR4308,44.0,Female,8.7,3.0,0.6,8.1,7.8,7.2,Poor,Ergonomic,Desktop,No,Senior Dev,High
+PR3224,41.0,Male,6.0,7.0,8.6,5.7,3.6,9.7,,Standard,Laptop,No,Junior Dev,Medium
+PR3287,48.0,Male,8.0,2.0,7.8,7.0,6.5,8.3,Poor,Standard,Laptop,Yes,Senior Dev,High
+PR4223,47.0,Female,6.5,3.0,1.3,4.6,5.4,7.9,Poor,Standard,Laptop,No,Freelancer,High
+PR3355,,Female,4.5,1.0,0.2,8.5,6.4,1.3,Good,Standard,Laptop,Yes,Student,Low
+PR3918,22.0,Female,2.7,5.0,5.6,5.5,4.7,9.6,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3511,27.0,Male,8.6,4.0,1.7,7.4,2.8,5.8,Good,Standard,Laptop,No,Junior Dev,Medium
+PR4021,31.0,Male,6.4,3.0,0.8,6.1,5.9,9.9,Good,Standard,Desktop,Yes,Junior Dev,High
+PR3677,20.0,Male,7.1,6.0,7.7,7.9,6.7,1.1,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR3895,44.0,Male,7.8,4.0,3.2,6.7,5.8,0.4,Poor,Standard,Desktop,No,Student,Low
+PR3525,50.0,Female,9.4,1.0,4.3,6.9,2.9,2.0,Good,Standard,Desktop,Yes,,Low
+PR3961,43.0,Male,7.9,1.0,,5.0,6.1,8.0,Poor,Standard,Laptop,Yes,Freelancer,High
+PR3457,30.0,Male,10.8,2.0,7.0,8.0,5.0,0.4,Good,Standard,Laptop,No,Senior Dev,High
+PR3513,36.0,Female,8.1,2.0,3.5,7.0,4.7,0.3,Good,Standard,Laptop,No,Senior Dev,High
+PR3478,31.0,Female,7.6,3.0,1.3,8.4,4.6,8.3,Good,Ergonomic,Desktop,No,Junior Dev,High
+PR3026,20.0,Male,9.7,4.0,2.4,5.7,7.4,0.9,Poor,Standard,Desktop,No,Student,High
+PR4085,54.0,Female,9.6,3.0,1.0,4.5,5.7,1.5,Poor,Ergonomic,Desktop,No,Senior Dev,High
+PR3358,46.0,Male,7.6,1.0,0.1,3.0,7.6,2.9,Good,,Desktop,No,Senior Dev,High
+PR3278,52.0,Male,11.0,1.0,3.2,3.4,4.5,1.9,Good,Standard,Desktop,Yes,Junior Dev,High
+PR3572,52.0,Male,5.6,1.0,1.2,5.4,3.9,3.5,Good,Standard,Desktop,No,Student,Medium
+PR4351,51.0,Male,3.2,0.0,2.1,5.0,5.7,8.1,Good,Standard,Laptop,Yes,Student,Medium
+PR3003,38.0,Female,4.5,4.0,3.2,8.0,5.3,1.7,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3023,45.0,Male,8.3,4.0,10.3,8.4,3.6,3.3,Good,Ergonomic,Desktop,No,Student,Low
+PR3878,19.0,Male,7.2,2.0,0.2,8.6,7.5,3.0,Poor,,Laptop,No,Senior Dev,Medium
+PR4188,41.0,Female,9.2,4.0,1.5,6.9,5.0,7.0,Poor,Standard,Laptop,Yes,Freelancer,High
+PR3347,26.0,Female,5.0,4.0,7.7,,4.3,5.8,Poor,Ergonomic,Laptop,No,Freelancer,Low
+PR3694,31.0,Female,7.2,1.0,12.3,5.3,7.4,5.1,Poor,Ergonomic,Laptop,Yes,Senior Dev,High
+PR4061,47.0,Male,6.7,3.0,7.0,6.0,5.4,7.6,Poor,Ergonomic,Laptop,No,Junior Dev,Medium
+PR3147,50.0,Male,6.8,4.0,2.2,8.0,5.7,2.4,Poor,Standard,Laptop,No,,Low
+PR4212,49.0,Male,7.7,2.0,0.0,6.5,5.5,3.3,Good,Ergonomic,Laptop,No,Freelancer,Low
+PR3777,47.0,Female,9.2,2.0,3.0,6.9,6.2,0.1,Good,Standard,Laptop,No,Freelancer,Low
+PR3446,54.0,Female,6.8,3.0,,5.5,3.3,6.0,Poor,Standard,Desktop,No,Freelancer,High
+PR3957,41.0,Female,4.5,8.0,3.9,6.3,7.0,6.1,,Standard,Laptop,No,Junior Dev,Low
+PR4377,52.0,Female,8.2,4.0,2.9,5.9,5.6,6.9,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4307,51.0,Female,9.1,4.0,0.9,7.8,5.1,6.1,Good,Standard,Desktop,No,Freelancer,Medium
+PR3379,54.0,Male,8.2,3.0,0.0,8.1,7.3,4.7,Good,Standard,Laptop,No,Senior Dev,Low
+PR3860,23.0,Female,6.5,,0.3,4.3,5.5,2.3,Good,Ergonomic,Laptop,No,Freelancer,Low
+PR3374,43.0,Female,6.5,4.0,4.2,7.3,3.2,6.0,Good,Standard,Laptop,No,Junior Dev,Medium
+PR4266,20.0,Male,7.0,4.0,10.4,6.3,3.2,9.3,Good,,Desktop,No,Freelancer,High
+PR3880,22.0,Male,7.0,3.0,0.3,4.6,1.2,1.4,Good,Standard,Laptop,No,Student,Low
+PR4269,30.0,Female,6.5,3.0,11.8,6.0,5.2,3.4,Poor,Standard,Desktop,No,Junior Dev,High
+PR3231,52.0,Female,8.6,4.0,5.2,5.9,5.4,8.5,Poor,Standard,Desktop,No,Senior Dev,High
+PR3382,22.0,Male,6.2,6.0,0.4,6.0,6.5,,Poor,Standard,Desktop,No,Student,Medium
+PR3650,34.0,Male,4.1,3.0,5.3,5.6,4.4,7.0,Poor,Standard,Laptop,No,Junior Dev,High
+PR3072,24.0,Female,11.0,2.0,10.1,4.0,8.5,1.3,Poor,Standard,Laptop,No,,High
+PR3070,18.0,Male,7.6,3.0,2.7,4.9,2.2,4.1,Poor,,Laptop,No,Junior Dev,Low
+PR3652,46.0,Female,7.2,1.0,1.8,7.1,5.6,2.9,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3171,49.0,Female,8.4,4.0,3.3,,4.9,3.0,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3168,43.0,Male,5.1,2.0,0.1,8.1,4.8,0.2,Good,Standard,Laptop,No,Senior Dev,Low
+PR3493,44.0,Female,4.2,3.0,11.4,7.5,4.9,2.1,,Standard,Laptop,No,Junior Dev,Medium
+PR3562,53.0,Female,7.4,1.0,7.8,6.7,2.2,2.5,Good,Standard,Desktop,Yes,,High
+PR4187,48.0,Male,7.4,0.0,0.1,8.0,5.3,4.1,Poor,Ergonomic,Desktop,Yes,Student,Medium
+PR3272,23.0,Female,6.4,5.0,6.3,6.6,3.3,2.2,Poor,Ergonomic,Laptop,No,Junior Dev,Low
+PR4146,36.0,Male,9.7,2.0,2.6,7.2,2.5,9.4,Poor,Standard,Desktop,No,Senior Dev,High
+PR3420,25.0,Male,6.9,4.0,0.4,6.3,,7.8,Poor,Standard,Laptop,No,Student,High
+PR3094,54.0,Female,4.5,4.0,2.9,6.1,,2.2,Good,Standard,Desktop,No,Junior Dev,Low
+PR3980,46.0,Female,4.7,2.0,10.0,7.1,5.9,10.0,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR4164,,Male,7.4,2.0,,,2.8,5.4,Poor,Standard,Desktop,No,Freelancer,High
+PR3042,52.0,Male,6.6,2.0,0.6,5.9,3.3,2.7,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3056,31.0,Female,8.2,1.0,9.8,5.7,4.2,5.5,Poor,Standard,Desktop,No,Senior Dev,High
+PR4167,34.0,Male,3.9,5.0,1.2,5.9,6.0,3.8,Good,Ergonomic,Laptop,No,Junior Dev,Medium
+PR3658,37.0,Female,8.4,1.0,0.6,6.1,5.1,8.2,Poor,Standard,Laptop,No,Student,High
+PR3038,37.0,Female,,3.0,3.3,9.2,1.5,2.4,Good,Ergonomic,Desktop,No,Junior Dev,Low
+PR3306,24.0,Female,4.6,2.0,5.8,6.3,5.3,3.3,Poor,Standard,Desktop,Yes,Student,Low
+PR3732,34.0,Female,9.5,6.0,2.1,7.7,5.5,8.8,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3598,45.0,Male,4.2,2.0,2.7,6.9,5.5,9.1,Good,Ergonomic,Laptop,No,Student,Medium
+PR3408,18.0,Female,8.1,6.0,6.1,6.5,8.6,5.2,Poor,Ergonomic,Laptop,Yes,Freelancer,Low
+PR3166,36.0,Female,2.4,3.0,2.3,6.9,6.8,1.1,Good,Standard,Desktop,No,Student,Low
+PR3534,,Female,6.4,1.0,23.2,6.4,6.4,9.6,Poor,Ergonomic,Desktop,Yes,Student,High
+PR4086,42.0,Female,5.1,4.0,1.3,7.2,4.7,6.1,Poor,Standard,Laptop,No,Freelancer,Medium
+PR4389,51.0,Male,10.2,3.0,11.0,5.3,7.0,3.4,,Standard,Laptop,Yes,Student,High
+PR4044,37.0,Female,8.1,4.0,0.1,6.9,4.2,7.2,Poor,Standard,Desktop,No,Student,Medium
+PR4379,24.0,Female,4.3,4.0,0.9,,3.8,8.0,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3671,25.0,Female,11.4,4.0,6.9,5.8,4.6,3.7,Good,Standard,Desktop,No,Senior Dev,Medium
+PR4079,23.0,Male,8.4,3.0,0.2,6.8,3.2,4.5,Good,Standard,Desktop,No,Student,High
+PR3316,45.0,Male,8.0,4.0,0.9,4.4,2.7,0.9,Poor,Standard,Desktop,Yes,Student,Medium
+PR3879,27.0,Female,2.2,2.0,8.3,5.7,5.4,1.5,Poor,Standard,Desktop,No,Freelancer,Low
+PR4257,22.0,Male,8.3,4.0,0.5,4.3,5.7,4.7,Poor,Standard,Laptop,Yes,Junior Dev,High
+PR4010,40.0,Female,7.0,6.0,1.9,5.9,3.4,9.7,Good,Standard,Laptop,No,Junior Dev,Low
+PR3968,39.0,Female,7.5,4.0,5.3,3.8,3.5,9.7,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3533,53.0,Male,8.1,3.0,0.5,7.7,6.9,2.8,Poor,Standard,Laptop,Yes,Student,High
+PR4291,,Male,5.7,2.0,5.9,6.1,2.5,5.9,Poor,Standard,Desktop,No,Junior Dev,Low
+PR3901,22.0,Female,5.9,4.0,0.0,6.9,,4.6,Good,Ergonomic,Laptop,No,Student,Low
+PR4005,46.0,Female,7.6,0.0,1.0,6.9,5.2,3.7,Good,Ergonomic,Desktop,Yes,Junior Dev,Low
+PR3548,49.0,Female,3.8,2.0,14.9,6.0,0.5,4.0,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3999,51.0,Male,5.8,3.0,0.8,8.2,4.6,9.6,,Standard,Desktop,No,Junior Dev,Medium
+PR4020,41.0,Female,13.0,4.0,3.9,6.4,4.1,8.9,Good,Standard,Laptop,Yes,Junior Dev,High
+PR4340,34.0,Male,9.7,4.0,0.5,7.4,5.1,4.6,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3621,48.0,Female,4.6,2.0,2.6,4.8,2.7,1.8,Poor,Ergonomic,Laptop,No,Freelancer,Medium
+PR3061,40.0,Male,6.8,1.0,4.6,,6.3,9.5,Poor,Ergonomic,Desktop,No,Junior Dev,High
+PR4271,26.0,Male,4.2,3.0,1.0,8.2,3.8,1.0,Poor,Standard,Laptop,No,Freelancer,Low
+PR3536,37.0,Male,,7.0,1.7,5.8,4.8,0.1,Poor,Standard,Laptop,No,Student,Low
+PR3943,42.0,Female,6.1,5.0,1.0,5.9,5.9,6.3,Good,Standard,Desktop,No,Student,Low
+PR4286,32.0,Female,7.5,3.0,1.8,8.5,5.9,0.6,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3244,38.0,Male,2.8,1.0,0.4,8.0,7.6,6.3,Good,Standard,Desktop,No,Senior Dev,Low
+PR3025,32.0,Male,7.7,4.0,7.5,6.6,3.2,0.3,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3222,41.0,Female,7.1,3.0,3.0,7.7,7.6,0.9,Good,Standard,Laptop,No,Student,Medium
+PR3885,53.0,Male,2.9,1.0,1.4,7.0,4.8,9.6,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3105,22.0,Male,11.4,4.0,4.3,6.7,6.9,4.0,Good,Standard,Laptop,No,Student,High
+PR4153,33.0,Female,7.8,1.0,3.0,5.3,6.0,2.7,Poor,Standard,Laptop,No,Senior Dev,High
+PR3509,,Female,6.7,2.0,2.3,8.0,7.1,3.5,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3131,45.0,Male,4.3,3.0,3.7,4.7,5.3,1.3,Good,Standard,Desktop,No,Senior Dev,Low
+PR3990,21.0,Female,6.5,2.0,9.2,6.6,6.2,3.2,Good,Standard,Desktop,No,Junior Dev,Low
+PR3903,28.0,Female,6.6,4.0,2.5,6.0,4.8,3.5,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3508,48.0,Male,9.7,3.0,5.2,6.2,2.7,6.5,,Standard,Laptop,No,Freelancer,Medium
+PR3491,30.0,Male,6.5,6.0,,5.4,4.4,2.8,Poor,Standard,Desktop,No,Junior Dev,Low
+PR3075,,Female,8.5,4.0,1.3,6.3,3.7,8.6,Good,Standard,Laptop,No,Freelancer,High
+PR3036,43.0,Male,3.5,4.0,9.6,3.0,10.0,5.3,Good,Standard,Laptop,No,Junior Dev,Low
+PR4290,51.0,Female,9.6,2.0,3.1,7.9,4.8,,Poor,Standard,Laptop,No,Senior Dev,High
+PR3057,48.0,Female,10.9,0.0,0.4,7.0,4.4,8.0,Poor,Standard,Desktop,Yes,Senior Dev,High
+PR3196,24.0,Female,8.2,1.0,2.2,,5.2,7.2,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR4210,35.0,Male,5.5,3.0,1.7,7.1,5.6,8.4,Good,Standard,Laptop,No,Junior Dev,Low
+PR3810,18.0,Female,5.0,4.0,5.5,8.5,5.9,4.3,Good,,Desktop,Yes,Student,Medium
+PR3643,32.0,Female,7.2,3.0,1.6,6.0,4.9,9.7,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3477,33.0,Male,5.9,4.0,3.6,7.8,2.3,0.4,Poor,Standard,Desktop,Yes,,Low
+PR3086,24.0,Male,4.7,6.0,1.3,7.5,5.4,3.7,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3561,54.0,Male,5.7,3.0,12.0,8.1,5.6,9.1,Good,Standard,Laptop,Yes,Junior Dev,High
+PR3334,47.0,Male,5.8,2.0,2.0,6.7,2.3,2.6,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR4002,45.0,Female,7.6,4.0,2.7,7.6,7.3,4.7,Good,Standard,Laptop,Yes,Freelancer,Medium
+PR3788,37.0,Female,4.9,4.0,5.1,5.9,6.7,5.1,Poor,Standard,Desktop,Yes,Senior Dev,Medium
+PR3871,46.0,Female,13.0,4.0,2.8,6.3,3.2,0.2,Good,Standard,Desktop,No,Junior Dev,Medium
+PR4134,20.0,Female,7.4,4.0,0.2,5.0,5.9,7.8,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR4139,36.0,Female,,5.0,4.4,6.3,3.7,0.9,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3538,31.0,Female,9.8,2.0,1.8,7.4,2.4,1.2,Poor,Ergonomic,Desktop,No,Senior Dev,Medium
+PR3739,35.0,Female,7.5,4.0,2.4,7.4,,6.3,Good,Ergonomic,Desktop,Yes,Student,Low
+PR3418,34.0,Male,8.9,1.0,8.2,6.8,1.9,6.2,Good,Standard,Desktop,No,Junior Dev,High
+PR4190,51.0,Male,2.2,2.0,3.2,3.2,3.1,5.3,Poor,Standard,Desktop,No,Junior Dev,Low
+PR4367,34.0,Male,,3.0,,8.6,4.3,3.6,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3954,42.0,Male,11.2,3.0,1.6,6.1,4.9,5.3,Good,Standard,Desktop,No,Student,Medium
+PR3573,23.0,Male,8.8,3.0,2.8,7.7,7.2,2.2,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR3617,18.0,Male,6.6,5.0,3.0,7.2,2.8,3.2,Poor,Ergonomic,Laptop,No,Senior Dev,Low
+PR4240,23.0,Female,5.8,2.0,5.5,7.0,3.8,8.3,Poor,Standard,Desktop,No,,Medium
+PR3332,23.0,Male,9.9,2.0,4.2,7.7,4.2,3.6,Good,Standard,Desktop,Yes,Student,Medium
+PR4075,51.0,Female,5.6,2.0,7.0,6.9,7.8,3.5,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3574,35.0,Female,7.0,2.0,0.1,7.7,4.9,5.9,Poor,Standard,Laptop,Yes,Junior Dev,Medium
+PR4272,21.0,Male,5.5,,4.0,8.1,3.7,3.5,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR4074,,Female,8.9,1.0,2.7,7.2,0.8,5.0,Poor,Standard,Laptop,No,Junior Dev,Low
+PR4069,42.0,Female,,2.0,3.1,7.2,2.5,4.3,Poor,Standard,Desktop,Yes,Freelancer,High
+PR4333,30.0,Female,3.3,2.0,3.1,5.9,2.3,5.8,Poor,Standard,Desktop,No,Student,High
+PR4182,47.0,Female,9.3,4.0,11.8,6.3,4.2,1.9,Good,Standard,Laptop,No,Junior Dev,Low
+PR3719,20.0,Female,5.9,1.0,2.1,4.7,8.2,3.5,Good,Standard,Laptop,Yes,Student,Medium
+PR3008,41.0,Female,9.0,3.0,1.3,6.2,4.9,9.9,Poor,Ergonomic,Laptop,No,Freelancer,Medium
+PR3893,29.0,Female,5.6,6.0,1.2,7.2,,9.5,Poor,Standard,Desktop,Yes,Junior Dev,Low
+PR4342,51.0,Female,,4.0,8.8,7.7,9.1,,Good,Standard,Laptop,Yes,Freelancer,High
+PR3768,48.0,Female,7.8,3.0,4.7,8.4,7.6,2.5,Good,Standard,Laptop,No,Senior Dev,Low
+PR3974,47.0,Male,7.4,4.0,2.9,5.8,5.5,3.8,Poor,Standard,Laptop,Yes,Senior Dev,Low
+PR4104,18.0,Male,3.0,1.0,1.1,4.7,,2.6,Poor,Standard,Laptop,No,Student,Medium
+PR3074,41.0,Female,7.9,6.0,2.4,8.2,3.6,5.6,Poor,Ergonomic,Laptop,No,Student,Low
+PR4180,35.0,Female,11.4,2.0,2.0,7.1,7.2,8.8,Poor,Standard,Desktop,No,Senior Dev,High
+PR3522,30.0,Female,8.1,3.0,0.4,3.9,6.0,,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3335,52.0,Male,3.9,,1.2,5.2,6.3,2.2,Good,Standard,Laptop,No,Freelancer,Low
+PR3569,45.0,Male,11.2,5.0,2.0,6.3,5.6,1.5,Good,Standard,Desktop,No,Junior Dev,Low
+PR3590,44.0,Female,11.1,2.0,1.6,5.1,5.7,0.3,Poor,Standard,Desktop,No,Student,High
+PR3088,25.0,Male,8.4,9.0,8.7,6.9,8.5,8.3,,Ergonomic,Laptop,Yes,,Medium
+PR3708,,Male,8.7,6.0,3.7,5.4,3.7,8.6,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3217,52.0,Female,5.5,5.0,1.4,9.4,4.8,2.8,Poor,Ergonomic,Desktop,Yes,Senior Dev,Low
+PR4169,43.0,Female,7.3,4.0,0.2,7.7,7.2,4.9,Poor,Ergonomic,Desktop,Yes,Student,Medium
+PR3173,28.0,Female,5.6,1.0,0.8,9.4,6.3,6.0,Good,Ergonomic,Desktop,No,Freelancer,Low
+PR4345,23.0,Male,4.4,1.0,6.7,5.2,6.2,8.4,Poor,Standard,Laptop,Yes,Senior Dev,High
+PR4008,20.0,Female,6.7,0.0,3.3,6.0,6.7,7.4,Poor,Standard,Laptop,No,Junior Dev,High
+PR3319,49.0,Male,4.3,1.0,1.7,5.5,4.0,1.9,Good,Standard,Desktop,No,Junior Dev,Low
+PR4276,28.0,Male,6.7,,5.8,6.6,7.2,5.8,Poor,Standard,Laptop,No,Senior Dev,High
+PR4397,46.0,Female,7.1,5.0,0.4,6.0,1.6,9.9,Poor,Ergonomic,Desktop,No,Junior Dev,Medium
+PR3769,23.0,Female,5.3,3.0,4.0,4.4,5.3,4.9,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3266,21.0,Male,6.4,4.0,0.1,7.1,4.1,5.6,Poor,Standard,Laptop,No,Student,Low
+PR3006,28.0,Male,4.3,4.0,2.2,6.7,1.8,0.2,Poor,Standard,Laptop,Yes,Junior Dev,Low
+PR3754,23.0,Female,8.2,,0.9,6.5,8.0,8.1,Poor,Standard,Laptop,No,Senior Dev,High
+PR3138,18.0,Male,6.4,2.0,0.1,5.7,7.6,0.1,Good,Standard,Desktop,No,Student,Low
+PR3163,49.0,Female,8.0,2.0,,5.4,5.7,1.3,Poor,Ergonomic,Desktop,No,Senior Dev,Medium
+PR4355,54.0,Male,7.8,4.0,2.8,5.8,4.1,5.6,Poor,Standard,Laptop,Yes,Senior Dev,High
+PR3594,52.0,Female,9.5,2.0,1.0,6.4,5.2,1.9,Poor,Standard,Laptop,No,Student,High
+PR4292,32.0,Male,7.9,7.0,0.4,6.5,5.3,8.1,Poor,Standard,Laptop,No,Student,Low
+PR3660,,Female,9.2,3.0,,9.0,2.8,8.3,Poor,Standard,Desktop,Yes,Student,Medium
+PR4391,46.0,Male,8.0,5.0,4.5,7.2,3.8,3.6,Good,Standard,Laptop,Yes,Student,Low
+PR3523,45.0,Male,,3.0,6.7,6.9,6.2,9.0,Poor,Standard,Laptop,No,Junior Dev,High
+PR4017,51.0,Male,,0.0,3.0,7.3,6.5,9.1,Poor,Standard,Laptop,No,Junior Dev,High
+PR3781,25.0,Male,4.1,1.0,1.6,7.0,5.2,7.0,Poor,Standard,Desktop,No,Freelancer,High
+PR3578,27.0,Male,9.1,3.0,2.2,6.8,6.7,0.6,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3738,20.0,Female,10.9,2.0,10.5,6.0,3.1,3.0,Good,Standard,Desktop,No,Freelancer,High
+PR3019,29.0,Male,6.5,2.0,4.7,5.9,4.9,4.4,Poor,,Desktop,No,Junior Dev,Medium
+PR3669,28.0,Male,6.9,2.0,1.8,5.2,6.6,0.3,Poor,Standard,Laptop,No,Freelancer,High
+PR3633,32.0,Male,10.4,3.0,,7.5,6.1,2.1,Good,Standard,Laptop,No,Freelancer,High
+PR3734,37.0,Male,4.4,4.0,1.9,6.0,5.7,,Good,Standard,Desktop,No,Student,High
+PR3618,49.0,Female,9.0,1.0,,5.5,3.0,8.0,,Ergonomic,Laptop,Yes,Junior Dev,High
+PR3746,23.0,Male,6.3,4.0,1.6,7.1,5.1,1.5,Good,Standard,Desktop,No,,Low
+PR3655,34.0,Male,6.3,4.0,3.1,4.5,2.6,3.0,Good,Standard,Laptop,No,Student,Low
+PR3783,22.0,Female,8.5,1.0,3.1,8.0,3.6,8.9,Poor,Standard,Desktop,Yes,Senior Dev,Medium
+PR3798,30.0,Male,6.5,1.0,3.1,5.5,7.8,4.3,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3137,50.0,Male,7.6,3.0,1.0,6.0,5.6,1.7,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3557,43.0,Male,10.2,2.0,3.2,6.8,5.7,6.0,Poor,Standard,Desktop,Yes,Junior Dev,High
+PR4198,39.0,Female,6.1,2.0,2.0,6.7,6.9,8.2,Poor,Standard,Desktop,Yes,Student,Medium
+PR3748,51.0,Female,6.6,2.0,4.8,5.6,3.4,,Poor,Standard,Laptop,No,Student,Medium
+PR4037,36.0,Male,5.4,1.0,10.8,4.1,4.9,8.4,Good,Ergonomic,Laptop,No,Junior Dev,High
+PR3872,50.0,Male,7.8,6.0,3.0,6.5,4.8,6.3,Good,Standard,Desktop,No,Junior Dev,Low
+PR3368,22.0,Male,4.4,5.0,7.9,7.3,6.6,6.5,Poor,Ergonomic,Laptop,Yes,Student,Medium
+PR4376,53.0,Female,5.8,2.0,1.3,,5.5,5.1,Good,Standard,Laptop,No,,High
+PR4315,45.0,Male,4.1,1.0,3.1,7.9,2.9,3.5,Poor,Ergonomic,Desktop,No,Student,Low
+PR3327,54.0,Male,8.4,2.0,19.7,5.8,1.3,5.7,Good,Standard,Desktop,No,Student,Medium
+PR3317,51.0,Male,11.7,4.0,2.1,7.0,4.5,5.9,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR4114,41.0,Female,6.4,,0.9,5.2,3.5,4.5,Good,Standard,Desktop,Yes,Senior Dev,Low
+PR4081,,Male,6.7,5.0,1.6,6.7,3.3,9.8,Poor,Standard,Laptop,No,Junior Dev,High
+PR3528,38.0,Female,11.0,2.0,2.7,,4.1,0.1,,Standard,Laptop,No,Senior Dev,High
+PR3526,23.0,Female,2.8,2.0,1.3,7.3,3.8,6.0,Good,Standard,Laptop,Yes,Student,Low
+PR3087,26.0,Female,5.8,4.0,5.9,7.5,6.9,8.0,Good,Standard,Desktop,No,Student,Medium
+PR3479,48.0,Female,,3.0,0.3,5.9,5.8,5.9,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3338,47.0,Male,7.2,2.0,5.1,6.3,4.4,7.4,Poor,Standard,Laptop,No,Senior Dev,High
+PR4249,37.0,Male,3.4,3.0,4.6,5.8,5.2,6.4,Poor,Standard,Desktop,No,Senior Dev,High
+PR3657,34.0,Male,5.8,,2.7,4.7,8.1,2.5,Good,Standard,Desktop,No,Junior Dev,Medium
+PR3148,41.0,Female,,3.0,1.3,8.6,2.3,0.5,Poor,Standard,Laptop,No,Junior Dev,Low
+PR4287,42.0,Female,7.3,5.0,,7.0,3.0,8.9,Poor,Standard,Laptop,Yes,Freelancer,Medium
+PR4350,49.0,Female,10.2,4.0,0.5,7.3,2.8,9.7,Good,Standard,Desktop,No,Junior Dev,High
+PR3028,24.0,Female,4.7,1.0,0.7,9.1,3.5,4.3,Poor,Standard,Desktop,No,Junior Dev,Low
+PR3246,25.0,Female,10.3,4.0,3.7,6.5,3.8,9.5,Good,Standard,Laptop,Yes,Senior Dev,Medium
+PR3365,46.0,Male,8.3,2.0,3.9,7.3,6.0,2.5,,Standard,Desktop,No,Junior Dev,Medium
+PR3731,42.0,Female,6.9,5.0,10.5,6.5,3.3,3.2,Poor,Ergonomic,Desktop,Yes,Junior Dev,Medium
+PR4245,42.0,Female,7.8,4.0,4.1,7.2,7.1,3.0,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3198,35.0,Male,3.3,3.0,,3.4,5.5,5.2,Good,Standard,Desktop,No,Senior Dev,Low
+PR3789,50.0,Male,7.3,1.0,0.4,7.3,6.5,1.8,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3888,46.0,Male,8.7,2.0,3.5,6.4,3.7,3.7,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR3404,50.0,Male,7.0,5.0,0.3,,5.3,2.9,Good,Standard,Desktop,Yes,Junior Dev,Low
+PR4034,40.0,Female,,3.0,18.0,6.8,6.2,0.7,,Standard,Desktop,No,Freelancer,High
+PR3483,46.0,Female,7.1,,5.1,,3.5,9.8,Poor,Standard,Desktop,No,Student,Medium
+PR3158,19.0,Female,6.6,2.0,1.0,5.3,5.0,2.3,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3315,32.0,Female,7.2,1.0,0.5,7.3,6.8,4.9,Good,Standard,Laptop,No,Freelancer,High
+PR3256,44.0,Female,,2.0,3.8,7.0,5.2,5.6,Good,,Desktop,No,Freelancer,High
+PR3007,28.0,Female,10.7,2.0,,5.0,5.0,1.1,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3985,18.0,Female,8.1,2.0,0.4,6.5,2.3,3.5,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR3384,51.0,Male,8.1,1.0,,7.3,0.5,4.0,Poor,Standard,Laptop,Yes,Student,Low
+PR3177,51.0,Female,5.0,5.0,,9.2,6.2,0.4,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3003,38.0,Female,4.5,4.0,3.2,8.0,5.3,1.7,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3314,40.0,Male,9.3,2.0,0.2,5.3,3.6,7.9,Poor,Ergonomic,Laptop,No,Student,Medium
+PR3357,39.0,Female,7.1,3.0,2.5,6.2,4.4,2.7,Good,Ergonomic,Desktop,No,,Low
+PR3298,50.0,Female,3.8,1.0,0.6,8.0,6.9,7.3,Good,Ergonomic,Laptop,No,Freelancer,Medium
+PR3455,42.0,Female,7.1,2.0,3.4,7.5,7.9,3.8,Good,Standard,Desktop,Yes,Senior Dev,Medium
+PR3543,33.0,Male,10.2,3.0,7.5,7.0,4.5,3.6,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3662,23.0,Male,6.3,5.0,10.8,9.1,6.0,1.9,Poor,Ergonomic,Laptop,No,Junior Dev,Low
+PR3596,38.0,Female,9.6,0.0,2.3,,3.0,0.8,Poor,Ergonomic,Laptop,No,Student,Low
+PR3951,44.0,Female,4.4,1.0,0.2,7.4,5.6,4.3,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3868,47.0,Female,9.4,2.0,2.2,7.2,4.2,8.8,Poor,Ergonomic,Desktop,No,Freelancer,High
+PR3527,49.0,Female,7.2,3.0,8.2,8.2,7.1,3.3,Good,Ergonomic,Desktop,No,Junior Dev,Low
+PR4224,20.0,Male,6.4,5.0,0.7,8.2,6.4,1.7,Poor,Ergonomic,Desktop,Yes,Freelancer,Low
+PR3159,19.0,Male,8.0,2.0,3.5,5.8,3.1,4.2,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR4097,24.0,Male,8.2,4.0,0.5,7.6,8.7,6.0,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR3360,29.0,Male,6.2,4.0,2.6,6.5,2.2,8.1,Poor,Standard,Desktop,No,Student,Medium
+PR4289,28.0,Male,8.3,1.0,11.1,7.2,5.0,3.6,Poor,Standard,Laptop,Yes,Freelancer,Medium
+PR3202,42.0,Male,8.6,2.0,13.2,3.0,6.6,0.0,Good,Ergonomic,Laptop,No,Freelancer,Low
+PR3876,21.0,Male,5.1,1.0,,6.4,4.3,4.1,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3747,43.0,Female,2.7,3.0,,4.3,3.7,7.6,Poor,Ergonomic,Desktop,Yes,Student,Medium
+PR3112,,Female,8.2,5.0,4.7,6.3,5.9,6.0,Poor,Ergonomic,Desktop,Yes,Freelancer,Medium
+PR3856,34.0,Male,6.8,3.0,0.5,7.1,,1.5,Good,Standard,Desktop,Yes,Senior Dev,Medium
+PR3307,53.0,Female,5.4,,1.2,,4.7,8.2,Poor,Ergonomic,Desktop,Yes,Senior Dev,Low
+PR4225,31.0,Female,3.0,5.0,5.1,6.4,3.1,0.4,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR3422,43.0,Male,6.1,6.0,2.9,5.6,4.6,6.4,Poor,Standard,Desktop,Yes,Senior Dev,High
+PR3186,46.0,Male,4.6,6.0,,6.1,4.3,7.5,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4084,34.0,Male,3.4,3.0,0.2,7.5,5.0,7.7,Good,Ergonomic,Laptop,Yes,Student,Medium
+PR4165,33.0,Male,6.7,3.0,6.8,5.7,4.3,8.9,Poor,Standard,Desktop,No,Student,Medium
+PR3459,53.0,Male,7.2,3.0,3.3,8.3,2.5,2.3,Good,Standard,Desktop,Yes,Junior Dev,Medium
+PR3941,43.0,Male,4.3,3.0,1.4,7.3,4.8,8.3,Good,Standard,Desktop,No,Senior Dev,Low
+PR4265,41.0,Male,4.4,4.0,3.4,,6.7,1.3,Good,Standard,Laptop,No,Student,Low
+PR3786,21.0,Male,,2.0,,3.2,3.5,9.4,Good,Standard,Laptop,Yes,Junior Dev,High
+PR3883,30.0,Female,,1.0,2.1,7.4,4.0,2.4,Good,Standard,Laptop,No,Freelancer,Low
+PR3449,40.0,Female,9.7,1.0,10.6,7.9,5.7,1.2,,Ergonomic,Desktop,No,Senior Dev,Medium
+PR3679,,Male,6.9,1.0,0.3,5.9,5.7,2.8,Poor,Ergonomic,Laptop,Yes,Student,Low
+PR3692,43.0,Female,6.9,2.0,5.2,5.9,6.2,5.4,,Standard,Laptop,Yes,Junior Dev,Medium
+PR4214,46.0,Male,7.9,2.0,1.7,,2.3,1.4,,Standard,Laptop,No,Senior Dev,Medium
+PR3080,25.0,Male,6.6,5.0,7.9,7.0,6.0,9.2,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR4279,46.0,Male,5.9,2.0,2.2,7.8,7.4,9.3,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3948,35.0,Female,6.7,3.0,1.1,6.0,8.2,7.7,Good,Standard,Laptop,No,Senior Dev,High
+PR3215,49.0,Female,5.7,1.0,5.1,4.7,4.8,8.8,Good,Ergonomic,Desktop,Yes,,High
+PR3048,23.0,Male,7.8,5.0,6.5,8.5,7.7,3.7,Poor,Standard,Desktop,No,Senior Dev,High
+PR3030,26.0,Female,7.8,1.0,3.1,7.0,4.2,6.9,Poor,Ergonomic,Laptop,Yes,Student,High
+PR3242,50.0,Male,9.1,0.0,2.0,5.4,6.0,7.6,Good,Standard,Laptop,Yes,Senior Dev,High
+PR3945,28.0,Female,6.6,2.0,5.0,6.7,5.2,5.3,Poor,Standard,Laptop,No,Junior Dev,High
+PR3641,35.0,Male,7.2,2.0,3.2,5.1,3.1,3.9,Good,Ergonomic,Laptop,Yes,Student,High
+PR3696,44.0,Female,4.9,2.0,9.4,5.7,4.7,6.6,Good,Standard,Laptop,Yes,Junior Dev,High
+PR3209,43.0,Female,3.4,3.0,1.1,8.5,3.5,0.7,Good,Standard,Desktop,No,Freelancer,Low
+PR3800,50.0,Female,6.0,4.0,11.9,6.1,7.4,1.0,Good,Standard,Laptop,No,Junior Dev,Low
+PR3435,54.0,Male,5.1,0.0,15.7,6.8,1.7,9.2,Good,Ergonomic,Desktop,Yes,Student,High
+PR4282,42.0,Male,5.3,4.0,3.1,5.2,5.0,1.6,,Standard,Desktop,Yes,Student,Medium
+PR4369,18.0,Female,9.2,3.0,6.6,4.1,4.3,5.2,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR4071,39.0,Male,5.4,3.0,1.7,5.1,4.7,9.4,Poor,Standard,Laptop,Yes,Senior Dev,High
+PR4334,46.0,Male,8.5,3.0,5.9,6.9,5.5,4.4,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3688,,Male,6.2,4.0,0.5,6.5,,6.9,Poor,Standard,Desktop,Yes,Junior Dev,High
+PR3551,29.0,Female,5.2,0.0,0.1,3.3,4.6,0.9,,Standard,Laptop,Yes,Freelancer,Low
+PR3544,40.0,Female,5.9,7.0,5.3,7.2,6.7,8.6,Poor,Standard,Laptop,No,Student,Low
+PR4021,31.0,Male,6.4,3.0,0.8,6.1,5.9,9.9,Good,Standard,Desktop,Yes,Junior Dev,High
+PR4062,40.0,Female,7.1,2.0,0.5,8.8,5.2,1.0,Good,Ergonomic,Laptop,Yes,Student,Low
+PR3829,18.0,Male,9.6,4.0,2.2,7.2,6.1,5.7,Poor,Standard,Laptop,No,Student,Medium
+PR3955,24.0,Female,6.0,4.0,1.5,8.0,6.0,0.3,Good,Ergonomic,Laptop,No,,Low
+PR3403,50.0,Female,5.6,5.0,3.5,5.9,3.8,,Good,Standard,Laptop,No,Student,Low
+PR3091,50.0,Female,6.8,3.0,2.5,7.2,4.8,8.7,Poor,Standard,Laptop,No,Junior Dev,High
+PR3362,33.0,Male,6.0,0.0,1.0,6.6,7.1,3.1,Poor,Ergonomic,Desktop,No,Student,Medium
+PR3271,46.0,Male,6.3,4.0,6.5,5.9,5.7,7.5,Poor,Standard,Desktop,No,Student,High
+PR3466,31.0,Female,8.5,1.0,1.2,5.7,5.0,8.0,Poor,Standard,Laptop,No,Junior Dev,High
+PR4305,46.0,Male,12.8,3.0,10.7,5.4,3.3,7.7,Poor,Standard,Desktop,No,Junior Dev,High
+PR4077,54.0,Female,8.5,2.0,0.4,,5.8,3.6,Poor,Ergonomic,Laptop,Yes,Junior Dev,High
+PR3277,48.0,Female,5.8,4.0,1.2,6.7,8.0,8.1,Poor,Ergonomic,Laptop,Yes,Student,High
+PR4303,34.0,Female,11.4,4.0,4.1,,4.8,,Poor,Standard,Laptop,No,Freelancer,High
+PR4387,40.0,Male,5.8,2.0,3.3,7.7,3.8,7.6,Good,,Desktop,No,Senior Dev,Low
+PR3925,31.0,Female,5.4,1.0,2.9,6.1,4.7,8.3,Good,Standard,Laptop,Yes,Junior Dev,Medium
+PR3441,35.0,Female,7.5,2.0,4.1,6.4,5.4,8.4,Good,Ergonomic,Desktop,No,Student,Low
+PR4113,51.0,Male,,4.0,2.7,6.4,4.9,8.3,Poor,Ergonomic,Desktop,No,Student,Medium
+PR4125,43.0,Male,11.4,4.0,0.8,6.7,7.5,3.4,Poor,Ergonomic,Laptop,No,Junior Dev,Medium
+PR3442,49.0,Male,9.5,1.0,0.4,,3.9,2.9,Poor,Ergonomic,Desktop,No,Senior Dev,Low
+PR3299,26.0,Male,2.8,3.0,5.0,5.0,8.6,2.1,Poor,Ergonomic,Desktop,No,Junior Dev,High
+PR3905,23.0,Male,9.5,,0.1,7.7,0.5,4.3,Poor,Ergonomic,Laptop,No,Student,Medium
+PR3375,38.0,Male,7.4,2.0,1.7,9.2,4.9,2.4,Poor,Ergonomic,Laptop,Yes,Student,Low
+PR3982,33.0,Female,4.2,4.0,15.4,7.0,5.0,,Good,Standard,Laptop,No,Junior Dev,Low
+PR4094,44.0,Female,4.6,0.0,1.8,8.8,7.2,4.2,Poor,Ergonomic,Laptop,No,Senior Dev,High
+PR3898,53.0,Male,5.0,3.0,1.1,6.1,9.5,1.9,Poor,Standard,Desktop,Yes,Freelancer,High
+PR4157,35.0,Female,6.1,2.0,0.7,6.2,4.7,6.3,Poor,Standard,Desktop,No,Student,Low
+PR3472,29.0,Female,5.3,6.0,3.6,7.6,4.6,2.5,Good,Standard,Laptop,No,Senior Dev,Low
+PR3848,25.0,Male,6.4,4.0,7.4,8.0,4.2,5.0,Good,Standard,Laptop,No,Senior Dev,Low
+PR3563,44.0,Female,5.2,2.0,1.0,4.6,5.4,7.7,Poor,Standard,Desktop,No,Student,Medium
+PR4326,49.0,Male,9.3,4.0,4.0,5.8,4.3,2.7,,Standard,Desktop,Yes,Student,High
+PR3750,54.0,Female,6.8,6.0,2.7,7.0,6.5,4.7,,Ergonomic,Desktop,No,Junior Dev,Low
+PR3388,49.0,Female,1.0,3.0,0.1,7.3,5.2,4.6,,Standard,Desktop,No,Junior Dev,Low
+PR3022,44.0,Female,8.0,4.0,12.5,8.6,4.5,2.5,Poor,Standard,Desktop,Yes,,Medium
+PR3870,53.0,Male,8.1,1.0,1.3,7.2,0.6,1.5,Poor,Ergonomic,Laptop,No,Senior Dev,Low
+PR3124,49.0,Male,,5.0,0.1,8.0,5.6,5.4,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR3423,,Male,7.0,2.0,7.1,4.7,4.5,8.8,Poor,Standard,Laptop,Yes,Student,High
+PR3773,28.0,Male,8.2,6.0,1.3,6.2,7.3,5.2,Poor,Ergonomic,Desktop,No,Student,Medium
+PR4313,36.0,Female,1.0,1.0,3.9,5.8,2.8,4.1,,Ergonomic,Laptop,No,Junior Dev,Low
+PR3470,22.0,Female,7.6,3.0,,7.5,9.6,1.7,Poor,Ergonomic,Desktop,Yes,Student,Low
+PR3721,35.0,Male,8.7,2.0,1.6,6.5,8.3,0.3,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR3992,25.0,Male,7.6,3.0,0.0,6.9,1.6,1.5,Poor,Standard,Desktop,No,Student,Low
+PR3516,45.0,Female,6.8,5.0,1.4,6.7,,9.6,Good,Standard,Laptop,No,Freelancer,Medium
+PR3142,23.0,Male,5.2,,6.4,5.8,7.0,9.2,Poor,Ergonomic,Laptop,No,Junior Dev,Low
+PR3050,46.0,Male,6.9,3.0,,10.0,3.2,2.3,Good,Ergonomic,Desktop,No,Student,Low
+PR4364,34.0,Male,7.1,2.0,1.6,4.3,6.5,5.9,,Ergonomic,Laptop,Yes,Junior Dev,Medium
+PR4022,49.0,Female,9.6,3.0,2.5,7.1,7.9,0.9,Poor,,Laptop,No,Student,High
+PR3623,43.0,Female,5.7,2.0,17.1,5.4,4.6,9.3,Poor,Standard,Desktop,No,Junior Dev,High
+PR4064,34.0,Male,6.0,4.0,4.8,6.9,4.8,3.9,Poor,Standard,Laptop,Yes,Freelancer,Medium
+PR3081,52.0,Female,9.9,2.0,0.3,5.0,1.8,4.0,Poor,Standard,Desktop,Yes,Student,Medium
+PR3703,53.0,Female,7.4,,12.9,5.1,4.1,1.7,Good,Ergonomic,Desktop,No,Junior Dev,Medium
+PR3482,40.0,Male,5.7,1.0,1.6,,6.0,0.7,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3321,39.0,Male,11.3,2.0,4.9,5.9,4.0,8.1,Good,Ergonomic,Desktop,Yes,Student,High
+PR3597,23.0,Female,2.7,3.0,0.3,,7.0,1.9,Poor,Standard,Desktop,Yes,Junior Dev,Low
+PR3505,,Male,7.6,2.0,10.7,6.2,2.5,7.1,Poor,Standard,Desktop,No,Student,High
+PR4390,51.0,Male,6.9,3.0,0.2,8.1,7.5,2.2,Poor,Standard,Laptop,No,Freelancer,Low
+PR3066,43.0,Male,9.2,3.0,0.7,7.3,5.0,4.7,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3882,50.0,Female,6.1,2.0,4.8,8.8,3.5,1.1,Poor,Standard,Laptop,No,Senior Dev,Low
+PR4294,22.0,Male,10.0,3.0,2.8,8.6,3.0,1.1,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3801,23.0,Male,8.7,2.0,9.3,8.0,5.1,8.6,Poor,,Desktop,No,Freelancer,High
+PR4316,50.0,Female,5.8,2.0,0.5,5.7,1.7,4.6,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3031,35.0,Female,5.3,4.0,,7.2,2.6,0.1,Good,Standard,Laptop,No,Senior Dev,Low
+PR3795,54.0,Female,6.9,5.0,1.0,,5.8,1.0,Poor,Standard,Laptop,No,Student,Low
+PR3417,40.0,Female,6.3,2.0,6.0,5.2,4.6,2.6,,Ergonomic,Laptop,No,Student,High
+PR3632,40.0,Male,6.3,4.0,2.1,5.1,4.0,9.7,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR4051,22.0,Male,8.0,,0.5,,6.7,9.0,,Standard,Laptop,No,Student,Medium
+PR3064,35.0,Female,7.4,2.0,5.9,8.0,5.8,0.5,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3139,44.0,Female,9.7,3.0,2.1,8.6,7.5,2.4,Poor,Ergonomic,Laptop,No,Student,Low
+PR4178,40.0,Male,8.2,7.0,,7.5,4.9,6.6,Poor,Standard,Desktop,Yes,Student,Low
+PR4172,24.0,Female,6.5,3.0,0.2,6.5,,3.7,Poor,Ergonomic,Laptop,Yes,Student,Low
+PR3077,41.0,Female,9.4,4.0,2.0,5.9,3.1,2.8,Poor,Ergonomic,Laptop,No,Student,Low
+PR3491,30.0,Male,6.5,6.0,,5.4,4.4,2.8,Poor,Standard,Desktop,No,Junior Dev,Low
+PR4033,50.0,Male,6.5,3.0,0.4,5.6,2.6,4.1,Poor,,Laptop,No,Senior Dev,Low
+PR4128,26.0,Female,8.1,2.0,2.0,6.8,5.3,1.4,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3532,54.0,Male,5.6,0.0,3.3,9.4,4.2,2.6,Good,Standard,Desktop,No,Senior Dev,Low
+PR3065,41.0,Female,,4.0,7.0,4.3,5.7,5.5,Good,Ergonomic,Desktop,No,Student,Medium
+PR4232,32.0,Male,7.0,3.0,6.9,4.2,3.2,7.2,Good,Standard,Desktop,Yes,Student,Medium
+PR4137,51.0,Female,7.3,3.0,4.8,6.1,5.2,1.8,Poor,Standard,Laptop,Yes,,Low
+PR4227,21.0,Male,8.4,3.0,2.5,7.7,4.6,7.7,Poor,Standard,Laptop,No,Student,High
+PR3296,43.0,Female,7.9,3.0,9.0,6.2,4.6,9.9,Poor,Standard,Laptop,No,Freelancer,High
+PR3591,30.0,Male,4.6,2.0,0.6,6.8,7.0,1.5,Good,,Laptop,Yes,Student,Low
+PR3419,43.0,Female,8.7,,1.0,,5.7,4.6,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3767,41.0,Female,7.3,2.0,2.8,6.2,3.6,1.6,Poor,Standard,Laptop,No,Freelancer,Low
+PR3438,52.0,Male,5.1,2.0,0.8,5.8,4.9,2.0,Poor,Ergonomic,Desktop,No,Junior Dev,Medium
+PR3261,50.0,Female,7.1,4.0,7.7,7.5,5.5,1.5,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3935,18.0,Female,9.6,4.0,7.1,6.9,3.9,8.4,Poor,Standard,Desktop,No,Senior Dev,High
+PR3724,42.0,Male,5.4,0.0,7.5,6.6,0.8,9.3,Poor,Standard,Laptop,No,Junior Dev,High
+PR4353,32.0,Female,7.5,3.0,1.8,6.0,5.8,1.4,Good,,Desktop,No,Freelancer,Low
+PR3281,49.0,Male,5.3,3.0,0.5,4.1,3.2,3.2,,Standard,Laptop,Yes,Freelancer,Low
+PR3626,29.0,Female,4.9,2.0,,5.5,3.5,5.9,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3977,49.0,Male,7.6,3.0,4.7,8.0,5.6,0.4,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR4301,,Male,6.6,3.0,3.4,6.5,4.9,2.0,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3675,20.0,Female,7.2,4.0,1.3,8.1,4.5,7.3,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3188,37.0,Female,4.6,3.0,0.8,6.1,4.9,6.1,Good,Ergonomic,Laptop,No,Student,Low
+PR4054,26.0,Male,5.2,4.0,2.5,6.1,5.2,0.3,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3251,29.0,Female,6.6,2.0,,5.5,4.1,7.1,Good,Standard,Laptop,Yes,Senior Dev,High
+PR3583,35.0,Male,5.1,0.0,5.8,3.4,2.6,2.4,Good,Ergonomic,Desktop,No,Freelancer,Medium
+PR4288,22.0,Male,7.2,4.0,4.8,8.9,3.3,8.7,Good,Standard,Laptop,No,Junior Dev,Low
+PR4323,48.0,Male,6.2,1.0,2.5,,5.8,5.1,Poor,Ergonomic,Laptop,Yes,Senior Dev,Medium
+PR3930,54.0,Male,8.2,3.0,11.9,7.3,4.2,9.4,Good,Standard,Laptop,Yes,Freelancer,Medium
+PR3514,20.0,Female,7.7,3.0,2.8,5.2,5.8,7.7,Good,Standard,Desktop,Yes,Student,Low
+PR4105,53.0,Female,6.9,2.0,2.0,6.1,5.9,4.1,Poor,Standard,Laptop,No,Student,Medium
+PR4295,,Male,,3.0,0.1,,7.3,4.3,Poor,Standard,Desktop,No,Student,Low
+PR4383,,Female,7.2,1.0,1.9,4.3,1.7,4.3,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3706,52.0,Male,9.6,1.0,11.6,7.8,6.2,8.8,Poor,Standard,Desktop,Yes,Student,High
+PR3487,26.0,Male,8.3,3.0,4.2,,3.1,7.6,Poor,Standard,Laptop,No,Student,High
+PR3663,19.0,Female,7.3,4.0,3.7,7.5,3.0,5.4,Poor,Standard,Laptop,No,Student,Low
+PR4109,28.0,Female,7.0,3.0,0.2,6.7,4.0,0.4,Good,Standard,Laptop,No,Senior Dev,Low
+PR4117,50.0,Female,5.9,4.0,1.1,6.3,3.0,8.9,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3273,52.0,Male,8.7,2.0,0.5,9.9,2.8,2.2,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3685,45.0,Male,5.3,3.0,0.0,5.4,9.2,3.1,Poor,Standard,Laptop,No,Freelancer,Medium
+PR4216,33.0,Female,7.7,3.0,0.8,7.5,7.9,1.5,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR4027,31.0,Male,6.6,2.0,3.8,,5.0,9.7,Poor,Standard,Laptop,No,Student,High
+PR4318,42.0,Male,6.2,3.0,1.2,6.5,2.5,2.0,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3448,30.0,Male,10.1,3.0,8.0,4.6,5.3,9.6,Poor,Standard,Desktop,No,,High
+PR3411,46.0,Female,6.5,6.0,3.9,5.7,3.8,3.0,Poor,Standard,Laptop,No,Student,Medium
+PR3458,36.0,Male,6.5,2.0,0.0,6.1,4.3,8.6,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3376,53.0,Male,12.4,5.0,10.0,9.4,6.0,4.9,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4278,45.0,Male,7.0,5.0,0.8,6.1,7.8,9.3,Good,Ergonomic,Desktop,Yes,Junior Dev,Medium
+PR3667,33.0,Female,5.2,3.0,4.1,5.6,3.0,0.6,Poor,Standard,Laptop,No,Junior Dev,Low
+PR4211,49.0,Female,5.7,2.0,0.8,5.0,4.9,7.9,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR3149,32.0,Female,9.9,2.0,1.2,,,9.4,Poor,Standard,Laptop,No,Junior Dev,High
+PR4174,32.0,Female,8.7,2.0,4.9,8.0,4.2,4.6,Poor,Standard,Desktop,No,Junior Dev,High
+PR4170,38.0,Male,3.6,2.0,1.5,6.3,7.0,8.9,Good,Ergonomic,Desktop,No,Junior Dev,Low
+PR3733,30.0,Female,10.2,3.0,8.8,6.7,6.3,,Poor,Standard,Desktop,No,Senior Dev,High
+PR3218,36.0,Female,9.4,2.0,4.4,6.2,1.8,9.0,Poor,Ergonomic,Desktop,No,Senior Dev,High
+PR3239,53.0,Female,4.9,0.0,2.4,6.7,4.9,7.9,Poor,Standard,Laptop,No,Student,Medium
+PR4063,49.0,Female,8.3,6.0,2.8,7.1,5.6,2.3,,Standard,Laptop,No,Senior Dev,Medium
+PR3867,50.0,Male,7.0,3.0,7.1,6.7,7.7,,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3725,54.0,Male,7.4,0.0,,8.0,3.9,8.8,Good,Standard,Desktop,No,,High
+PR3192,20.0,Male,9.2,4.0,1.5,6.0,2.8,6.5,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3792,18.0,Female,7.3,3.0,3.8,6.5,6.5,8.5,Poor,Standard,Desktop,No,Senior Dev,High
+PR3191,43.0,Male,7.7,3.0,3.5,6.4,4.3,4.8,Poor,Ergonomic,Desktop,No,Senior Dev,Medium
+PR3899,,Male,6.3,0.0,5.2,6.7,4.1,3.6,Poor,Ergonomic,Desktop,No,,Medium
+PR4087,29.0,Female,7.7,4.0,3.2,,6.3,2.4,Good,Standard,Laptop,No,Freelancer,Low
+PR3928,40.0,Male,6.4,1.0,3.5,7.6,5.1,3.0,Poor,Standard,Laptop,No,Senior Dev,High
+PR3644,44.0,Female,,3.0,2.6,7.3,5.6,6.9,Poor,Ergonomic,Desktop,Yes,Freelancer,Medium
+PR3359,20.0,Male,7.0,2.0,4.7,6.9,2.5,1.2,Good,Standard,Laptop,No,Junior Dev,Low
+PR3754,23.0,Female,8.2,,0.9,6.5,8.0,8.1,Poor,Standard,Laptop,No,Senior Dev,High
+PR3432,38.0,Male,4.4,5.0,3.6,6.6,5.8,6.5,Poor,Standard,Laptop,No,Student,Low
+PR3016,19.0,Male,8.1,2.0,0.8,6.1,3.5,5.3,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3333,49.0,Male,,3.0,1.6,6.0,8.6,2.8,Good,Ergonomic,Laptop,No,Senior Dev,Medium
+PR4179,46.0,Female,6.9,,0.7,7.9,4.9,,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3582,18.0,Female,,1.0,6.1,8.3,6.5,8.9,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR4388,43.0,Male,5.4,3.0,1.8,4.6,4.6,1.7,Poor,Standard,Desktop,Yes,Freelancer,Low
+PR4048,40.0,Male,8.5,5.0,1.7,7.9,4.3,3.5,Poor,Standard,Laptop,No,,Low
+PR3839,54.0,Female,7.5,3.0,5.0,4.7,5.4,2.5,Good,Standard,Desktop,No,Senior Dev,Low
+PR3627,18.0,Male,5.0,5.0,2.5,6.9,6.2,1.2,Poor,Standard,Desktop,No,Junior Dev,Low
+PR4358,21.0,Female,8.3,4.0,0.2,6.4,,6.7,Poor,Standard,Laptop,Yes,Student,Low
+PR3323,39.0,Female,10.8,1.0,1.8,6.5,4.8,8.0,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3824,26.0,Female,7.2,2.0,,3.6,,1.9,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR4196,21.0,Female,2.0,3.0,13.7,6.2,6.5,8.8,Poor,Standard,Desktop,No,Student,Low
+PR3631,34.0,Male,5.0,6.0,13.1,5.7,3.8,8.0,,Standard,Desktop,No,Freelancer,High
+PR4097,24.0,Male,8.2,4.0,0.5,7.6,8.7,6.0,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR4150,34.0,Female,6.2,4.0,1.9,5.6,5.6,1.6,Poor,Standard,Laptop,No,Student,Low
+PR3778,19.0,Male,2.7,3.0,4.4,6.0,3.8,0.0,Poor,Standard,Desktop,No,Junior Dev,Low
+PR4140,54.0,Female,,3.0,1.3,6.8,5.4,7.3,Poor,Ergonomic,Desktop,No,Student,Low
+PR3855,42.0,Female,7.2,6.0,,7.1,3.1,6.5,Poor,Standard,Desktop,No,Junior Dev,Low
+PR3437,41.0,Male,6.0,1.0,1.0,6.8,5.2,0.1,Good,Standard,Desktop,Yes,Senior Dev,Low
+PR3119,40.0,Female,6.4,4.0,0.4,6.9,5.1,8.5,Good,Ergonomic,Laptop,No,Junior Dev,Low
+PR4089,39.0,Female,9.2,4.0,0.6,5.4,4.1,3.3,,Standard,Desktop,No,Student,Medium
+PR4138,29.0,Female,7.9,3.0,0.4,7.1,5.2,5.9,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3790,37.0,Male,3.2,1.0,7.5,6.8,2.6,8.1,Good,Standard,Desktop,No,,Medium
+PR3341,36.0,Female,7.5,1.0,0.2,6.5,7.5,2.5,Poor,Ergonomic,Desktop,No,,High
+PR3815,28.0,Female,8.7,1.0,1.7,5.0,4.4,2.1,Good,Standard,Desktop,No,Freelancer,High
+PR3002,25.0,Male,6.5,4.0,20.7,7.8,,8.9,Good,Standard,Desktop,Yes,Senior Dev,Medium
+PR3229,,Male,3.0,1.0,2.0,5.0,5.7,3.2,Poor,Ergonomic,Laptop,No,Freelancer,Medium
+PR3995,49.0,Female,,3.0,1.8,6.6,0.5,4.0,Poor,Standard,Desktop,No,Junior Dev,Low
+PR4053,47.0,Male,7.5,4.0,0.1,6.1,6.0,5.2,Poor,Standard,Desktop,Yes,Senior Dev,Medium
+PR3076,25.0,Male,5.7,1.0,2.0,4.8,5.2,8.3,Poor,Ergonomic,Laptop,Yes,Junior Dev,Medium
+PR4352,45.0,Female,5.7,1.0,7.5,7.9,3.0,9.4,Poor,Standard,Laptop,No,Student,Medium
+PR3970,24.0,Female,3.6,4.0,6.7,6.6,6.9,9.5,Good,Standard,Laptop,No,,High
+PR4215,46.0,Male,10.1,1.0,3.2,8.3,4.4,5.4,Good,Standard,Desktop,No,Junior Dev,High
+PR3371,29.0,Female,9.9,,4.8,6.6,7.0,2.5,Poor,,Desktop,No,Freelancer,Medium
+PR3180,28.0,Male,9.1,1.0,0.2,6.3,2.1,,Poor,Ergonomic,Laptop,Yes,Junior Dev,Low
+PR4053,47.0,Male,7.5,4.0,0.1,6.1,6.0,5.2,Poor,Standard,Desktop,Yes,Senior Dev,Medium
+PR3577,19.0,Female,5.6,3.0,5.6,6.5,2.9,0.2,Good,Ergonomic,Laptop,No,Freelancer,Low
+PR3819,47.0,Female,9.0,3.0,1.8,5.5,4.6,3.0,Good,Ergonomic,Desktop,No,Senior Dev,Medium
+PR4072,21.0,Male,4.8,0.0,,5.0,5.2,8.8,Poor,Standard,Desktop,No,Student,High
+PR4088,40.0,Male,7.0,1.0,0.6,5.4,5.2,8.7,Good,Standard,Desktop,No,Senior Dev,High
+PR4259,26.0,Female,4.3,2.0,5.9,8.6,4.6,0.6,Good,Ergonomic,Laptop,Yes,Junior Dev,Low
+PR4250,46.0,Female,5.4,5.0,1.2,4.4,4.1,9.9,Poor,Ergonomic,Laptop,No,Student,Medium
+PR4126,19.0,Female,10.5,,2.3,6.9,6.4,9.9,Poor,,Laptop,No,Student,Medium
+PR3589,39.0,Female,8.3,2.0,5.6,7.8,3.7,1.3,Good,Standard,Laptop,No,Student,Low
+PR3886,41.0,Male,8.8,0.0,0.0,8.3,4.9,5.8,Poor,Standard,Laptop,No,Junior Dev,High
+PR4393,34.0,Female,4.8,1.0,6.5,8.1,5.5,5.8,Poor,Ergonomic,Laptop,No,Freelancer,Medium
+PR3785,43.0,Male,,2.0,0.3,8.8,3.6,9.8,Poor,Standard,Desktop,No,Student,High
+PR4121,52.0,Male,9.1,2.0,7.9,,3.3,9.4,Good,Ergonomic,Desktop,No,,High
+PR3311,33.0,Female,7.1,3.0,7.4,8.9,3.9,,Poor,Standard,Desktop,No,Senior Dev,Low
+PR4173,31.0,Male,1.2,3.0,1.0,6.6,3.5,8.9,Poor,Standard,Laptop,No,,Low
+PR3301,43.0,Female,9.4,4.0,2.1,6.5,8.9,2.8,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3722,52.0,Female,6.6,3.0,3.1,6.6,4.7,6.7,Poor,Standard,Laptop,Yes,Junior Dev,Low
+PR3689,18.0,Male,8.1,3.0,4.5,7.3,6.7,5.7,Poor,Ergonomic,Laptop,Yes,,Medium
+PR3812,26.0,Male,2.9,2.0,,5.1,1.4,4.7,Poor,Standard,Laptop,No,Student,Low
+PR3037,19.0,Male,8.2,7.0,0.1,7.2,,6.8,Good,Standard,Laptop,Yes,,Low
+PR3353,42.0,Female,3.5,1.0,4.3,8.0,3.5,4.7,Good,Standard,Desktop,Yes,Student,Low
+PR4344,52.0,Male,4.7,5.0,5.2,4.9,7.3,2.1,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR3714,41.0,Male,8.8,1.0,6.3,7.3,5.6,5.0,Good,Standard,Laptop,No,Junior Dev,High
+PR3236,19.0,Male,6.6,1.0,0.8,6.7,6.9,,Good,Standard,Desktop,No,,High
+PR4221,22.0,Female,8.9,6.0,2.8,4.1,4.0,8.8,Poor,Ergonomic,Desktop,No,Freelancer,Medium
+PR3729,39.0,Female,7.0,4.0,1.2,5.5,5.4,2.6,Poor,Standard,Desktop,No,Student,Medium
+PR4206,51.0,Female,8.2,1.0,6.1,6.9,7.0,6.8,Poor,Standard,Desktop,No,Junior Dev,High
+PR4195,32.0,Male,8.5,2.0,7.2,5.5,5.4,3.3,Poor,Standard,Laptop,Yes,Student,Medium
+PR3499,25.0,Female,6.3,2.0,2.6,4.8,5.4,9.0,Poor,Standard,Desktop,No,Senior Dev,High
+PR4208,30.0,Female,6.5,1.0,5.0,6.5,4.2,2.2,Poor,Standard,Desktop,No,Freelancer,Low
+PR3553,45.0,Female,2.4,3.0,3.4,6.2,7.9,4.9,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3055,53.0,Female,7.0,3.0,0.4,6.9,5.7,9.3,Good,Ergonomic,Laptop,No,Student,Medium
+PR3302,52.0,Male,7.7,2.0,0.6,6.1,3.3,2.5,Good,Standard,Desktop,No,Student,Medium
+PR3794,31.0,Female,7.6,1.0,2.1,4.6,3.1,7.6,Good,Standard,Laptop,No,Senior Dev,High
+PR3286,42.0,Female,6.2,6.0,0.6,7.9,4.3,9.1,Poor,Standard,Desktop,No,Junior Dev,Low
+PR4115,39.0,Male,5.3,2.0,5.3,9.4,7.9,1.5,Good,Ergonomic,Laptop,Yes,Junior Dev,Medium
+PR3219,33.0,Female,10.4,4.0,2.2,6.3,4.5,8.6,Good,,Laptop,No,,Medium
+PR3900,44.0,Male,10.3,3.0,1.9,6.9,6.3,1.3,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3983,36.0,Male,5.1,5.0,8.5,3.9,7.2,8.6,Good,Standard,Desktop,No,Junior Dev,High
+PR3934,40.0,Male,3.0,5.0,2.3,5.9,3.0,8.3,Good,Standard,Desktop,Yes,Student,Low
+PR3387,36.0,Male,5.6,2.0,2.3,6.9,5.9,8.3,Good,Standard,Laptop,Yes,Student,Low
+PR3304,,Male,3.4,0.0,0.5,7.6,2.9,1.9,Good,Standard,Desktop,No,Senior Dev,Low
+PR3390,,Male,7.6,8.0,6.7,5.5,4.1,1.3,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3997,27.0,Male,4.2,,0.2,6.8,5.9,5.0,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR3352,,Male,5.1,3.0,10.8,5.9,5.7,9.7,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3193,36.0,Male,6.4,2.0,0.4,8.2,3.4,5.6,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3235,35.0,Male,7.9,3.0,1.3,6.1,5.1,1.8,Poor,Standard,Laptop,No,Junior Dev,Low
+PR4242,28.0,Female,6.6,3.0,4.6,,4.5,8.1,Poor,,Laptop,No,Junior Dev,High
+PR3694,31.0,Female,7.2,1.0,12.3,5.3,7.4,5.1,Poor,Ergonomic,Laptop,Yes,Senior Dev,High
+PR3480,22.0,Female,8.4,2.0,2.2,5.6,6.1,3.6,Poor,Ergonomic,Desktop,No,Senior Dev,Medium
+PR3567,37.0,Male,5.5,0.0,7.7,4.9,3.9,0.2,Good,Standard,Desktop,No,Junior Dev,High
+PR3116,21.0,Female,7.9,0.0,2.2,8.4,5.1,2.3,Poor,Standard,Laptop,No,Student,High
+PR4162,43.0,Male,10.4,3.0,11.6,6.2,4.4,6.8,Poor,Standard,Desktop,No,Student,Medium
+PR3653,21.0,Male,7.8,5.0,2.1,5.7,5.0,3.0,Poor,Standard,Laptop,No,Freelancer,Low
+PR4226,47.0,Male,7.7,0.0,5.9,6.2,4.4,1.9,Poor,Standard,Laptop,Yes,Student,Low
+PR4356,46.0,Male,8.1,3.0,4.2,5.2,5.7,2.9,Good,Standard,Laptop,No,Senior Dev,Low
+PR3757,47.0,Female,,4.0,4.0,7.1,1.8,8.6,Good,Standard,Laptop,Yes,Student,Medium
+PR3444,40.0,Female,3.5,4.0,2.0,7.6,4.8,5.5,Poor,Standard,Laptop,No,Senior Dev,Low
+PR4141,34.0,Female,7.0,2.0,0.9,6.2,2.8,9.9,Good,Standard,Desktop,No,Senior Dev,High
+PR3120,32.0,Female,3.4,0.0,1.1,4.6,7.5,1.5,Poor,Standard,Laptop,No,Junior Dev,Low
+PR4123,51.0,Female,8.7,1.0,11.2,6.3,3.8,8.5,Poor,Ergonomic,Laptop,No,Freelancer,High
+PR4256,22.0,Male,7.1,1.0,,5.1,8.4,5.4,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR4098,27.0,Female,7.5,0.0,5.4,8.7,5.5,5.7,Good,Standard,Laptop,No,Freelancer,Medium
+PR3062,38.0,Male,6.6,3.0,0.3,6.7,5.4,7.5,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3743,25.0,Male,7.7,3.0,,6.5,5.9,8.1,Poor,Standard,Laptop,No,Freelancer,Medium
+PR4023,33.0,Female,6.3,3.0,5.1,5.5,4.1,8.6,,Standard,Desktop,Yes,Student,Medium
+PR3453,34.0,Female,7.4,4.0,10.7,,7.7,8.4,Good,Ergonomic,Laptop,Yes,Student,Medium
+PR4371,43.0,Female,6.8,3.0,0.0,7.0,6.5,0.0,Good,Standard,Laptop,Yes,Student,Low
+PR3926,39.0,Male,4.9,3.0,,4.0,1.9,8.4,Good,Standard,Desktop,No,Junior Dev,Medium
+PR3515,30.0,Male,7.1,,3.5,4.7,4.1,7.2,Poor,Standard,Laptop,Yes,Senior Dev,High
+PR3570,46.0,Male,10.6,5.0,2.8,8.5,5.3,8.2,,Standard,Laptop,No,Junior Dev,High
+PR3223,50.0,Female,9.5,,4.7,7.5,1.9,2.9,Poor,Standard,Desktop,No,Student,Low
+PR4078,28.0,Male,6.4,3.0,0.3,6.3,8.4,8.3,Poor,Ergonomic,Laptop,No,Junior Dev,Medium
+PR3613,26.0,Male,6.9,,6.7,6.7,6.9,4.7,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3843,43.0,Female,,1.0,14.9,7.6,4.9,0.7,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3221,37.0,Female,5.5,1.0,7.5,7.7,5.1,0.3,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4028,48.0,Female,6.7,3.0,11.2,8.9,4.0,2.6,Good,Standard,Laptop,No,Freelancer,Low
+PR3516,45.0,Female,6.8,5.0,1.4,6.7,,9.6,Good,Standard,Laptop,No,Freelancer,Medium
+PR3465,45.0,Female,4.1,4.0,7.7,5.2,2.3,7.5,,Ergonomic,Laptop,No,Junior Dev,Medium
+PR3052,43.0,Female,6.4,3.0,6.5,10.0,3.8,1.6,Poor,Ergonomic,Desktop,No,Freelancer,Low
+PR3409,50.0,Female,12.0,3.0,5.6,4.1,4.8,4.1,Good,Standard,Desktop,No,Junior Dev,High
+PR3485,35.0,Female,11.0,3.0,1.6,9.0,6.8,1.8,Poor,Standard,Desktop,Yes,Student,Medium
+PR3875,50.0,Female,6.6,1.0,3.5,4.7,5.5,8.9,Poor,Standard,Laptop,Yes,Student,High
+PR4392,21.0,Male,8.7,,8.9,5.7,5.3,2.3,Good,Ergonomic,Laptop,Yes,Junior Dev,Low
+PR3818,52.0,Male,7.9,2.0,4.9,8.6,5.2,9.0,Poor,Standard,Laptop,No,Freelancer,High
+PR3386,27.0,Male,3.0,3.0,3.5,5.1,2.4,9.6,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3155,20.0,Female,5.5,,1.0,7.4,7.2,1.5,Poor,Ergonomic,Desktop,No,Senior Dev,Low
+PR4193,43.0,Male,4.0,4.0,1.4,5.2,4.6,6.2,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3600,22.0,Female,3.9,3.0,2.9,5.7,3.5,6.5,Poor,Standard,Desktop,Yes,Student,Low
+PR4168,40.0,Male,3.2,,,8.6,0.5,7.8,Good,Standard,Laptop,No,,Low
+PR3248,20.0,Female,5.7,1.0,2.3,7.7,5.7,2.3,Good,Standard,Desktop,No,Senior Dev,Low
+PR3761,41.0,Male,9.8,2.0,1.6,7.3,5.4,9.6,Poor,Standard,Laptop,No,Student,High
+PR4330,53.0,Female,7.2,3.0,2.7,7.8,2.7,9.0,Poor,,Desktop,No,Senior Dev,Medium
+PR3542,20.0,Female,8.6,3.0,0.5,7.6,5.3,1.9,Poor,Ergonomic,Laptop,No,Student,Low
+PR3793,43.0,Male,9.4,1.0,6.9,5.2,5.1,4.3,Poor,Ergonomic,Laptop,Yes,Junior Dev,High
+PR4063,49.0,Female,8.3,6.0,2.8,7.1,5.6,2.3,,Standard,Laptop,No,Senior Dev,Medium
+PR3628,22.0,Female,7.8,1.0,4.3,4.2,3.8,3.3,Poor,Standard,Laptop,No,,Medium
+PR3150,49.0,Male,6.3,1.0,3.1,,3.9,1.9,Good,Ergonomic,Desktop,Yes,Junior Dev,Medium
+PR3291,39.0,Female,7.6,1.0,2.6,4.9,4.6,0.8,Poor,Standard,Desktop,No,Student,Low
+PR3381,27.0,Male,7.1,3.0,0.5,5.5,4.3,1.4,Good,Standard,Desktop,Yes,Student,Low
+PR3686,39.0,Female,3.8,3.0,2.2,5.7,6.9,3.2,Good,Standard,Desktop,Yes,Senior Dev,Low
+PR3897,53.0,Male,2.1,2.0,26.3,5.5,3.0,4.2,Poor,Standard,Laptop,Yes,Student,Medium
+PR3854,50.0,Male,12.0,0.0,4.2,6.8,,4.8,Poor,Ergonomic,Laptop,No,Senior Dev,High
+PR3978,47.0,Female,6.5,3.0,8.6,5.4,5.5,5.5,Good,Standard,Laptop,No,Junior Dev,Low
+PR4321,24.0,Female,8.6,3.0,4.8,6.0,0.5,8.7,Poor,Standard,Desktop,Yes,Senior Dev,Medium
+PR4231,18.0,Female,8.3,0.0,13.5,,7.1,0.2,Poor,Standard,Laptop,No,Junior Dev,High
+PR3891,46.0,Female,5.8,2.0,8.4,6.1,5.2,1.8,Good,Standard,Laptop,No,Senior Dev,High
+PR4194,40.0,Male,8.5,0.0,1.9,4.3,7.3,7.9,Good,Standard,Desktop,No,Student,High
+PR3615,30.0,Male,6.2,2.0,5.1,6.8,7.1,8.8,,Standard,Laptop,No,Freelancer,High
+PR3154,19.0,Female,7.1,1.0,5.1,5.2,,0.2,Good,Standard,Desktop,Yes,Student,Low
+PR4131,42.0,Male,7.2,5.0,1.6,5.8,3.5,0.4,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3322,42.0,Male,6.4,4.0,3.5,,7.5,7.7,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR4127,26.0,Female,,4.0,0.3,,4.6,5.2,Good,Standard,Laptop,No,Freelancer,Low
+PR3082,52.0,Male,7.9,1.0,4.5,7.9,6.8,3.9,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3512,43.0,Female,,5.0,1.4,7.8,7.4,9.3,Good,Standard,Laptop,No,Student,Low
+PR4111,53.0,Female,4.7,1.0,5.9,5.2,4.7,0.6,Good,Ergonomic,Desktop,No,Junior Dev,Low
+PR3929,18.0,Female,10.2,2.0,2.1,7.2,3.5,0.4,Poor,Standard,Laptop,Yes,Junior Dev,Low
+PR3080,25.0,Male,6.6,5.0,7.9,7.0,6.0,9.2,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3010,41.0,Female,5.4,2.0,0.7,7.3,5.1,9.8,Poor,Standard,Laptop,No,Student,High
+PR3831,46.0,Male,8.4,4.0,11.4,6.3,3.0,6.4,Poor,Standard,Laptop,Yes,Junior Dev,High
+PR3032,21.0,Female,4.0,1.0,2.3,5.2,5.4,6.2,,Ergonomic,Desktop,Yes,Student,Low
+PR3413,29.0,Female,9.2,3.0,4.0,7.5,2.5,8.8,Good,Standard,Laptop,No,Student,Low
+PR3580,22.0,Female,1.0,2.0,1.8,7.3,9.2,4.2,Poor,Standard,Laptop,Yes,,Low
+PR4246,24.0,Male,7.1,0.0,0.0,8.4,7.2,1.3,Good,,Desktop,No,Freelancer,Low
+PR4385,49.0,Female,6.8,4.0,3.2,4.1,4.8,4.3,Poor,Ergonomic,Laptop,Yes,Senior Dev,Medium
+PR3614,18.0,Male,7.5,2.0,1.0,6.7,6.8,7.6,Poor,Standard,Laptop,Yes,Junior Dev,Medium
+PR4045,28.0,Female,8.6,3.0,3.6,,4.8,3.9,Good,Standard,Laptop,No,Senior Dev,High
+PR4014,50.0,Male,,2.0,1.4,5.8,7.1,9.9,Poor,Standard,Laptop,No,Student,High
+PR3089,29.0,Female,,3.0,1.0,7.2,3.3,3.0,Poor,Standard,Desktop,No,Junior Dev,High
+PR4237,29.0,Female,5.6,1.0,5.5,8.0,8.0,7.6,Poor,Ergonomic,Desktop,No,,Medium
+PR3601,48.0,Male,4.4,5.0,8.2,5.4,4.2,3.8,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3133,,Male,5.4,,7.9,9.2,5.9,,Poor,Ergonomic,Desktop,Yes,Senior Dev,High
+PR3555,45.0,Male,7.7,6.0,2.9,5.3,5.3,9.2,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4031,27.0,Male,7.4,2.0,2.5,3.9,3.6,5.6,Poor,Standard,Laptop,Yes,Junior Dev,Medium
+PR4142,27.0,Male,3.8,4.0,11.0,7.4,3.3,8.2,Poor,Standard,Desktop,Yes,Junior Dev,Medium
+PR3320,,Male,8.5,4.0,4.3,4.6,6.4,5.7,Good,Standard,Laptop,No,Student,Low
+PR4285,26.0,Female,,1.0,3.8,7.1,1.6,0.2,Good,Standard,Laptop,Yes,Freelancer,Low
+PR4264,34.0,Male,7.5,2.0,0.9,9.1,4.6,5.3,Poor,Standard,Desktop,Yes,Freelancer,Medium
+PR3634,54.0,Female,5.8,5.0,4.9,7.8,3.5,1.9,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3552,41.0,Female,5.2,0.0,2.0,6.3,4.5,6.5,Poor,Ergonomic,Desktop,No,Freelancer,Medium
+PR4055,51.0,Female,6.9,5.0,12.4,4.9,5.7,4.7,Poor,Standard,Laptop,Yes,Student,High
+PR4151,40.0,Male,11.6,5.0,4.5,8.2,4.0,2.5,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR3796,28.0,Male,6.6,4.0,2.9,7.4,3.7,0.4,Good,Ergonomic,Laptop,No,Freelancer,Low
+PR3752,39.0,Female,5.9,4.0,2.7,6.3,7.7,7.7,Good,Standard,Laptop,Yes,,Medium
+PR3174,34.0,Male,9.4,4.0,,6.9,6.1,4.5,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR3766,53.0,Male,7.1,2.0,2.4,5.6,3.2,0.8,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3245,37.0,Female,7.9,2.0,3.6,7.7,1.7,0.9,Good,Standard,Desktop,No,Student,Low
+PR4263,35.0,Female,9.6,5.0,19.2,6.0,5.1,3.1,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3145,26.0,Male,9.7,2.0,3.7,6.0,7.4,4.1,Poor,Ergonomic,Desktop,No,Student,Medium
+PR3090,51.0,Female,13.5,2.0,2.5,6.2,6.9,4.7,Poor,Standard,Laptop,No,Senior Dev,High
+PR3682,38.0,Female,,4.0,1.1,4.7,6.7,4.3,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3310,25.0,Female,5.3,1.0,4.6,6.9,2.3,0.1,Good,Ergonomic,Laptop,No,Senior Dev,Low
+PR3093,41.0,Female,8.7,5.0,5.8,6.5,2.2,8.9,Good,Standard,Laptop,No,Junior Dev,Medium
+PR4144,33.0,Female,3.9,1.0,2.3,6.0,3.2,4.8,,Standard,Laptop,Yes,Student,Medium
+PR3924,46.0,Male,11.0,2.0,3.0,6.4,2.9,9.2,Poor,Standard,Laptop,No,Freelancer,High
+PR4230,42.0,Female,7.1,1.0,0.6,6.4,6.6,5.2,Good,Ergonomic,Desktop,No,,Low
+PR4035,38.0,Male,9.4,2.0,11.9,6.7,4.5,4.1,,Standard,Desktop,Yes,Junior Dev,Medium
+PR3243,31.0,Male,5.6,2.0,0.3,6.6,2.8,1.7,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3214,54.0,Male,4.2,4.0,0.3,4.5,5.2,4.7,Good,Ergonomic,Laptop,Yes,Junior Dev,Medium
+PR3998,36.0,Female,6.9,1.0,1.7,7.0,7.4,5.4,Poor,Standard,Desktop,No,Senior Dev,High
+PR3853,32.0,Female,8.3,6.0,8.0,7.7,4.4,1.8,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3425,51.0,Male,5.2,4.0,3.4,6.0,4.9,0.7,Poor,Ergonomic,Desktop,Yes,Senior Dev,Medium
+PR4281,,Male,7.7,2.0,2.5,8.3,5.1,1.3,Good,Standard,Laptop,No,Junior Dev,Low
+PR3226,25.0,Female,4.5,6.0,1.5,4.8,4.3,3.7,Poor,Standard,Desktop,Yes,Student,Low
+PR4189,52.0,Male,5.4,2.0,6.9,4.8,5.3,6.4,Poor,Ergonomic,Laptop,No,Freelancer,Low
+PR3000,46.0,Male,9.5,3.0,0.8,5.9,6.7,7.8,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3401,29.0,Female,5.4,3.0,0.6,,6.6,5.8,Good,Standard,Laptop,Yes,Junior Dev,Medium
+PR3084,22.0,Female,6.2,3.0,1.7,6.6,6.5,4.6,,Standard,Desktop,No,Senior Dev,Medium
+PR3162,,Male,7.3,2.0,3.1,6.8,3.7,3.3,Good,Standard,Desktop,No,Freelancer,Medium
+PR3114,49.0,Female,10.0,3.0,4.1,3.6,7.5,4.0,Poor,Ergonomic,Laptop,No,Junior Dev,High
+PR3670,33.0,Female,6.0,0.0,12.9,6.4,4.3,6.6,Poor,Standard,Laptop,No,,Medium
+PR4113,51.0,Male,,4.0,2.7,6.4,4.9,8.3,Poor,Ergonomic,Desktop,No,Student,Medium
+PR3889,25.0,Male,10.4,,1.9,5.9,,4.6,Good,Standard,Desktop,Yes,Junior Dev,Low
+PR3625,20.0,Female,7.3,5.0,7.9,9.4,5.5,6.3,Good,Ergonomic,Desktop,No,Junior Dev,High
+PR3556,53.0,Male,3.3,4.0,,7.6,6.5,3.9,Poor,Standard,Desktop,No,Freelancer,Low
+PR3952,34.0,Male,3.4,4.0,14.1,8.4,3.8,0.6,Poor,Ergonomic,Desktop,No,Student,Low
+PR3807,30.0,Male,6.1,1.0,2.7,5.6,4.9,9.5,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3258,51.0,Male,10.1,0.0,1.2,,6.1,,Poor,Standard,Desktop,No,Freelancer,High
+PR3624,51.0,Male,7.8,3.0,11.1,7.4,5.5,1.5,Poor,Standard,Laptop,No,Student,Low
+PR3826,29.0,Female,5.4,0.0,0.9,6.8,5.8,1.9,,Ergonomic,Laptop,No,Student,Low
+PR3234,35.0,Male,6.4,3.0,1.8,6.6,6.4,7.9,Poor,Standard,Desktop,No,Junior Dev,High
+PR3135,45.0,Female,6.4,2.0,4.6,9.3,6.3,0.2,Poor,Ergonomic,Laptop,No,Freelancer,Low
+PR3616,,Male,,4.0,,6.5,3.2,9.6,Poor,Standard,Laptop,No,Freelancer,High
+PR3836,47.0,Female,10.2,4.0,4.8,6.6,5.9,0.7,Good,Standard,Desktop,No,Freelancer,High
+PR3842,31.0,Male,9.7,3.0,4.0,6.1,2.5,2.2,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3959,46.0,Male,,2.0,0.8,7.7,5.4,4.4,Good,Standard,Laptop,No,Student,Medium
+PR3592,50.0,Male,6.2,1.0,2.0,5.7,4.8,6.3,Poor,Standard,Laptop,No,Junior Dev,High
+PR3343,43.0,Male,7.8,1.0,3.5,10.0,5.2,7.6,Poor,Ergonomic,Laptop,No,Freelancer,High
+PR4202,50.0,Female,10.7,4.0,1.1,6.6,3.3,3.7,Good,Standard,Desktop,No,Freelancer,Medium
+PR3293,19.0,Female,3.3,3.0,5.3,6.3,2.6,6.5,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3364,39.0,Male,8.3,0.0,3.4,7.2,5.7,5.9,Poor,Standard,Laptop,No,Senior Dev,High
+PR3178,23.0,Female,6.9,1.0,2.8,,6.3,,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3659,41.0,Female,6.0,4.0,2.7,6.5,4.6,1.1,Good,Standard,Laptop,No,Student,Low
+PR3996,27.0,Male,,6.0,2.8,7.1,7.1,8.9,Poor,Standard,Laptop,No,Student,High
+PR3014,41.0,Female,9.1,4.0,9.9,7.4,,6.6,Good,Ergonomic,Laptop,No,Senior Dev,High
+PR4110,28.0,Male,9.1,3.0,4.2,6.5,8.4,7.2,Poor,Standard,Laptop,Yes,,High
+PR3165,18.0,Female,9.4,0.0,8.5,6.0,8.1,7.5,,Standard,Laptop,No,Senior Dev,High
+PR3059,25.0,Male,7.1,1.0,2.1,6.2,5.2,5.9,Poor,Standard,Desktop,No,,Medium
+PR3709,31.0,Female,6.6,3.0,2.6,4.6,3.5,0.2,Poor,Ergonomic,Desktop,No,,Medium
+PR3676,49.0,Male,10.1,1.0,1.3,4.2,7.9,6.9,Good,Standard,Laptop,No,Junior Dev,High
+PR3780,28.0,Male,9.3,3.0,5.1,9.9,3.9,1.0,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR3424,43.0,Female,8.9,4.0,2.3,6.5,5.9,4.0,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3292,40.0,Male,10.2,4.0,2.7,5.3,5.4,6.6,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4065,34.0,Male,6.5,2.0,3.5,6.3,5.0,1.7,Good,Ergonomic,Laptop,No,Freelancer,Medium
+PR4302,30.0,Male,3.6,5.0,,7.3,5.4,5.3,Poor,Standard,Desktop,No,Junior Dev,Low
+PR3329,25.0,Female,7.2,5.0,0.3,5.8,5.1,7.0,Good,Standard,Desktop,No,Student,Medium
+PR3429,46.0,Female,6.9,,7.0,5.1,6.2,9.5,Good,Standard,Desktop,Yes,Student,High
+PR4012,54.0,Male,7.6,2.0,0.4,7.4,,2.4,Poor,Standard,Desktop,No,,Low
+PR3079,34.0,Female,9.1,1.0,1.3,5.0,6.5,0.8,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4052,54.0,Female,5.3,4.0,0.6,,3.6,0.5,Poor,Standard,Laptop,Yes,Student,Low
+PR3937,38.0,Male,8.7,5.0,0.8,8.4,7.2,6.5,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3834,54.0,Female,3.0,3.0,1.6,6.0,4.6,4.5,Poor,Standard,Desktop,No,Student,Low
+PR3749,23.0,Female,9.9,4.0,4.9,7.0,6.3,5.7,Poor,Ergonomic,Desktop,Yes,Student,Low
+PR3890,22.0,Female,9.0,2.0,3.1,5.0,3.8,3.2,Good,Ergonomic,Desktop,No,Senior Dev,Medium
+PR3254,47.0,Male,11.1,2.0,0.5,6.4,5.5,4.7,Poor,Standard,Laptop,No,Student,High
+PR4215,46.0,Male,10.1,1.0,3.2,8.3,4.4,5.4,Good,Standard,Desktop,No,Junior Dev,High
+PR4108,38.0,Male,5.6,4.0,0.7,6.0,3.6,6.6,Good,Standard,Laptop,No,Student,Low
+PR3136,42.0,Male,2.4,1.0,4.5,6.6,4.3,9.4,Poor,Ergonomic,Laptop,No,Senior Dev,High
+PR4135,54.0,Female,6.4,,1.9,6.0,1.4,3.5,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR3852,40.0,Female,10.3,2.0,5.6,6.1,6.7,0.8,Poor,Standard,Desktop,No,Junior Dev,High
+PR3723,32.0,Female,4.4,5.0,9.7,9.0,1.8,8.2,Poor,Standard,Laptop,Yes,Student,Medium
+PR3859,31.0,Male,2.1,5.0,0.9,6.6,2.6,2.4,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3969,45.0,Female,9.0,4.0,2.7,5.9,4.5,2.0,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3496,46.0,Female,8.3,2.0,1.2,5.4,6.1,0.8,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3950,51.0,Female,9.4,5.0,2.6,5.5,6.2,0.4,Good,Standard,Desktop,No,Student,Medium
+PR3805,27.0,Male,5.8,4.0,0.4,7.7,4.5,,Poor,Standard,Laptop,No,Student,Medium
+PR3129,23.0,Female,6.8,1.0,7.5,7.8,5.9,6.7,Good,Ergonomic,Laptop,Yes,Student,Low
+PR3337,30.0,Male,8.7,5.0,2.1,5.5,,0.8,Good,Standard,Laptop,Yes,Student,Low
+PR3259,38.0,Female,,3.0,0.8,8.0,4.2,8.0,Good,Ergonomic,Laptop,Yes,Junior Dev,Medium
+PR3608,27.0,Female,6.2,5.0,1.6,5.5,3.2,4.1,Good,Standard,Laptop,No,Student,Low
+PR4148,48.0,Female,6.1,2.0,1.6,6.0,3.6,4.0,Poor,Standard,Laptop,Yes,Student,Medium
+PR3195,49.0,Male,10.2,7.0,0.8,5.5,5.7,6.1,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3909,29.0,Female,8.7,3.0,1.4,6.3,3.1,8.4,Poor,Standard,Laptop,Yes,Junior Dev,Medium
+PR3584,49.0,Male,5.1,2.0,5.1,9.2,5.3,5.7,Good,Ergonomic,Laptop,No,Junior Dev,Low
+PR3103,20.0,Female,5.0,5.0,1.7,7.3,5.7,2.2,Good,,Laptop,No,Junior Dev,Low
+PR4346,36.0,Female,8.9,1.0,,6.9,4.1,2.9,Good,Standard,Desktop,No,Freelancer,Medium
+PR4360,49.0,Male,3.5,4.0,8.0,6.2,4.1,2.5,Poor,,Laptop,No,Junior Dev,Low
+PR3719,20.0,Female,5.9,1.0,2.1,4.7,8.2,3.5,Good,Standard,Laptop,Yes,Student,Medium
+PR3884,48.0,Female,4.0,2.0,8.4,6.8,6.0,3.1,Good,Standard,Desktop,Yes,Freelancer,High
+PR3776,23.0,Male,10.0,3.0,1.5,5.1,5.9,5.2,,Standard,Desktop,No,Student,High
+PR3849,31.0,Female,1.7,1.0,5.7,8.5,3.0,7.0,Poor,Ergonomic,Laptop,No,Junior Dev,High
+PR3894,,Female,5.4,1.0,2.5,7.3,5.8,9.9,Good,Ergonomic,Desktop,Yes,Senior Dev,High
+PR3227,53.0,Female,3.6,4.0,5.6,6.6,6.3,8.9,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR4370,39.0,Female,8.8,3.0,4.7,7.3,4.9,3.4,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3126,39.0,Male,4.5,5.0,22.1,7.8,6.1,3.1,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3405,54.0,Male,5.4,4.0,11.5,9.3,9.3,8.7,Poor,Standard,Laptop,Yes,Student,Low
+PR3775,32.0,Female,,3.0,1.4,7.9,,5.4,Good,Ergonomic,Laptop,Yes,Student,Low
+PR3821,22.0,Male,,6.0,0.4,6.7,5.2,4.2,Poor,Ergonomic,Desktop,Yes,,Low
+PR3711,45.0,Male,7.3,2.0,0.3,8.3,3.7,0.9,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR4374,,Female,6.1,,9.7,8.5,5.9,3.9,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR4060,27.0,Male,7.2,2.0,4.1,7.8,6.9,9.3,Good,Standard,Laptop,No,Junior Dev,High
+PR4163,49.0,Female,5.3,4.0,0.9,8.7,4.8,7.0,Poor,Standard,Laptop,Yes,Junior Dev,Low
+PR3303,42.0,Female,5.8,7.0,2.8,7.7,3.5,2.3,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3267,52.0,Female,7.9,,,5.8,5.5,7.9,Poor,Ergonomic,Desktop,No,Freelancer,Medium
+PR3545,28.0,Female,4.6,3.0,1.0,7.0,5.1,4.2,Poor,Standard,Desktop,Yes,Freelancer,Medium
+PR3212,29.0,Male,3.6,3.0,5.5,6.1,7.8,6.1,Poor,,Laptop,No,Junior Dev,Medium
+PR3896,48.0,Male,5.2,4.0,,7.2,3.6,1.5,Poor,Standard,Desktop,Yes,Student,Low
+PR3916,53.0,Female,12.9,3.0,0.7,,6.8,9.9,Poor,Standard,Laptop,No,Senior Dev,High
+PR3675,20.0,Female,7.2,4.0,1.3,8.1,4.5,7.3,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3814,26.0,Male,3.5,,0.7,8.2,4.5,7.3,Good,Standard,Desktop,No,Senior Dev,Low
+PR3342,45.0,Male,5.8,3.0,2.8,4.2,5.8,6.3,,Standard,Desktop,No,Senior Dev,High
+PR3549,,Male,4.6,2.0,1.2,,5.5,7.5,Poor,Ergonomic,Laptop,Yes,Freelancer,High
+PR3966,37.0,Male,6.8,5.0,4.6,7.4,5.4,7.3,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3295,19.0,Female,7.0,5.0,4.4,6.9,,3.2,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3695,43.0,Male,8.9,6.0,6.7,8.2,4.0,6.4,Poor,Ergonomic,Laptop,No,,Medium
+PR3073,26.0,Male,7.8,4.0,9.2,5.8,3.2,8.6,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3605,54.0,Male,7.4,2.0,1.9,5.3,3.9,8.5,Poor,Standard,Desktop,No,Student,High
+PR3104,18.0,Female,3.6,2.0,,5.3,3.6,8.0,Poor,Standard,Desktop,Yes,Student,Low
+PR3645,51.0,Male,5.7,4.0,3.8,8.3,5.2,7.2,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR4284,29.0,Male,4.0,4.0,2.0,7.5,4.3,5.4,Poor,Standard,Laptop,Yes,Student,Low
+PR4040,35.0,Male,5.0,3.0,2.2,5.9,6.1,8.7,Good,Standard,Desktop,Yes,Student,Low
+PR3439,52.0,Male,2.0,3.0,4.4,8.7,5.5,6.8,Poor,Standard,Laptop,Yes,Student,Low
+PR4019,49.0,Male,1.7,3.0,4.8,7.4,3.8,2.1,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3091,50.0,Female,6.8,3.0,2.5,7.2,4.8,8.7,Poor,Standard,Laptop,No,Junior Dev,High
+PR4112,52.0,Male,5.1,3.0,6.7,7.3,5.4,4.7,Poor,Ergonomic,Desktop,No,Student,Low
+PR4277,20.0,Female,5.1,2.0,1.7,5.9,5.2,5.2,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3908,43.0,Male,7.5,2.0,3.3,5.9,5.6,8.8,Good,Standard,Laptop,Yes,Junior Dev,High
+PR3102,31.0,Male,2.9,2.0,,6.1,2.4,8.1,Poor,Standard,Desktop,Yes,Student,Medium
+PR3238,33.0,Male,6.9,3.0,1.2,6.6,5.7,2.9,Good,Standard,Desktop,Yes,Junior Dev,Medium
+PR4241,41.0,Male,6.8,6.0,3.7,5.5,3.5,1.9,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3942,52.0,Female,4.9,1.0,5.2,6.4,0.5,0.9,Good,Ergonomic,Desktop,No,Junior Dev,Low
+PR3938,,Male,4.8,4.0,4.8,7.8,2.3,3.7,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR4181,48.0,Female,7.5,2.0,3.5,4.0,5.0,7.8,Good,Standard,Laptop,No,Student,Medium
+PR3005,40.0,Male,8.4,2.0,1.5,6.2,3.9,8.3,Poor,Standard,Desktop,No,Junior Dev,High
+PR4322,22.0,Male,9.8,2.0,3.6,5.9,4.5,4.7,Good,Standard,Desktop,Yes,Freelancer,Medium
+PR3965,34.0,Male,6.2,2.0,1.7,6.1,3.1,6.3,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3018,50.0,Male,7.6,2.0,5.0,6.4,6.4,2.3,Good,Standard,Laptop,No,Freelancer,High
+PR3121,46.0,Female,6.9,1.0,12.0,7.1,5.8,0.3,Poor,Standard,Desktop,Yes,Student,High
+PR3661,51.0,Male,12.9,2.0,0.5,4.8,5.8,6.0,Good,Standard,Desktop,No,Student,High
+PR4229,54.0,Male,6.7,1.0,5.3,5.0,3.6,8.7,Good,Standard,Laptop,Yes,Freelancer,Medium
+PR3274,,Male,,4.0,2.0,8.0,7.2,9.5,Good,,Desktop,No,Student,Medium
+PR3433,53.0,Male,6.9,2.0,0.7,8.4,7.3,1.0,Poor,Standard,Desktop,No,Junior Dev,Low
+PR3811,54.0,Female,7.2,2.0,0.6,8.0,4.0,8.3,Good,Ergonomic,Laptop,Yes,Junior Dev,Low
+PR4361,53.0,Male,8.7,4.0,2.6,6.9,1.0,4.9,Poor,Ergonomic,Laptop,Yes,Junior Dev,Low
+PR4375,29.0,Male,,3.0,0.8,8.3,,1.3,Poor,Standard,Desktop,No,Student,Low
+PR3181,33.0,Male,7.7,4.0,1.6,7.4,4.6,1.2,,Standard,Laptop,No,Student,Low
+PR3184,23.0,Male,7.4,3.0,3.1,6.6,2.8,6.6,Poor,Ergonomic,Desktop,No,Junior Dev,Medium
+PR3406,29.0,Female,3.6,4.0,1.8,6.2,3.4,0.7,Poor,Standard,Laptop,No,Student,Low
+PR3865,32.0,Male,5.5,3.0,4.6,8.3,2.5,7.2,Poor,Standard,Laptop,Yes,Junior Dev,Low
+PR3520,18.0,Female,7.1,4.0,1.2,9.9,2.4,2.0,Good,Ergonomic,Laptop,No,Junior Dev,Low
+PR4003,49.0,Female,,1.0,2.2,4.7,6.7,9.7,Poor,Standard,Laptop,No,Student,High
+PR3380,40.0,Female,,1.0,10.3,5.8,5.3,4.0,Good,Standard,Desktop,No,Junior Dev,Medium
+PR3427,21.0,Female,4.5,4.0,0.2,,5.4,3.5,Poor,Standard,Desktop,Yes,Junior Dev,Low
+PR3078,28.0,Male,7.3,4.0,1.4,4.6,5.8,5.5,Poor,Standard,Laptop,No,Student,High
+PR4009,41.0,Female,4.4,3.0,10.6,5.7,2.8,7.7,,Ergonomic,Laptop,No,Senior Dev,Low
+PR3531,,Female,,3.0,1.9,7.5,5.6,8.4,Good,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3607,27.0,Male,6.6,6.0,,5.8,3.8,8.2,Good,Standard,Desktop,No,Senior Dev,Medium
+PR4296,35.0,Male,5.4,6.0,1.2,6.4,2.2,4.6,,Standard,Laptop,No,Student,Low
+PR3292,40.0,Male,10.2,4.0,2.7,5.3,5.4,6.6,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4328,48.0,Male,4.9,2.0,4.5,,3.8,4.8,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR4057,39.0,Female,3.4,3.0,11.7,5.7,7.1,3.6,Poor,Ergonomic,Laptop,No,Student,Low
+PR4091,44.0,Male,4.2,1.0,6.5,6.9,6.5,6.0,Good,Ergonomic,Laptop,No,Student,Low
+PR4101,38.0,Male,7.1,4.0,,6.3,4.5,1.3,Good,Ergonomic,Desktop,No,Student,Medium
+PR4129,34.0,Female,5.2,3.0,5.4,4.9,2.3,2.2,Good,Standard,Desktop,Yes,Junior Dev,High
+PR4235,41.0,Male,7.5,6.0,0.5,6.4,9.7,1.7,Poor,Standard,Desktop,Yes,Student,Low
+PR4283,51.0,Male,3.6,2.0,21.3,6.1,6.4,6.8,Poor,Standard,Laptop,Yes,Student,High
+PR3958,50.0,Male,7.0,2.0,0.6,5.5,2.4,8.1,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3559,45.0,Female,5.3,8.0,1.5,6.9,6.9,9.8,Good,Ergonomic,Laptop,No,Freelancer,Low
+PR3846,42.0,Female,4.9,2.0,4.5,7.0,5.4,8.1,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3690,22.0,Male,7.7,1.0,4.8,6.8,3.7,3.5,Poor,Standard,Desktop,Yes,Junior Dev,High
+PR3919,54.0,Female,8.6,5.0,0.5,8.5,6.4,7.8,Good,Standard,Desktop,No,Student,Medium
+PR4359,37.0,Female,7.2,,3.4,6.0,10.0,9.7,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3436,26.0,Male,1.9,4.0,2.0,6.1,7.3,6.7,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR3490,24.0,Male,8.2,5.0,,6.8,,1.5,Good,Standard,Desktop,Yes,Freelancer,Low
+PR3813,34.0,Male,6.3,4.0,5.3,5.0,4.1,8.3,Good,Standard,Laptop,No,Senior Dev,Medium
+PR4338,30.0,Female,4.7,1.0,0.7,5.8,4.2,0.9,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3069,32.0,Female,6.0,2.0,8.5,7.9,5.6,2.7,Poor,Standard,Desktop,No,Freelancer,Medium
+PR3808,19.0,Male,7.7,1.0,7.5,4.8,6.5,1.5,Good,Standard,Laptop,Yes,Senior Dev,High
+PR4184,35.0,Female,,5.0,2.8,6.2,5.2,6.0,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3011,20.0,Male,5.5,2.0,5.3,6.1,4.8,1.8,Good,Ergonomic,Desktop,No,Student,Medium
+PR3144,44.0,Male,8.9,5.0,3.7,7.8,4.4,4.6,Good,Ergonomic,Laptop,Yes,Senior Dev,Low
+PR3917,21.0,Female,,4.0,4.4,4.6,2.7,7.7,Good,Standard,Desktop,No,Freelancer,High
+PR3639,51.0,Male,4.7,3.0,1.3,3.7,5.9,5.4,Poor,Standard,Laptop,Yes,Junior Dev,Medium
+PR3176,22.0,Male,8.2,6.0,11.8,8.6,4.0,5.0,Poor,Standard,Laptop,No,Freelancer,Low
+PR3994,20.0,Female,11.3,1.0,0.4,6.2,6.6,3.5,Poor,Standard,Laptop,No,Freelancer,High
+PR3440,53.0,Female,7.6,2.0,3.8,6.3,,7.6,Poor,Ergonomic,Laptop,Yes,Senior Dev,Low
+PR3521,20.0,Female,3.7,1.0,,4.8,5.3,5.5,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3534,,Female,6.4,1.0,23.2,6.4,6.4,9.6,Poor,Ergonomic,Desktop,Yes,Student,High
+PR4004,24.0,Male,6.2,5.0,12.5,5.1,3.8,3.7,Poor,Ergonomic,Desktop,No,Freelancer,Low
+PR4255,23.0,Female,5.7,5.0,10.8,5.0,7.1,5.1,Poor,Standard,Laptop,No,Student,High
+PR4234,32.0,Female,5.8,1.0,0.8,6.3,4.0,7.9,Poor,Standard,Laptop,No,Student,High
+PR3143,25.0,Female,8.1,3.0,2.4,5.9,2.3,8.8,Good,Standard,Desktop,Yes,Student,Medium
+PR3753,38.0,Female,,2.0,2.4,,4.0,8.1,Good,Ergonomic,Laptop,No,Junior Dev,High
+PR3519,25.0,Male,8.3,3.0,0.2,6.5,2.9,5.2,Good,Standard,Laptop,No,Junior Dev,Low
+PR3822,31.0,Female,8.6,7.0,6.5,6.8,3.5,1.7,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR3428,28.0,Female,4.8,5.0,3.8,6.0,7.0,6.7,Good,Ergonomic,Desktop,No,Junior Dev,Low
+PR3612,31.0,Male,,1.0,0.6,,,5.1,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR4032,24.0,Female,11.3,3.0,8.9,6.3,5.1,0.1,Poor,Standard,Desktop,Yes,Junior Dev,Medium
+PR3156,54.0,Female,6.7,4.0,0.9,6.6,4.3,3.8,,Standard,Laptop,No,Student,Low
+PR3539,32.0,Male,6.1,4.0,7.2,6.8,3.5,1.0,Poor,Ergonomic,Laptop,No,Student,Low
+PR3461,36.0,Male,6.0,6.0,1.6,3.0,3.6,1.4,Good,Standard,Desktop,Yes,Freelancer,Low
+PR3576,42.0,Female,9.5,1.0,8.7,7.4,4.8,6.6,Poor,,Desktop,Yes,Senior Dev,High
+PR3255,25.0,Male,7.5,3.0,0.4,8.0,7.9,1.1,Good,Standard,Desktop,No,Freelancer,Low
+PR3979,46.0,Male,9.7,4.0,0.9,5.0,,0.9,Poor,Ergonomic,Laptop,No,Junior Dev,Medium
+PR4185,34.0,Female,10.4,4.0,1.6,7.8,3.6,1.8,Poor,Standard,Laptop,Yes,Freelancer,Low
+PR4006,25.0,Female,5.5,5.0,2.9,7.2,4.0,2.0,Poor,Standard,Desktop,No,,Low
+PR3560,45.0,Male,9.6,4.0,3.4,6.6,,8.3,Good,Standard,Laptop,No,Senior Dev,Medium
+PR3208,33.0,Male,4.2,2.0,1.6,6.0,6.6,2.0,Good,Standard,Desktop,No,Student,Low
+PR3910,43.0,Male,7.8,4.0,0.7,6.9,3.5,9.5,Good,Ergonomic,Laptop,No,Junior Dev,Medium
+PR3001,32.0,Male,9.9,2.0,15.3,6.9,2.2,6.0,Good,Standard,Desktop,Yes,Freelancer,Low
+PR3269,45.0,Male,,4.0,9.2,7.6,4.9,0.8,Good,Standard,Laptop,Yes,Junior Dev,Low
+PR3265,36.0,Female,7.8,4.0,2.7,6.2,7.2,2.1,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3914,50.0,Female,3.3,3.0,0.9,6.8,2.9,0.8,Good,Ergonomic,Desktop,No,Senior Dev,Low
+PR3230,42.0,Male,12.1,7.0,8.0,5.9,3.9,9.4,Good,Ergonomic,Laptop,No,Student,Medium
+PR3559,45.0,Female,5.3,8.0,1.5,6.9,6.9,9.8,Good,Ergonomic,Laptop,No,Freelancer,Low
+PR4119,37.0,Female,5.5,4.0,,8.9,1.4,4.1,Good,Ergonomic,Laptop,No,Student,Low
+PR3019,29.0,Male,6.5,2.0,4.7,5.9,4.9,4.4,Poor,,Desktop,No,Junior Dev,Medium
+PR3864,25.0,Male,5.0,1.0,7.7,5.0,3.3,7.8,Poor,Standard,Laptop,No,Junior Dev,High
+PR4066,31.0,Female,10.2,1.0,7.2,6.4,3.9,,Good,Standard,Laptop,No,Student,High
+PR3873,54.0,Male,6.6,2.0,6.6,,7.9,5.8,Poor,Standard,Desktop,No,Senior Dev,High
+PR4306,20.0,Female,5.2,2.0,,7.2,7.0,5.2,Poor,Standard,Laptop,No,Student,Medium
+PR3398,44.0,Male,5.8,3.0,15.7,4.4,5.7,5.3,Poor,Standard,Laptop,No,Junior Dev,High
+PR4331,19.0,Female,9.3,2.0,6.3,7.2,2.4,9.6,Poor,Standard,Laptop,No,Junior Dev,High
+PR3045,53.0,Female,5.9,2.0,8.4,7.6,1.5,3.8,,Standard,Desktop,No,Student,Low
+PR3161,40.0,Male,,5.0,2.4,9.0,3.2,8.9,Poor,Standard,Laptop,Yes,Freelancer,Medium
+PR3991,18.0,Male,12.1,4.0,3.9,7.4,4.8,4.2,Poor,Standard,Desktop,No,Student,High
+PR3727,27.0,Female,7.5,4.0,3.6,6.1,7.3,5.9,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3629,47.0,Male,6.5,0.0,9.0,7.1,4.7,5.6,Good,Standard,Laptop,No,Student,Medium
+PR3288,,Female,9.7,2.0,,5.2,0.7,1.6,Poor,Ergonomic,Desktop,No,Junior Dev,Medium
+PR4059,34.0,Male,,3.0,4.1,6.0,4.9,6.3,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR3613,26.0,Male,6.9,,6.7,6.7,6.9,4.7,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3575,22.0,Male,9.9,5.0,0.6,6.7,5.7,3.5,Poor,,Laptop,Yes,Junior Dev,Medium
+PR3850,49.0,Female,7.9,7.0,0.2,6.4,6.8,1.6,Poor,,Laptop,No,Senior Dev,Low
+PR3911,30.0,Female,8.4,4.0,2.1,4.1,4.5,7.9,Poor,Standard,Desktop,No,Junior Dev,High
+PR4254,20.0,Female,8.2,3.0,0.1,6.1,3.2,9.1,Poor,Standard,Desktop,Yes,Junior Dev,High
+PR4324,40.0,Male,5.9,1.0,,6.2,5.6,8.4,Poor,Standard,Laptop,Yes,Senior Dev,High
+PR3932,43.0,Male,,3.0,1.3,5.6,5.1,3.0,Good,Standard,Laptop,No,Junior Dev,Low
+PR4100,43.0,Male,4.5,6.0,1.2,5.1,6.9,3.1,Good,Standard,Laptop,Yes,Freelancer,Medium
+PR4207,47.0,Male,7.1,5.0,1.0,5.6,2.7,6.8,Poor,Standard,Laptop,No,Student,Low
+PR3247,24.0,Female,8.7,4.0,2.2,6.0,4.8,2.9,Poor,Standard,Laptop,No,Student,Low
+PR3476,40.0,Female,4.2,2.0,0.5,6.3,7.2,0.4,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR3085,45.0,Female,7.5,3.0,0.3,6.1,5.7,2.5,Good,Ergonomic,Laptop,Yes,Student,Low
+PR3469,33.0,Female,6.0,3.0,0.0,9.4,4.5,,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3225,28.0,Male,7.0,4.0,2.7,5.6,4.0,5.6,Poor,Standard,Desktop,No,,Medium
+PR3774,21.0,Male,5.9,3.0,0.6,5.9,1.4,5.2,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3331,21.0,Female,6.3,3.0,1.4,4.5,4.6,0.1,Poor,Standard,Desktop,No,Student,Medium
+PR3233,46.0,Male,8.3,3.0,1.0,,3.7,5.1,Good,Standard,Desktop,No,Junior Dev,Medium
+PR3588,42.0,Male,7.4,7.0,1.6,6.3,4.0,5.2,Poor,Ergonomic,Laptop,No,Student,Low
+PR3475,53.0,Male,9.9,1.0,0.3,7.0,6.1,,Poor,,Desktop,No,Student,Medium
+PR4284,29.0,Male,4.0,4.0,2.0,7.5,4.3,5.4,Poor,Standard,Laptop,Yes,Student,Low
+PR3599,34.0,Male,7.8,5.0,4.8,7.7,,0.2,Poor,Standard,Laptop,No,,Medium
+PR3421,46.0,Female,6.6,5.0,2.6,,5.1,3.1,Good,Standard,Desktop,Yes,Student,Low
+PR3182,50.0,Male,6.0,2.0,0.6,8.2,6.1,1.4,Poor,Standard,Laptop,Yes,Student,Low
+PR3988,45.0,Female,6.6,4.0,3.8,,4.4,6.6,Poor,Ergonomic,Laptop,Yes,Senior Dev,Medium
+PR4000,50.0,Male,3.6,6.0,4.2,6.8,1.3,8.9,,Ergonomic,Laptop,No,Senior Dev,Low
+PR3049,21.0,Female,8.1,,4.3,9.0,7.3,7.1,Good,Standard,Laptop,No,,Medium
+PR4366,39.0,Male,1.9,3.0,7.6,6.4,5.7,4.5,Poor,Standard,Laptop,No,Junior Dev,Low
+PR4029,35.0,Male,9.2,3.0,4.5,5.5,6.8,2.1,Poor,Ergonomic,Desktop,No,Student,Medium
+PR3529,,Male,8.4,1.0,1.5,5.8,5.3,2.0,,Standard,Laptop,Yes,Student,Low
+PR4258,40.0,Male,6.8,0.0,2.7,6.4,7.0,2.7,Poor,Standard,Desktop,Yes,Student,High
+PR3486,29.0,Female,8.6,5.0,5.6,5.7,2.6,6.8,Good,Standard,Laptop,Yes,Student,Low
+PR3497,54.0,Male,7.3,5.0,0.9,5.9,3.9,4.3,Good,Standard,Desktop,Yes,Student,Low
+PR3106,43.0,Male,6.8,1.0,2.2,,5.4,1.9,Good,Standard,Laptop,Yes,Junior Dev,Medium
+PR3443,41.0,Male,4.5,3.0,9.0,6.2,7.3,9.3,Poor,Ergonomic,Desktop,No,Junior Dev,High
+PR3646,50.0,Male,8.9,1.0,2.1,4.9,5.7,5.6,Poor,Standard,Laptop,Yes,Student,Medium
+PR4036,36.0,Female,6.1,3.0,0.3,4.4,4.2,0.4,Good,Standard,Laptop,No,Junior Dev,Low
+PR3726,45.0,Male,7.4,3.0,0.4,5.9,4.6,3.2,Good,Standard,Desktop,No,Senior Dev,Medium
+PR3190,36.0,Female,5.3,1.0,1.6,6.4,6.0,5.1,Poor,Standard,Desktop,Yes,Student,Medium
+PR3282,40.0,Female,11.9,3.0,14.6,5.0,8.3,9.6,Poor,,Desktop,No,Junior Dev,High
+PR3029,38.0,Male,6.9,4.0,2.2,6.1,8.0,8.6,Poor,,Desktop,No,Junior Dev,Medium
+PR3169,49.0,Male,7.9,2.0,2.8,6.5,7.7,0.3,Poor,Standard,Laptop,No,Junior Dev,Low
+PR4001,40.0,Female,7.5,4.0,2.5,5.7,,1.7,Good,Standard,Laptop,No,Senior Dev,Low
+PR4204,19.0,Male,5.5,1.0,3.0,5.9,,4.8,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3100,52.0,Female,9.1,7.0,5.4,,5.2,3.5,Good,Standard,Laptop,No,Senior Dev,Low
+PR3197,50.0,Male,7.8,3.0,4.3,7.8,4.6,6.4,Good,Standard,Laptop,Yes,Freelancer,Medium
+PR3495,22.0,Male,2.7,3.0,3.5,7.6,3.1,9.2,Poor,Standard,Desktop,Yes,Freelancer,Low
+PR3647,,Female,5.0,0.0,0.9,5.8,4.4,9.7,Good,Standard,Laptop,No,Freelancer,High
+PR3987,,Female,3.0,2.0,1.4,7.5,3.8,4.4,Good,Standard,Desktop,Yes,Student,Low
+PR3044,34.0,Male,,2.0,2.5,,4.6,7.1,Good,Standard,Laptop,No,Senior Dev,High
+PR3710,43.0,Male,4.3,1.0,10.8,7.1,6.2,1.1,Poor,Standard,Desktop,No,Senior Dev,High
+PR3373,43.0,Male,7.4,2.0,3.3,7.8,4.2,4.0,Poor,Standard,Desktop,No,Student,High
+PR3678,44.0,Male,5.6,4.0,0.1,9.8,6.7,6.6,Good,Standard,Laptop,Yes,Senior Dev,Low
+PR3566,50.0,Female,7.3,4.0,10.2,5.7,2.2,9.4,Poor,Standard,Laptop,No,Student,Medium
+PR3847,35.0,Female,7.1,4.0,3.1,7.5,4.4,0.0,Poor,Standard,Laptop,No,Senior Dev,Low
+PR3460,29.0,Male,7.5,1.0,1.7,7.5,6.8,8.5,,Standard,Desktop,Yes,Senior Dev,Medium
+PR4155,25.0,Female,10.5,,0.9,6.4,6.4,8.5,Good,Standard,Laptop,No,Junior Dev,Medium
+PR3039,45.0,Male,9.2,4.0,6.2,6.7,7.7,4.4,Good,Ergonomic,Desktop,No,Freelancer,Medium
+PR3434,27.0,Female,9.6,2.0,0.5,8.0,6.1,2.5,Poor,Standard,Desktop,No,Student,Medium
+PR3973,30.0,Female,2.5,1.0,9.6,4.1,6.0,1.0,,Standard,Laptop,Yes,Senior Dev,Medium
+PR4239,54.0,Male,2.8,2.0,6.1,6.5,3.2,3.7,Poor,Ergonomic,Desktop,No,Student,Low
+PR4007,18.0,Female,,2.0,5.3,4.9,3.5,1.1,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR3456,39.0,Female,7.2,3.0,1.3,5.4,5.5,9.2,Poor,Standard,Desktop,No,Junior Dev,High
+PR3260,47.0,Male,5.7,4.0,12.7,5.8,2.5,4.1,Good,Ergonomic,Desktop,No,Freelancer,Low
+PR3035,26.0,Female,7.0,1.0,4.0,5.3,3.0,9.9,Good,Standard,Desktop,No,Student,High
+PR3827,52.0,Female,7.1,5.0,8.6,5.0,5.8,4.9,Poor,Standard,Laptop,No,Student,Medium
+PR3309,18.0,Male,6.6,3.0,19.3,7.3,7.2,4.6,Poor,Ergonomic,Desktop,No,Senior Dev,Low
+PR3276,46.0,Male,8.8,2.0,1.2,7.1,5.1,9.9,Good,Standard,Laptop,Yes,Student,Medium
+PR3636,31.0,Female,7.2,2.0,1.1,5.4,6.0,7.5,Good,Standard,Desktop,No,Junior Dev,High
+PR3654,27.0,Female,5.2,3.0,2.1,6.7,8.4,7.8,Poor,Standard,Desktop,No,Student,Low
+PR3622,25.0,Female,7.9,3.0,3.7,6.7,4.2,3.5,Poor,Standard,Desktop,No,Senior Dev,Low
+PR3844,21.0,Male,4.8,3.0,1.5,5.2,4.5,7.8,Poor,Ergonomic,Desktop,Yes,Student,Medium
+PR3393,41.0,Female,4.2,3.0,4.8,6.8,5.7,1.6,Good,Standard,Desktop,No,Student,Low
+PR3107,31.0,Male,10.9,3.0,5.0,4.6,6.1,7.6,Poor,Ergonomic,Desktop,No,Student,High
+PR3349,18.0,Female,6.5,1.0,8.4,8.1,4.0,8.1,Good,Ergonomic,Desktop,Yes,Freelancer,Medium
+PR3524,42.0,Male,12.1,4.0,0.2,6.0,4.8,7.9,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3784,23.0,Male,4.3,4.0,,4.7,6.8,9.3,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3047,19.0,Male,4.6,1.0,4.5,7.4,4.2,0.9,Poor,Standard,Laptop,Yes,Senior Dev,Low
+PR3203,40.0,Female,8.4,6.0,3.6,6.3,5.0,5.6,Good,Standard,Laptop,No,Student,Low
+PR3021,42.0,Female,8.6,5.0,1.2,6.0,3.0,6.0,Poor,Ergonomic,Desktop,No,Junior Dev,Low
+PR3402,52.0,Male,7.7,3.0,1.6,7.7,2.8,9.9,Good,Standard,Laptop,Yes,Junior Dev,High
+PR4107,46.0,Male,4.9,2.0,5.9,6.7,6.9,5.3,Good,Standard,Laptop,No,Junior Dev,Medium
+PR4154,23.0,Female,9.1,2.0,3.6,6.9,6.7,7.7,Poor,Standard,Laptop,No,Junior Dev,High
+PR3989,47.0,Male,4.6,2.0,6.5,6.9,,3.4,Poor,Ergonomic,Laptop,Yes,Freelancer,Medium
+PR3741,39.0,Female,8.3,5.0,1.8,6.8,4.6,0.6,Good,Standard,Desktop,Yes,Student,Low
+PR4310,50.0,Male,10.1,1.0,3.3,6.8,4.2,5.7,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR4147,,Male,6.3,1.0,2.8,8.4,8.2,9.9,Poor,Ergonomic,Desktop,Yes,Senior Dev,Medium
+PR3033,,Male,6.3,2.0,,5.4,4.1,0.9,,Ergonomic,Laptop,Yes,Student,Low
+PR3787,36.0,Male,8.4,5.0,11.5,5.5,6.5,2.7,Good,Standard,Laptop,No,Student,Low
+PR3923,26.0,Male,8.9,2.0,1.2,5.6,7.0,5.2,Good,Standard,Laptop,Yes,Student,High
+PR4043,22.0,Female,8.9,3.0,6.0,,5.7,0.7,Poor,Standard,Desktop,No,Student,Low
+PR3236,19.0,Male,6.6,1.0,0.8,6.7,6.9,,Good,Standard,Desktop,No,,High
+PR4243,30.0,Female,4.3,1.0,0.1,6.0,3.7,6.6,Poor,Standard,Laptop,Yes,Student,Medium
+PR3579,,Female,8.5,,2.9,8.0,5.9,1.0,Poor,Standard,Desktop,No,Student,Low
+PR3481,52.0,Male,9.7,3.0,3.2,6.7,5.0,8.9,Good,Ergonomic,Laptop,No,Senior Dev,High
+PR3931,38.0,Female,8.1,3.0,6.0,,2.5,5.9,Poor,Ergonomic,Desktop,No,Senior Dev,High
+PR3356,22.0,Female,8.8,3.0,10.1,7.5,3.1,4.0,Poor,Standard,Laptop,No,Freelancer,Low
+PR4248,25.0,Female,6.1,1.0,7.6,7.7,5.9,2.0,Good,Standard,Desktop,No,Freelancer,High
+PR3759,47.0,Male,2.5,4.0,1.5,5.7,4.1,,Poor,Standard,Desktop,Yes,Senior Dev,Low
+PR3092,40.0,Female,4.9,2.0,8.3,6.1,4.8,0.5,Poor,Standard,Desktop,No,Student,Medium
+PR4175,24.0,Male,1.7,1.0,6.1,8.6,7.7,5.2,Poor,Standard,Desktop,No,Junior Dev,Low
+PR4341,,Male,8.8,1.0,0.1,7.9,4.7,3.6,Poor,Standard,Laptop,Yes,Student,Low
+PR3803,22.0,Male,7.7,1.0,6.5,6.8,7.7,8.3,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3745,54.0,Male,7.8,,4.7,7.2,5.0,0.7,Good,Standard,Laptop,No,Senior Dev,Low
+PR3279,50.0,Male,5.2,,2.1,5.6,,2.1,,Standard,Desktop,Yes,Junior Dev,Low
+PR3764,48.0,Male,6.8,1.0,6.0,8.9,4.3,3.9,Good,Standard,Laptop,No,Senior Dev,Low
+PR3604,,Male,2.8,5.0,11.0,7.6,2.0,2.2,Poor,Ergonomic,Laptop,No,Junior Dev,Low
+PR3167,19.0,Female,13.5,0.0,2.1,7.3,6.5,4.2,Poor,Standard,Laptop,Yes,Student,High
+PR4373,31.0,Male,9.0,3.0,0.9,4.5,5.9,2.8,Poor,Standard,Laptop,No,Junior Dev,Medium
+PR4398,46.0,Female,6.5,2.0,6.7,6.9,4.2,5.9,Good,Ergonomic,Desktop,No,Senior Dev,High
+PR3400,41.0,Male,6.2,3.0,0.0,,5.3,1.4,,Ergonomic,Laptop,Yes,Junior Dev,Low
+PR3257,44.0,Male,4.9,1.0,0.9,8.2,6.9,2.5,Poor,Standard,Laptop,Yes,Senior Dev,Medium
+PR3944,43.0,Male,7.1,3.0,0.0,7.8,7.7,5.0,Good,Standard,Desktop,No,Freelancer,Low
+PR4096,29.0,Male,8.9,3.0,2.9,4.3,7.0,5.2,Poor,Ergonomic,Desktop,No,Junior Dev,Medium
+PR4219,42.0,Female,10.5,2.0,1.0,6.9,4.0,3.9,,Standard,Laptop,No,Junior Dev,Medium
+PR4161,43.0,Male,4.0,2.0,,7.6,5.2,8.4,Good,Standard,Laptop,No,Senior Dev,Low
+PR3494,19.0,Female,3.2,4.0,6.8,6.3,5.5,2.4,,Standard,Desktop,No,Student,Low
+PR3772,45.0,Female,6.1,6.0,1.4,6.4,7.1,4.4,Poor,Standard,Laptop,Yes,Junior Dev,Low
+PR3550,25.0,Male,6.0,3.0,2.4,6.8,2.4,,Poor,Standard,Laptop,No,Student,Low
+PR3201,45.0,Female,,2.0,3.7,5.3,5.2,2.4,Poor,Standard,Desktop,No,Senior Dev,Medium
+PR3312,31.0,Male,5.6,6.0,2.1,4.5,6.5,0.6,Poor,Ergonomic,Laptop,No,Senior Dev,Low
+PR3290,49.0,Male,,4.0,3.3,,6.8,2.7,Poor,Standard,Desktop,Yes,Junior Dev,Medium
+PR4213,52.0,Female,4.8,1.0,2.4,7.0,5.3,5.4,Poor,Ergonomic,Laptop,No,Senior Dev,Medium
+PR3763,20.0,Male,9.7,3.0,0.7,7.2,4.3,8.7,Good,Standard,Laptop,No,Student,High
+PR4136,47.0,Male,6.0,,0.7,7.7,4.3,9.8,Good,Standard,Desktop,No,Senior Dev,Low
+PR3949,44.0,Male,,1.0,1.9,8.5,6.6,0.5,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3183,26.0,Female,7.1,1.0,5.0,7.2,8.2,6.6,Good,Standard,Laptop,No,Senior Dev,High
+PR4176,26.0,Female,6.8,,2.4,5.6,4.5,3.3,Good,Standard,Desktop,No,Senior Dev,Low
+PR4349,27.0,Male,,0.0,5.0,6.6,4.1,7.3,Poor,Standard,Desktop,No,Junior Dev,High
+PR4068,19.0,Male,6.6,4.0,4.7,6.1,3.2,9.6,Good,Standard,Laptop,No,Senior Dev,High
+PR4030,24.0,Female,12.1,4.0,0.3,4.3,6.0,0.8,Poor,Standard,Laptop,No,Freelancer,Medium
+PR3250,50.0,Female,6.7,3.0,2.9,5.7,1.7,9.5,Poor,Standard,Laptop,No,Junior Dev,High
+PR3823,28.0,Female,5.6,4.0,1.8,3.9,5.2,3.6,Poor,Standard,Laptop,No,Freelancer,High
+PR4099,34.0,Male,,2.0,2.0,7.0,6.1,6.5,Good,Ergonomic,Laptop,Yes,Student,Medium
+PR3940,27.0,Male,6.4,3.0,1.4,5.0,5.5,0.1,Good,Standard,Desktop,No,Junior Dev,Low
+PR3391,21.0,Male,5.3,1.0,4.7,5.2,1.6,5.1,Good,Standard,Laptop,Yes,Junior Dev,High
+PR4092,48.0,Female,,3.0,0.8,6.3,3.8,1.8,Poor,Standard,Laptop,Yes,Freelancer,Medium
+PR4191,20.0,Female,7.6,5.0,2.4,6.7,4.1,7.7,Poor,Standard,Laptop,No,Junior Dev,Low
+PR3904,27.0,Male,9.7,0.0,2.7,10.0,5.9,0.9,Good,Standard,Laptop,No,Junior Dev,Low
+PR3730,43.0,Female,7.6,,9.2,7.2,3.4,0.9,Good,Standard,Laptop,No,Junior Dev,Low
+PR3554,25.0,Male,8.3,4.0,12.2,4.7,5.7,,Poor,Standard,Laptop,No,Senior Dev,High
+PR3366,31.0,Female,5.9,,2.8,7.4,1.3,2.6,Good,Standard,Laptop,No,Student,Low
+PR3345,43.0,Female,8.3,6.0,0.2,7.4,5.9,8.5,Good,Standard,Laptop,No,,Medium
+PR3535,36.0,Female,7.0,1.0,2.2,5.3,4.1,3.8,Poor,Standard,Desktop,No,Junior Dev,Medium
+PR3108,44.0,Female,,8.0,7.9,7.3,7.5,0.9,Good,Standard,Laptop,No,Junior Dev,Low
+PR4209,30.0,Male,,,6.4,,6.8,9.8,Poor,Ergonomic,Laptop,No,Junior Dev,Medium
+PR4372,35.0,Female,9.4,4.0,2.2,5.2,5.6,3.1,Poor,Ergonomic,Laptop,No,Student,High
+PR3919,54.0,Female,8.6,5.0,0.5,8.5,6.4,7.8,Good,Standard,Desktop,No,Student,Medium
+PR3211,,Male,10.4,2.0,2.8,7.5,3.9,,Good,Standard,Desktop,Yes,Junior Dev,Medium
+PR3502,34.0,Male,4.1,5.0,0.7,6.6,3.6,9.7,Poor,Standard,Laptop,No,Senior Dev,Medium
+PR3537,35.0,Male,5.0,3.0,5.0,5.7,4.0,2.8,Poor,Standard,Desktop,Yes,Freelancer,Medium
+PR4220,37.0,Female,,5.0,2.6,7.0,4.8,5.0,Poor,Standard,Laptop,No,Student,Low
+PR3175,41.0,Male,6.6,0.0,6.7,5.4,4.1,4.1,Good,Standard,Desktop,No,Junior Dev,High
